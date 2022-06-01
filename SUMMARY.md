@@ -21,6 +21,7 @@
   * [ℹ Metamask Setup](use-phi-smart-chain/wallet-setup/metamask-setup.md)
   * [ℹ Token Pocket Setup](use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
   * [ℹ Coinbase Setup](use-phi-smart-chain/wallet-setup/coinbase-setup.md)
+* [Connect With Chainlist](use-phi-smart-chain/connect-with-chainlist.md)
 * [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)
   * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/transaction-fees/smart-chain-gas-fees.md)
 
