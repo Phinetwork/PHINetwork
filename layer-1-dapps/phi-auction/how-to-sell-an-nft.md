@@ -1,2 +1,2 @@
-# 📲 How To Sell An NFT?
+# 💲 How To Sell An NFT?
 

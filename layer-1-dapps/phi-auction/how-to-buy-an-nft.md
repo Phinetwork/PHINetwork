@@ -1,2 +1,2 @@
-# 💲 How To Buy An NFT?
+# 📲 How To Buy An NFT?
 
