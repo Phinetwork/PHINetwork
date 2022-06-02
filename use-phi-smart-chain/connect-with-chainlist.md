@@ -1,4 +1,4 @@
-# Connect With Chainlist
+# 🔌 Connect With Chainlist
 
 Connect With Chainlist ​[PHI Network](broken-reference) has integrated with [Chainlist](https://chainlist.org/), and you can use their platform as an easy way to setup your [wallet](../glossary.md#w), without having to manually input the connection details. Follow the steps below for an easy walk-through.
 

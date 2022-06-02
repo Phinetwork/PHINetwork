@@ -21,7 +21,7 @@
   * [ℹ Metamask Setup](use-phi-smart-chain/wallet-setup/metamask-setup.md)
   * [ℹ Token Pocket Setup](use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
   * [ℹ Coinbase Setup](use-phi-smart-chain/wallet-setup/coinbase-setup.md)
-* [Connect With Chainlist](use-phi-smart-chain/connect-with-chainlist.md)
+* [🔌 Connect With Chainlist](use-phi-smart-chain/connect-with-chainlist.md)
 * [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)
   * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/transaction-fees/smart-chain-gas-fees.md)
 
@@ -46,6 +46,7 @@
   * [🎇 How To Connect To Phitoken App?](layer-1-dapps/phitoken-protocol/how-to-connect-to-phitoken-app.md)
   * [💰 How To Mint A New PHI20 Token?](layer-1-dapps/phitoken-protocol/how-to-mint-a-new-phi20-token.md)
   * [ℹ How To Find Minted Tokens Info?](layer-1-dapps/phitoken-protocol/how-to-find-minted-tokens-info.md)
+* [🤝 PHI Auction](layer-1-dapps/phi-auction.md)
 
 ## Layer 2 Hybrid Dapps
 
