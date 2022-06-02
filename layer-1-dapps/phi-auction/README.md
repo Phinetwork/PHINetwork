@@ -1,10 +1,12 @@
 ---
-description: NFT Marketplace
+description: >-
+  On-Chain Asset Creation & Management, Mint, Buy, Sell, Trade PHI NFT
+  Noncustodial Marketplace.
 ---
 
 # 🤝 PHI Auction
 
-[PHI Auction](https://phi.auction) is a decentralized marketplace that **allows users to easily mint, buy and sell** [**non-fungible assets**](../../glossary.md#n) **** built for PHI Smart Chain Cutting Edge Blockchain Technology Allowing Online Asset Trade & Management Without slow transactions & high fees.&#x20;
+[PHI Auction](https://phi.auction) is a decentralized marketplace that **allows users to easily mint, buy and sell** [**non-fungible assets**](../../glossary.md#n) **** built for PHI Smart Chain Cutting Edge Blockchain Technology Online Asset Trade & Management Near Instant Transaction Times & Lowest Transaction Fees.&#x20;
 
 [Get Started ](https://phi.auction)
 
