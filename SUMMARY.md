@@ -51,6 +51,9 @@
   * [⛏ How To Mint A New NFT?](layer-1-dapps/phi-auction/how-to-mint-a-new-nft.md)
   * [💲 How To Sell An NFT?](layer-1-dapps/phi-auction/how-to-sell-an-nft.md)
   * [📲 How To Buy An NFT?](layer-1-dapps/phi-auction/how-to-buy-an-nft.md)
+  * [⏭ How To Send An NFT?](layer-1-dapps/phi-auction/how-to-send-an-nft.md)
+  * [⏮ How To Receive An NFT?](layer-1-dapps/phi-auction/how-to-receive-an-nft.md)
+  * [🇻🇳 How To View NFT In Wallet?](layer-1-dapps/phi-auction/how-to-view-nft-in-wallet.md)
 
 ## Layer 2 Hybrid Dapps
 

@@ -8,5 +8,10 @@ description: NFT Marketplace
 
 [Get Started ](https://phi.auction)
 
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-connect-to-phi-auction" %}
 
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-mint-a-new-nft" %}
 
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-sell-an-nft" %}
+
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-buy-an-nft" %}

@@ -1,3 +1,3 @@
 # 🖼 Create a NFT Collection
 
-{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction" %}
+We apologise but this tutorial is under construction and will be available soon. Please come back in a few days.
