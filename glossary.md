@@ -62,6 +62,8 @@
 
 **Non-Custodial Wallet -** you have sole control of your private keys, which in turn control your cryptocurrency and prove the funds are yours. With a custodial wallet, another party controls your private keys. Most custodial wallets these days are web-based exchange wallets.
 
+**Non-Fungible Token (NFT)** - A non-fungible token is a financial security consisting of digital data stored in a blockchain, a form of distributed ledger. The ownership of an NFT is recorded in the blockchain, and can be transferred by the owner, allowing NFTs to be sold and traded.
+
 ## P
 
 **PHI20** - Is a programming standard for fungible blockchain based assets, usually called tokens.

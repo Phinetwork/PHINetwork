@@ -46,7 +46,10 @@
   * [🎇 How To Connect To Phitoken App?](layer-1-dapps/phitoken-protocol/how-to-connect-to-phitoken-app.md)
   * [💰 How To Mint A New PHI20 Token?](layer-1-dapps/phitoken-protocol/how-to-mint-a-new-phi20-token.md)
   * [ℹ How To Find Minted Tokens Info?](layer-1-dapps/phitoken-protocol/how-to-find-minted-tokens-info.md)
-* [🤝 PHI Auction](layer-1-dapps/phi-auction.md)
+* [🤝 PHI Auction](layer-1-dapps/phi-auction/README.md)
+  * [⛏ How To Mint A New NFT?](layer-1-dapps/phi-auction/how-to-mint-a-new-nft.md)
+  * [📲 How To Sell An NFT?](layer-1-dapps/phi-auction/how-to-sell-an-nft.md)
+  * [💲 How To Buy An NFT?](layer-1-dapps/phi-auction/how-to-buy-an-nft.md)
 
 ## Layer 2 Hybrid Dapps
 
