@@ -4,17 +4,15 @@ description: Connect To PHI NFT Marketplace To Easily Mint, Buy & Sell.
 
 # 🔌 How To Connect To PHI Auction?
 
+{% tabs %}
+{% tab title="Mobile Device" %}
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
 1\) [Token Pocket Wallet](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md) Installed
 
-2\) [Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
+2\)[ Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
 {% endhint %}
-
-{% tabs %}
-{% tab title="Mobile Device" %}
-
 
 1\) Go to [Token Pocket ](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)Wallet On Mobile Device.
 
@@ -32,7 +30,15 @@ Prerequisite:&#x20;
 {% endtab %}
 
 {% tab title="Desktop" %}
+{% hint style="danger" %}
+Prerequisite:&#x20;
 
+1\) [Wallet ](../../use-phi-smart-chain/compatible-wallets/)Installed
+
+2\) [Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/)
+{% endhint %}
+
+![Click Connect In The Top Right Hand Corner Of Your Screen](<../../.gitbook/assets/Screen Shot 2022-06-02 at 11.17.28 AM.png>)
 {% endtab %}
 {% endtabs %}
 
