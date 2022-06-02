@@ -15,3 +15,9 @@ description: NFT Marketplace
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-sell-an-nft" %}
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-buy-an-nft" %}
+
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-send-an-nft" %}
+
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-receive-an-nft" %}
+
+{% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-auction/how-to-view-nft-in-wallet" %}
