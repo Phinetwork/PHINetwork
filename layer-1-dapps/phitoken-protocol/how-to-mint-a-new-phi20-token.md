@@ -10,7 +10,11 @@ description: >-
 Prerequisite: [Connect Wallet To Phitoken ](how-to-connect-to-phitoken-app.md)
 {% endhint %}
 
-1\) Enter Token Information:
+1\) Click Start&#x20;
+
+![](../../.gitbook/assets/IMG\_4617.jpg)
+
+2\) Enter Token Information:
 
 Name:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -20,11 +24,17 @@ Decimal:\_\_\_\_\_
 
 Total Supply:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-2\) Click Create Token
+3\)Click At Minimum _**"Can Mint"**_
 
-3\) Confirm Transaction In Wallet
+![Click The Text Where Arrow Is Pointing](../../.gitbook/assets/IMG\_4616.jpg)
+
+4\) Click Create Token
 
 ![Enter Information For Token](../../.gitbook/assets/IMG\_4405.jpg)
+
+5\) Confirm Transaction In Wallet
+
+![Click Transfer To Confirm Minting Of New Token](../../.gitbook/assets/IMG\_4618.jpg)
 
 {% hint style="success" %}
 Congratulations You Have Created Your First Cryptocurrency.&#x20;
