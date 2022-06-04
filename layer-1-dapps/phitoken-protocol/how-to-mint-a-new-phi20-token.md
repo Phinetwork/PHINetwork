@@ -24,7 +24,7 @@ Decimal:\_\_\_\_\_
 
 Total Supply:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\) Select At Minimum _**"Can Mint"**_
+3\) Select At Minimum _**"Can Mint"**** **<mark style="color:red;">**(IMPORTANT)**</mark>_
 
 4\) Click Create Token
 
@@ -37,3 +37,9 @@ Total Supply:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 {% hint style="success" %}
 Congratulations You Have Created Your First Cryptocurrency.&#x20;
 {% endhint %}
+
+#### Common Minting Error Fixes:
+
+* [ ] Currently Deflationary Settings Wont Work So If You Select Deflationary Settings Token Will Not Mint.&#x20;
+* [ ] if "Can Mint" Is Not Selected Token Will Not Properly Mint.&#x20;
+* [ ] Make Sure To Click Start Button Once Wallet Is Connected Or You Will Get An Error When Trying To Select Can Mint.
