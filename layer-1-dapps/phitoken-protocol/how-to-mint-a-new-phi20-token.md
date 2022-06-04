@@ -41,5 +41,5 @@ Congratulations You Have Created Your First Cryptocurrency.&#x20;
 #### Common Minting Error Fixes:
 
 * [ ] Currently Deflationary Settings Wont Work So If You Select Deflationary Settings Token Will Not Mint.&#x20;
-* [ ] if "Can Mint" Is Not Selected Token Will Not Properly Mint.&#x20;
-* [ ] Make Sure To Click Start Button Once Wallet Is Connected Or You Will Get An Error When Trying To Select Can Mint.
+* [ ] if "Can Mint" Is Not Selected Token Will Not Mint.&#x20;
+* [ ] Make Sure To Click Start Button Or You Will Get An Error When Trying To Select Can Mint.
