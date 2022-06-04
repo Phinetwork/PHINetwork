@@ -24,13 +24,11 @@ Decimal:\_\_\_\_\_
 
 Total Supply:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-3\)Click At Minimum _**"Can Mint"**_
-
-![Click The Text Where Arrow Is Pointing](../../.gitbook/assets/IMG\_4616.jpg)
+3\) Select At Minimum _**"Can Mint"**_
 
 4\) Click Create Token
 
-![Enter Information For Token](../../.gitbook/assets/IMG\_4405.jpg)
+![](../../.gitbook/assets/IMG\_4619.jpg)
 
 5\) Confirm Transaction In Wallet
 
