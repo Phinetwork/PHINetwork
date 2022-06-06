@@ -12,10 +12,6 @@ Some of the information present in this page might not apply to private and purp
 
 Used as PHI Network's mainnet, it leverages PHI as its native currency, and can be used by individuals, institutions, governments, and enterprises to develop, deploy, and maintain trustless and unstoppable applications.
 
-### PL2: Divine Testnet <a href="#pl2-nebula-testnet" id="pl2-nebula-testnet"></a>
-
-As the name suggests, Divine Testnet is PHI Network's testnet ledger. It leverages DTS as its native currency, and DTS can be acquired for free on a [faucet](https://docs.phi.network/phi-wiki/glossary#f). This makes development and testing risk-free, and creates an inviting environment for developers willing to build and deploy on the mainnet.
-
 ## Enterprise, Governmental, and Private Applications <a href="#enterprise-governmental-and-private-applications" id="enterprise-governmental-and-private-applications"></a>
 
 Our technology can be used to deploy private infrastructure, that can further bolster productivity and allow for better and trustless workflow for individuals, governments, and enterprises. PHI Network. is constantly updating and upgrading its enterprise-level suite of applications, that like no other mainstream platforms, allow for setup and deployment of a private production-grade blockchain in less than one minute.
