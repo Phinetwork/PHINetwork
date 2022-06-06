@@ -22,11 +22,11 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 
 ![Click 3 dots in bottom left hand corner](../../.gitbook/assets/IMG\_4683.jpg) ![Click Wallet (Beta)](../../.gitbook/assets/IMG\_4684.jpg) ![Click Ethereum Next To The Wallet Balance](../../.gitbook/assets/IMG\_4685.jpg) ![Click Add Network ](../../.gitbook/assets/IMG\_4686.jpg) ![Fill In The Form Completely ](../../.gitbook/assets/IMG\_4687.jpg) ![Make Sure The Form Is Filled In Entirety Then Click Save.](../../.gitbook/assets/IMG\_4688.jpg)
 
+**Chain ID:** 4181&#x20;
+
 **Name of the Chain:** PHI&#x20;
 
 **Chain’s currency name:** PHI&#x20;
-
-**Chain ID:** 4181&#x20;
 
 **Chain’s currency Symbol:** PHI&#x20;
 
