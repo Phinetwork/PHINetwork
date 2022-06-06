@@ -25,6 +25,7 @@
   * [🔌 Connect With Chainlist](use-phi-smart-chain/wallet-setup/connect-with-chainlist.md)
 * [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)
   * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/transaction-fees/smart-chain-gas-fees.md)
+* [How To Manually Add Tokens To Wallet](use-phi-smart-chain/how-to-manually-add-tokens-to-wallet.md)
 
 ## Core Layer
 
