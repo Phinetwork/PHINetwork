@@ -11,7 +11,7 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 * **Chain ID: 4181**
 * **Symbol: Φ**
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
-* **Logo Url:** [**https://explorer.phi.network/static/media/expedition.10b20a00.png**](https://explorer.phi.network/static/media/expedition.10b20a00.png)****
+* **`Logo Url:`**[https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
 ![](../../.gitbook/assets/IMG\_5312.PNG)
 
