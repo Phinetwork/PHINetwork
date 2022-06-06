@@ -52,6 +52,8 @@ Click on _"Save"_
 
 <mark style="color:green;">Congratulations!</mark> You  have now set up your MetaMask wallet to be used with PHI Smart Chain! You can switch between the different networks by simply using the drop-down menu on the top of your wallet.
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
+
 ## [Connect Wallet To Phiswap](../../layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)&#x20;
 
 There are two options "Metamask" & "WalletConnect"
