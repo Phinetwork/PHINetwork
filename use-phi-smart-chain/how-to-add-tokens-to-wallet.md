@@ -18,7 +18,7 @@ description: Follow These Step By Step Instructions To Add PHI20 Tokens To Any W
 
 ### Brave:
 
-![](../.gitbook/assets/IMG\_4695.jpg) ![](../.gitbook/assets/IMG\_4698.jpg)
+![](<../.gitbook/assets/IMG\_4703 2.jpg>) ![](../.gitbook/assets/IMG\_4704.jpg) ![](../.gitbook/assets/IMG\_4695.jpg) ![](../.gitbook/assets/IMG\_4698.jpg)
 
 ### Token Pocket:
 
