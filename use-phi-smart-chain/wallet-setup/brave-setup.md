@@ -49,7 +49,7 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 **Block Explorer:** https://explorer.phi.network&#x20;
 
 {% hint style="success" %}
-Congratulations You Have Connect Brave To PHI Smart Chain
+Congratulations You Have Connected Brave To PHI Smart Chain
 {% endhint %}
 
 ****
