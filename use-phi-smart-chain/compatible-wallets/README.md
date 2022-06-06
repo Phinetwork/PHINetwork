@@ -14,7 +14,9 @@ Available as a browser extension and as a mobile app, MetaMask equips you with a
 
 **Compatibility:** Browser Extension, Mobile
 
-**Download:** [Official Download](https://metamask.io/download/)​
+**Download:** [Official Download](https://metamask.io/download/)
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FICZw8IeTKFltax8fVc0v%2Fcoinbase-wallet.0867e872675336d5fa888fc7e1c2e491.png?alt=media\&token=fb6e0a78-4bb3-4733-a990-39d130d7d5b7)
 
@@ -23,6 +25,10 @@ Coinbase Wallet is a self-custody crypto wallet, putting you in control of your 
 **Compatibility:** Browser Extension, Mobile&#x20;
 
 **Download:** [Official Download](https://coinbase-wallet.onelink.me/q5Sx/fdb9b250)
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/coinbase-setup" %}
+
+
 
 [![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
 
@@ -53,10 +59,16 @@ Mobile Download: [Download](https://www.tokenpocket.pro/en/download/app)
 
 Browser Extension: [Download](https://extension.tokenpocket.pro/#/)****
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/token-pocket-setup" %}
+
 [![Brave Software home](https://brave.com/static-assets/images/brave-logo.svg)](https://brave.com/)\
 Compatibility: Browser, Mobile&#x20;
 
-[Download Brave](https://brave.com)**​**
+[Download Brave](https://brave.com)****
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/brave-setup" %}
+
+****
 
 ## Integrating Your Wallet <a href="#integrating-your-wallet" id="integrating-your-wallet"></a>
 
