@@ -28,7 +28,7 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 {% endtab %}
 
 {% tab title="Desktop" %}
-![Click Wallet Icon In The Top Left Hand Corner](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.51.01 PM.png>) ![Click Ethereum ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.52.18 PM.png>) ![Click Plus Icon In Top Right](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.53.01 PM.png>) ![Click Add](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.02 PM.png>) ![Enter Chain information ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.53 PM.png>) ![Click Submit](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.55.06 PM.png>)
+![Click Wallet Icon In The Top Right Hand Corner](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.51.01 PM.png>) ![Click Ethereum ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.52.18 PM.png>) ![Click Plus Icon In Top Right](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.53.01 PM.png>) ![Click Add](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.02 PM.png>) ![Enter Chain information ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.53 PM.png>) ![Click Submit](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.55.06 PM.png>)
 {% endtab %}
 {% endtabs %}
 
