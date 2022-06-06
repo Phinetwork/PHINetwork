@@ -34,9 +34,11 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 
 **RPC URL:** https://rpc1.phi.network/​&#x20;
 
+**Icon Url:** https://dev.phi.network/phistorage/2022/05/phi.png
+
 **Block Explorer:** https://explorer.phi.network&#x20;
 
-**Icon Url: https://dev.phi.network/phistorage/2022/05/phi.png**
+****
 
 {% hint style="warning" %}
 As of 6/6/22 Coingeico Has Not Listed PHI On Their Website So PHI Price Will Not Show Up Correctly On Brave Browser As Brave Is Pulling Their Price Data From Coingieco. PHI Has Intentionally Not Listed With Coingeico or Coin market Cap because they ask for all holders information and have too much centralized control. As Time Progresses These Resources Will Have To List PHI With Out Asking For Holder Personal Information. PHI Community is also in the process of developing its own wallet resources that pull data from sources like [phiswap](https://info.phiswap.com) analytics & [instantmarketcap](https://instantmarketcap.com)&#x20;
