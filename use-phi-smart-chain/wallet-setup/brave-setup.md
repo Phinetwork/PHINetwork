@@ -44,4 +44,4 @@ As of 6/6/22 Coingeico Has Not Listed PHI On Their Website So PHI Price Will Not
 
 Pricing For Any Token Listed On Coingieco Will Show Up In Brave Wallet on PHI Chain Such As BTC, ETH, & So on.&#x20;
 
-How To Add Tokens To Wallet?
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-manually-add-tokens-to-wallet" %}
