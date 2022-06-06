@@ -50,6 +50,8 @@ _imToken_ is an easy and secure digital wallet trusted by millions.
 
 Download: [Official Download ](https://token.im/download)
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/imtoken-setup" %}
+
 ![DeFi Wallet](https://www.tokenpocket.pro/\_nuxt/img/logo.5c68e3f.png)\
 Multi-chain, Easy to Use
 
