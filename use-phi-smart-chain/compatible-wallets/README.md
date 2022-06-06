@@ -64,5 +64,5 @@ If you have developed a [wallet](https://docs.phi.network/phi-wiki/glossary#w) t
 
 * Have a verifiable open-source code, preferably hosted on Github;
 * Have a reputable and competent team behind the project;
-* Support both native and [ERC20](https://docs.phi.network/phi-wiki/glossary#e) token transactions at minimum;
+* Support both native and[ PHI20](https://docs.phi.network/phi-wiki/glossary#p) token transactions at minimum;
 * Strictly store [private keys](https://docs.phi.network/phi-wiki/glossary#p) and [mnemonic](https://docs.phi.network/phi-wiki/glossary#m) information locally;
