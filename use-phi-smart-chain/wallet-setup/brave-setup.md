@@ -58,6 +58,6 @@ Congratulations You Have Connected Brave To PHI Smart Chain
 As of 6/6/22 [Coingecko](https://coingecko.com) Has Not Yet Listed PHI On Their Website So The PHI Price Will Not Show Up Correctly On Brave Browser As Brave Is Pulling Their Price Data From[ Coingecko](https://coingecko.com). PHI Has Intentionally Not Listed With [Coingecko](https://coingecko.com) or [Coin market Cap](https://coinmarketcap.com) because they ask for all holders information allowing them to have centralized control & power over the market. As Time Progresses These Resources Will Have To List PHI With Out Asking For Holder Personal Information Because PHI's Value IS Undeniable & Brings Real Solutions To The World. Additionally The PHI Community is in the process of developing its own branded wallet resources that pull data from sources like [phiswap](https://info.phiswap.com) analytics & [instantmarketcap](https://instantmarketcap.com)&#x20;
 {% endhint %}
 
-Pricing For Any Token Listed On Coingieco Will Show Up In Brave Wallet on PHI Chain Such As BTC, ETH, & So on.&#x20;
+Pricing For Any Asset Listed On Coingecko Will Show Up In Brave Wallet on PHI Chain Such As BTC, ETH, & So on.&#x20;
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
