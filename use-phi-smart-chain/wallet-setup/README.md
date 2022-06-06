@@ -15,6 +15,24 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 
 ![](../../.gitbook/assets/IMG\_5312.PNG)
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
+Best For Desktop Mobile Version Does Not Work So Great.
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/token-pocket-setup" %}
+Token Pocket Mobile dApp Browser Is Great For Using dApps On Your Mobile Device As Well As Sending & Receiving.&#x20;
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/coinbase-setup" %}
+For Sending & Receiving PHI & PHI20 Assets.&#x20;
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/brave-setup" %}
+Great To Use If You Want To Display The Value Of Tokens In Fiat Within The Wallet & For Sending & Receiving But Token Pocket Is Better For Connecting To dApps.
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/connect-with-chainlist" %}
+
 ### Alternative RPCs <a href="#alternative-rpcs" id="alternative-rpcs"></a>
 
 We only recommend the usage of alternative [RPCs](https://docs.phi.network/phi-wiki/glossary#r) for advanced users, or if the main [RPC](https://docs.phi.network/phi-wiki/glossary#r) isn't working for you. Please get in touch with[ support team](https://phi.support) if you can't connect to the network. Some wallets - mostly on mobile devices - won't accept non-SSL RPCs.&#x20;
