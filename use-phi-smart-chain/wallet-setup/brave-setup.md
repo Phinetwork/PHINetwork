@@ -6,6 +6,8 @@ Follow the step by step Instructions below to set up brave wallet & connect to [
 Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Device Before Preceding With Setup Instructions. &#x20;
 {% endhint %}
 
+{% tabs %}
+{% tab title="Mobile Device" %}
 1\) Click 3 Dots In bottom Left hand Corner
 
 2\) Click Wallet (beta)
@@ -21,6 +23,14 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 7\) Click Save
 
 ![Click 3 dots in bottom left hand corner](../../.gitbook/assets/IMG\_4683.jpg) ![Click Wallet (Beta)](../../.gitbook/assets/IMG\_4684.jpg) ![Click Ethereum Next To The Wallet Balance](../../.gitbook/assets/IMG\_4685.jpg) ![Click Add Network ](../../.gitbook/assets/IMG\_4686.jpg) ![Fill In The Form Completely ](../../.gitbook/assets/IMG\_4687.jpg) ![Make Sure The Form Is Filled In Entirety Then Click Save.](../../.gitbook/assets/IMG\_4688.jpg)
+
+****
+{% endtab %}
+
+{% tab title="Desktop" %}
+![Click Wallet Icon In The Top Left Hand Corner](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.51.01 PM.png>) ![Click Ethereum ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.52.18 PM.png>) ![Click Plus Icon In Top Right](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.53.01 PM.png>) ![Click Add](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.02 PM.png>) ![Enter Chain information ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.53 PM.png>) ![Click Submit](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.55.06 PM.png>)
+{% endtab %}
+{% endtabs %}
 
 **Chain ID:** 4181&#x20;
 
@@ -38,6 +48,10 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 
 **Block Explorer:** https://explorer.phi.network&#x20;
 
+{% hint style="success" %}
+Congratulations You Have Connect Brave To PHI Smart Chain
+{% endhint %}
+
 ****
 
 {% hint style="warning" %}
@@ -46,4 +60,4 @@ As of 6/6/22 Coingeico Has Not Listed PHI On Their Website So PHI Price Will Not
 
 Pricing For Any Token Listed On Coingieco Will Show Up In Brave Wallet on PHI Chain Such As BTC, ETH, & So on.&#x20;
 
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-manually-add-tokens-to-wallet" %}
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
