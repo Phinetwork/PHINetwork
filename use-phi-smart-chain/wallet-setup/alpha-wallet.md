@@ -14,4 +14,4 @@ Prerequisite: [Alpha Wallet ](https://alphawallet.com/)Must Be Installed On Your
 * **Symbol: Φ**
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
 
-``
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
