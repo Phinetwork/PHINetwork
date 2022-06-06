@@ -22,7 +22,7 @@
   * [ℹ Token Pocket Setup](use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
   * [ℹ Coinbase Setup](use-phi-smart-chain/wallet-setup/coinbase-setup.md)
   * [ℹ Brave Setup](use-phi-smart-chain/wallet-setup/brave-setup.md)
-  * [ℹ Alpha Wallet](use-phi-smart-chain/wallet-setup/alpha-wallet.md)
+  * [ℹ Alpha Wallet Setup](use-phi-smart-chain/wallet-setup/alpha-wallet-setup.md)
   * [🔌 Connect With Chainlist](use-phi-smart-chain/wallet-setup/connect-with-chainlist.md)
 * [🪙 How To Add Tokens To Wallet](use-phi-smart-chain/how-to-add-tokens-to-wallet.md)
 * [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)

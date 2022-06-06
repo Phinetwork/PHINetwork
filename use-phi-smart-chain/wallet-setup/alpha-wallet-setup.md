@@ -1,4 +1,4 @@
-# ℹ Alpha Wallet
+# ℹ Alpha Wallet Setup
 
 Follow the step by step Instructions below to set up Alpha wallet & connect to [PHI Smart Chain](../../) &#x20;
 

@@ -40,6 +40,8 @@ Coinbase Wallet is a self-custody crypto wallet, putting you in control of your 
 
 **Download:** [**Official Download**](https://alphawallet.com/)****
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
+
 [![imToken Logo](https://token.im/img/imTokenLogo.svg)](https://token.im/)&#x20;
 
 _imToken_ is an easy and secure digital wallet trusted by millions.
