@@ -14,17 +14,19 @@ description: Follow These Step By Step Instructions To Add PHI20 Tokens To Any W
 
 ### &#x20;Metamask:
 
-![](../.gitbook/assets/IMG\_4696.jpg) ![](../.gitbook/assets/IMG\_4697.jpg)
+![Click Import Custom Token](../.gitbook/assets/IMG\_4696.jpg) ![Paste Contract Address Click Save](../.gitbook/assets/IMG\_4697.jpg)
 
 ### Brave:
 
-![](<../.gitbook/assets/IMG\_4703 2.jpg>) ![](../.gitbook/assets/IMG\_4704.jpg) ![](../.gitbook/assets/IMG\_4695.jpg) ![](../.gitbook/assets/IMG\_4698.jpg)
+![On Portfolio Page Scroll To The Bottom](<../.gitbook/assets/IMG\_4703 2.jpg>) ![Click Edit Visible Assets](../.gitbook/assets/IMG\_4704.jpg) ![Click Add Custom Asset](../.gitbook/assets/IMG\_4695.jpg) ![Fill In Form Click Save](../.gitbook/assets/IMG\_4698.jpg)
 
 ### Token Pocket:
 
-![](../.gitbook/assets/IMG\_4699.jpg) ![](../.gitbook/assets/IMG\_4700.jpg) ![](../.gitbook/assets/IMG\_4701.jpg) ![](../.gitbook/assets/IMG\_4702.jpg)
+![Click Plus "+" Icon ](../.gitbook/assets/IMG\_4699.jpg) ![Click Custom token](../.gitbook/assets/IMG\_4700.jpg) ![Add Custom Token](../.gitbook/assets/IMG\_4701.jpg) ![Fill In Form](../.gitbook/assets/IMG\_4702.jpg)
 
+### Imtoken:
 
+![Click Plus "+' Icon](../.gitbook/assets/IMG\_4718.jpg) ![Click Custom Token](../.gitbook/assets/IMG\_4719.jpg) ![Fill In Form Then Click Save](../.gitbook/assets/IMG\_4720.jpg)
 
 {% hint style="success" %}
 &#x20;Congratulations You Have Added Your First Token To Your Wallet.
