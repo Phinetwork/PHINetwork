@@ -7,3 +7,5 @@
 * **Chain ID: 4181**
 * **Symbol: Φ**
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
