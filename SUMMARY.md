@@ -77,6 +77,8 @@
 * [📖 Developer Resources](developers/developer-resources.md)
 * [📊 GraphQL API](developers/graphql-api.md)
 * [🔓 Become A Validator](developers/become-a-validator.md)
+* [👀 JSON RPC Methods](developers/json-rpc-methods/README.md)
+  * [eth\_accounts](developers/json-rpc-methods/eth\_accounts.md)
 
 ## Tutorials
 
