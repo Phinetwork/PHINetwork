@@ -8,17 +8,17 @@ You can use any public or private RPC endpoints to request using the JSON RPC me
 You can use our officially supported public RPC endpoint https://rpc1.phi.network to use the methods below.
 {% endhint %}
 
-* ​**eth\_accounts​**
-* **​eth\_blockNumber​**
-* **​eth\_call​**
-* **​eth\_chainId​**
-* **​eth\_estimateGas​**
-* **​eth\_feeHistory​**
-* **​eth\_getBalance​**
-* **​eth\_gasPrice​**
-* **​eth\_getBlockByNumber​**
-* **​eth\_getCode​**
-* **​eth\_getTransactionReceipt​**
-* **​eth\_sendRawTransaction​**
+* ​[**eth\_accounts**](eth\_accounts.md)**​**
+* ****[**​eth\_blockNumber​**](eth\_blocknumber.md)****
+* **​**[**eth\_call​**](eth\_call.md)****
+* ****[**​eth\_chainId​**](eth\_chainid.md)****
+* ****[**​eth\_estimateGas​**](eth\_estimategas.md)****
+* ****[**​eth\_feeHistory​**](eth\_feehistory.md)****
+* ****[**​eth\_getBalance​**](eth\_getbalance.md)****
+* ****[**​eth\_gasPrice​**](eth\_gasprice.md)****
+* **​**[**eth\_getBlockByNumber​**](eth\_getblockbynumber.md)****
+* ****[**​eth\_getCode​**](eth\_getcode.md)****
+* **​**[**eth\_getTransactionReceipt​**](eth\_gettransactionreceipt.md)****
+* **​**[**eth\_sendRawTransaction​**](eth\_sendrawtransaction.md)****
 
 ## &#x20;<a href="#error-codes" id="error-codes"></a>
