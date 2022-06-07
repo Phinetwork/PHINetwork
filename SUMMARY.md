@@ -79,6 +79,17 @@
 * [🔓 Become A Validator](developers/become-a-validator.md)
 * [👀 JSON RPC Methods](developers/json-rpc-methods/README.md)
   * [eth\_accounts](developers/json-rpc-methods/eth\_accounts.md)
+  * [eth\_blockNumber](developers/json-rpc-methods/eth\_blocknumber.md)
+  * [eth\_call](developers/json-rpc-methods/eth\_call.md)
+  * [eth\_chainId](developers/json-rpc-methods/eth\_chainid.md)
+  * [eth\_estimateGas](developers/json-rpc-methods/eth\_estimategas.md)
+  * [eth\_feeHistory](developers/json-rpc-methods/eth\_feehistory.md)
+  * [eth\_getBalance](developers/json-rpc-methods/eth\_getbalance.md)
+  * [eth\_gasPrice](developers/json-rpc-methods/eth\_gasprice.md)
+  * [eth\_getBlockByNumber](developers/json-rpc-methods/eth\_getblockbynumber.md)
+  * [eth\_getCode](developers/json-rpc-methods/eth\_getcode.md)
+  * [eth\_getTransactionReceipt](developers/json-rpc-methods/eth\_gettransactionreceipt.md)
+  * [eth\_sendRawTransaction](developers/json-rpc-methods/eth\_sendrawtransaction.md)
 
 ## Tutorials
 
