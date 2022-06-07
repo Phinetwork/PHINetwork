@@ -28,6 +28,10 @@ description: Follow These Step By Step Instructions To Add PHI20 Tokens To Any W
 
 ![Click Plus "+' Icon](../.gitbook/assets/IMG\_4718.jpg) ![Click Custom Token](../.gitbook/assets/IMG\_4719.jpg) ![Fill In Form Then Click Save](../.gitbook/assets/IMG\_4720.jpg)
 
+### Alpha Wallet:
+
+![Click Top Right Hand Corner The 3 Dots](../.gitbook/assets/IMG\_4722.jpg) ![Click Add/Hide Tokens](../.gitbook/assets/IMG\_4723.jpg) ![Click Plus "+" Icon](../.gitbook/assets/IMG\_4724.jpg) ![Enter Information Click Done](../.gitbook/assets/IMG\_4726.jpg)
+
 {% hint style="success" %}
 &#x20;Congratulations You Have Added Your First Token To Your Wallet.
 {% endhint %}
