@@ -28,4 +28,4 @@ For Your Convenience Copy & Paste The Listed Above Credentials In The Form On To
 
 Congratulations You Have Now Connected Token Pocket Wallet To The PHI Smart Chain.&#x20;
 
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet#token-pocket" %}

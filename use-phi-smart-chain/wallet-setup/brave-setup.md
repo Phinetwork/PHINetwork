@@ -60,4 +60,4 @@ As of 6/6/22 [Coingecko](https://coingecko.com) Has Not Yet Listed PHI On Their 
 
 Pricing For Any Asset Listed On Coingecko Will Show Up In Brave Wallet on PHI Chain Such As BTC, ETH, & So on.&#x20;
 
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet#brave" %}
