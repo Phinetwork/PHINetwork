@@ -25,10 +25,10 @@ Contract Address:
 Phicash Chart & Analytics
 {% endembed %}
 
-#### Swap For Phicash on Phiswap
+#### Swap Phicash on Phiswap
 
 {% embed url="https://app.phiswap.com/#/swap?inputCurrency=0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4" %}
-Get PHIcash On Phiswap
+Swap PHIcash On Phiswap
 {% endembed %}
 
 #### Add Phicash Liquidity On Phiswap
@@ -40,6 +40,8 @@ Add Phicash Liquidity On Phiswap
 #### [How To View Phicash In Wallet?](https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
+How To View Phicash In Wallet?
+{% endembed %}
 
 ### Algorithmic Store Of Value Pegged At $1&#x20;
 
