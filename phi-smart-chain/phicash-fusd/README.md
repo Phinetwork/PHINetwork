@@ -19,7 +19,7 @@ Contract Address:
 
 {% embed url="https://buy.phi.holdings/product/%CF%86-2/" %}
 
-#### Phicash Analytics
+**Phicash Analytics**
 
 {% embed url="https://info.phiswap.com/token/0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4" %}
 Phicash Chart & Analytics
@@ -36,6 +36,10 @@ Get PHIcash On Phiswap
 {% embed url="https://app.phiswap.com/#/add/0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4/PHI" %}
 Add Phicash Liquidity On Phiswap
 {% endembed %}
+
+#### [How To View Phicash In Wallet?](https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet)
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet" %}
 
 ### Algorithmic Store Of Value Pegged At $1&#x20;
 
