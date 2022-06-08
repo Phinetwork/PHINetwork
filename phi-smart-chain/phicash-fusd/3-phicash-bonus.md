@@ -1,8 +1,6 @@
 # 🎗 3% PHICash Bonus
 
-On The Total Purchase Amount of PHIcash You Will Be Sent A 3% Bonus In PHI To Facilitate Transaction Fees On The PHI Smart Chain. Every Time You Purchase PHIcash You Are Sent 3% As A Bonus In PHI.
-
-
+On The Total Purchase Amount of PHIcash You Are Rewarded A 3% Bonus In PHI To Facilitate Transaction Fees On The PHI Smart Chain. Every Time You Purchase PHIcash You Are Sent 3% As A Bonus In PHI.
 
 Once Purchased Learn How To View Your Phicash In Your Wallet By Following The Instructions Below.&#x20;
 
