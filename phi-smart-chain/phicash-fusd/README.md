@@ -6,6 +6,10 @@ description: Algorithmic Stable Coin Pegged To $USD Backed By PHI (Φ)
 
 Phicash (Φ$) Is An Algorithmic Stable Coin Pegged To The United States Dollar ($USD).&#x20;
 
+Contract Address:
+
+[0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4](https://info.phiswap.com/token/0xf1f4e7a5437a61b2ca0416c1a436133460f8b7c4)
+
 * [1Φ$ = 1$ ](pegging-and-backing.md)
 * 2 Decimals&#x20;
 * [Backed By PHI (Φ)](pegging-and-backing.md)

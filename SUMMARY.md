@@ -11,6 +11,7 @@
 * [💵 Phicash (Φ$)](phi-smart-chain/phicash-fusd/README.md)
   * [📍 Pegging & Backing](phi-smart-chain/phicash-fusd/pegging-and-backing.md)
   * [❓ Φ$ FAQ](phi-smart-chain/phicash-fusd/fusd-faq.md)
+  * [🎗 3% PHICash Bonus](phi-smart-chain/phicash-fusd/3-phicash-bonus.md)
 
 ## Use PHI Smart Chain
 
