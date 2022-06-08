@@ -4,7 +4,7 @@ Transaction Fees To protect the network from spam and [DDoS attacks](https://doc
 
 #### The Base Fee <a href="#the-base-fee" id="the-base-fee"></a>
 
-Transactions have an average fee of PHI 0.000000000000010007, Which In $USD Terms Is $0.00000001120784 Per Transaction and the network uses an algorithm to determine the base fee for each specific transaction based on the expected computing power required to process it. Factors that can directly influence the cost of a transaction - amongst others - are:
+Transactions have a set minimum fee of PHI `0.000000000021`, and the network uses an algorithm to determine the base fee for each specific transaction based on the expected computing power required to process it. Factors that can directly influence the cost of a transaction - amongst others - are:
 
 * If the transaction interacts, or not, with a smart contract;
 * If there are too many other transactions being submitted at the same time;
