@@ -4,7 +4,7 @@ description: >-
   Another Wallet.
 ---
 
-# How To Import A Wallet Into Another Wallet?
+# ↕ How To Import A Wallet Into Another Wallet?
 
 First Understand What Your Private Keys Of Your Wallet Are. Every Noncustodial Crypto-currency Wallet Has A Private Key. You Can Think Of The Private Key As The Password To Login To Your Wallet Into Different Apps To View Your Wallet Within Different A Different User Interface. The Public Key Is Your Wallets Address or username Where Assets Are Sent. The Private Keys Are Where Your Assets Are Stored. The Different Wallets & Apps Are Just Viewing Your Private Keys Not Actually Storing Your Assets. Your Assets Are On The Private Key Itself.
 
