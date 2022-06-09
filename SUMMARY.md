@@ -26,6 +26,7 @@
   * [ℹ Alpha Wallet Setup](use-phi-smart-chain/wallet-setup/alpha-wallet-setup.md)
   * [ℹ ImToken Setup](use-phi-smart-chain/wallet-setup/imtoken-setup.md)
   * [🔌 Connect With Chainlist](use-phi-smart-chain/wallet-setup/connect-with-chainlist.md)
+* [How To Import A Wallet Into Another Wallet?](use-phi-smart-chain/how-to-import-a-wallet-into-another-wallet.md)
 * [🪙 How To Add Tokens To Wallet](use-phi-smart-chain/how-to-add-tokens-to-wallet.md)
 * [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)
   * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/transaction-fees/smart-chain-gas-fees.md)
