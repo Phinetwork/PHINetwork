@@ -1,7 +1,8 @@
 # Table of contents
 
 * [🧠 What Is PHI Smart Chain?](README.md)
-* [🎓 Glossary](glossary.md)
+* [🎓 Glossary](glossary/README.md)
+  * [🌟 Difference Between Seed Phrase & Private Keys](glossary/difference-between-seed-phrase-and-private-keys.md)
 
 ## PHI Smart Chain
 

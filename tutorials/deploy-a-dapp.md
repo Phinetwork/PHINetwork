@@ -6,7 +6,7 @@ The purpose of this tutorial is to help you on launching and deploying your Ethe
 
 ## Platform Basics
 
-[PHI Network](https://phi.network) is an open-source [DAG](../glossary.md#d) programable [smart contracts](../glossary.md#s) platform built for decentralized and enterprise-level applications, in one highly scalable [ecosystem](https://phi.network/resources). It is ideal for you to deploy and run your dApp, as it will present you not only with a reliable platform to do so, but an array of development tools that will help you to scale your idea.
+[PHI Network](https://phi.network) is an open-source [DAG](../glossary/#d) programable [smart contracts](../glossary/#s) platform built for decentralized and enterprise-level applications, in one highly scalable [ecosystem](https://phi.network/resources). It is ideal for you to deploy and run your dApp, as it will present you not only with a reliable platform to do so, but an array of development tools that will help you to scale your idea.
 
 We run two public ledgers where you can deploy your dApp, PHI Network, and Divine Testnet - our **mainnet** and our **testnet** respectively. You can definitely run a production dApp on Divine Testnet, the main difference laying on the fact that on Divine Testnet you won't be able to monetize it on-chain, as DST (Divine Testnet's native token) can be acquired for free.
 

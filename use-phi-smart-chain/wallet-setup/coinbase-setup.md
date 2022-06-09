@@ -15,7 +15,7 @@ PHI Network Connection Details:
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
 
 {% hint style="success" %}
-For Your Convenience Copy & Paste The Listed Above Credentials In The Form On Coinbase [Non-Custodial](../../glossary.md#n). Then Click Save
+For Your Convenience Copy & Paste The Listed Above Credentials In The Form On Coinbase [Non-Custodial](../../glossary/#n). Then Click Save
 {% endhint %}
 
-Congratulations You Have Now Connected Coinbase [Non-custodial ](../../glossary.md#n)Wallet To The PHI Smart Chain.&#x20;
+Congratulations You Have Now Connected Coinbase [Non-custodial ](../../glossary/#n)Wallet To The PHI Smart Chain.&#x20;

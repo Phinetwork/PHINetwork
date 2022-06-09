@@ -49,7 +49,7 @@ How To View Phicash In Wallet?
 
 Algorithm can be an obfuscating word. But it simply means a set of code that instructs a process. So, for example, what you get to see on your Facebook timeline is determined by Facebook’s timeline algorithms, which include things like how relevant the post is to you based on your past online behavior. In crypto, an algorithm refers to pieces of code on the blockchain, as encoded in a set of smart contracts.
 
-Algorithmic stablecoins typically rely on two tokens – one stablecoin and another cryptocurrency that backs the stablecoins – and so the algorithm (or the [smart contact](../../glossary.md#s)) regulates the relationship between the two.
+Algorithmic stablecoins typically rely on two tokens – one stablecoin and another cryptocurrency that backs the stablecoins – and so the algorithm (or the [smart contact](../../glossary/#s)) regulates the relationship between the two.
 
 Cryptocurrencies – similar to all assets in the market, such as houses or stocks – move up and down in price depending on the market demand and the supply of the asset. This also includes stablecoins because they’re essentially cryptocurrencies freely traded on the market.
 
