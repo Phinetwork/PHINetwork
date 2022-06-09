@@ -29,8 +29,10 @@ The [Private Keys](../../glossary/#p) Are Where Your Assets Are Stored. The Diff
 2. Once You've Found Your Private Key You Can Now Import It Into A Different Wallet Interface.
    * [ ] Google Search (Wallet Name) How To Import Private Key Into Wallet. This Will Give You A Step by step guide specific to your wallet.&#x20;
 
+{% embed url="https://docs.phi.network/phi-wiki/glossary/difference-between-seed-phrase-and-private-keys" %}
 
+[How To Find Private Keys Attached To PHI.Network Username?](https://phi.support/index.php/knowledge-base/article/import-wallet)
 
-****
+{% embed url="https://phi.support/index.php/knowledge-base/article/import-wallet" %}
 
 \
