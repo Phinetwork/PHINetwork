@@ -6,6 +6,16 @@ description: >-
 
 # 🤝 PHI Auction
 
+{% hint style="danger" %}
+Prerequisite:&#x20;
+
+1\) [Wallet](../../use-phi-smart-chain/compatible-wallets/) Installed On Device
+
+2\) Connected To [PHI Smart Chain ](../../use-phi-smart-chain/wallet-setup/)
+
+3\) Connected To [PHI Auction](how-to-connect-to-phi-auction.md)&#x20;
+{% endhint %}
+
 [PHI Auction](https://phi.auction) is a decentralized marketplace that **allows users to easily mint, buy and sell** [**non-fungible assets**](../../glossary.md#n) **** built for PHI Smart Chain Cutting Edge Blockchain Technology Online Asset Trade & Management Near Instant Transaction Times & Lowest Transaction Fees.&#x20;
 
 [Get Started ](https://phi.auction)
