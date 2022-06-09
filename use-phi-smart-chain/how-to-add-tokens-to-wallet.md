@@ -4,6 +4,14 @@ description: Follow These Step By Step Instructions To Add PHI20 Tokens To Any W
 
 # 🪙 How To Add Tokens To Wallet
 
+{% hint style="danger" %}
+Prerequisite:&#x20;
+
+1\) [Wallet](compatible-wallets/) Installed On Device&#x20;
+
+2\) Connected To [PHI Smart Chain](wallet-setup/)
+{% endhint %}
+
 1\) Go To [Phiswap Analytics ](https://info.phiswap.com)
 
 2\) Search For The Token You Would Like To Import Into Wallet (Example: BTC)
