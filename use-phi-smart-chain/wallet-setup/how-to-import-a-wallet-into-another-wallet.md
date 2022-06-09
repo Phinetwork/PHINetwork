@@ -31,7 +31,7 @@ The [Private Keys](../../glossary/#p) Are Where Your Assets Are Stored. The Diff
 
 {% embed url="https://docs.phi.network/phi-wiki/glossary/difference-between-seed-phrase-and-private-keys" %}
 
-[How To Find Private Keys Attached To PHI.Network Username?](https://phi.support/index.php/knowledge-base/article/import-wallet)
+[How To Find The Private Key Attached To PHI.Network Username?](https://phi.support/index.php/knowledge-base/article/import-wallet)
 
 {% embed url="https://phi.support/index.php/knowledge-base/article/import-wallet" %}
 
