@@ -69,6 +69,7 @@
 ## Layer 2 Hybrid Dapps
 
 * [🌐 PHI.Network](layer-2-hybrid-dapps/phi.network.md)
+* [🔏 Profile Private Key](layer-2-hybrid-dapps/profile-private-key.md)
 * [📈 JI.Finance](layer-2-hybrid-dapps/ji.finance.md)
 
 ## Layer 3 PHI Dapps

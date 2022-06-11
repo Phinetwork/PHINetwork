@@ -30,8 +30,8 @@ By Default Every Username When Created On PHI.Network Has An Associated Smart Ch
 
 4\) Now Go To Your Wallet And Import Your Private Keys
 
-![](../../../.gitbook/assets/IMG\_4863.jpg) ![](../../../.gitbook/assets/IMG\_4864.jpg) ![](../../../.gitbook/assets/IMG\_4865.jpg) ![](../../../.gitbook/assets/IMG\_4866.jpg) ![](../../../.gitbook/assets/IMG\_4867.jpg) ![](../../../.gitbook/assets/IMG\_4868.jpg) ![
-](../../../.gitbook/assets/IMG\_4869.jpg)
+![](<../../../.gitbook/assets/IMG\_4863 (1).jpg>) ![](<../../../.gitbook/assets/IMG\_4864 (1).jpg>) ![](../../../.gitbook/assets/IMG\_4865.jpg) ![](../../../.gitbook/assets/IMG\_4866.jpg) ![](<../../../.gitbook/assets/IMG\_4867 (1).jpg>) ![](../../../.gitbook/assets/IMG\_4868.jpg) ![
+](<../../../.gitbook/assets/IMG\_4869 (1).jpg>)
 
 {% hint style="success" %}
 &#x20;Congratulations You Have Now Imported Your PHI Network Username Wallet To Your PHI Wallet  On The PHI Smart Chain.
