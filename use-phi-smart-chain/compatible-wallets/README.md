@@ -18,6 +18,14 @@ Available as a browser extension and as a mobile app, PHI Wallet equips you with
 
 **Download:** [Official Download](https://wallet.phi.network)
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet" %}
+Learn How To Create A New Smart Chain Wallet
+{% endembed %}
+
+{% embed url="https://wallet.phi.network" %}
+Go To PHI Non-Custodial Smart Chain Wallet
+{% endembed %}
+
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 
 Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
