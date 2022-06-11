@@ -12,7 +12,7 @@ To start the process, you will need to install and setup a [compatible wallet](h
 
 We recommend that you only use [officially supported wallets](https://docs.phi.network/phi-wiki/compatible-wallets), as unsupported wallets can pose a direct threat to your funds, finances, and assets.
 
-Please be aware that it **you are solely responsible for protecting your funds and assets on PHI Network**, and due to the decentralized nature of the Smart Chain, [PHI Support](https://phi.support) has no means of recovering stolen or locked funds. [PHI Labs](https://philabs.org) Has Launched A Protocol Called [PHI.Insure](https://phi.insure) That Insures Each Wallet Address Up To $1,000,000,000 In Deposits.&#x20;
+Please be aware that it **you are solely responsible for protecting your funds and assets on PHI Network**, and due to the decentralized nature of the Smart Chain, [PHI Support](https://phi.support) has no means of recovering stolen or locked funds.
 
 ## 2) Setup Your Wallet <a href="#2-setup-your-wallet" id="2-setup-your-wallet"></a>
 

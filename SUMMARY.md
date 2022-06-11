@@ -80,6 +80,7 @@
 * [💬 Kojib](layer-3-phi-dapps/kojib.md)
 * [🧑🤝🧑 Uttey](layer-3-phi-dapps/uttey.md)
 * [🔮 Φ App Store](layer-3-phi-dapps/f-app-store.md)
+* [☔ PHI Insurance](https://phi.insure)
 
 ## Developers
 
