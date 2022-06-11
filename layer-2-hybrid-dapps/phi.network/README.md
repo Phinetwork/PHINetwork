@@ -11,7 +11,7 @@ All In One Place
 
 **Partners**
 
-[![](https://phi.network/wp-content/uploads/2022/03/Polygon-MATIC.png)](https://polygonscan.com/token/0xd56fd957027cef9e3fd122d99df0b250f066a31f)[![](https://phi.network/wp-content/uploads/2022/03/1024px-Binance\_logo.svg.png)](https://bscscan.com/token/0x11e4a0da746a43b70b15d58babbde809cd22dbd2)[![](<../.gitbook/assets/download (20).png>)](https://philabs.org/)[![](https://phi.network/wp-content/uploads/2022/03/ethereum-development-text-home-decor-logo-symbol-transparent-png-739152-1.png)](https://etherscan.io/token/0x2d55344bc1f72e0ccbee2d8d2eab503dedff67c8)[![](https://phi.network/wp-content/uploads/2022/03/1638569855.png)](https://instantmarketcap.com/)![IMG\_4945](https://phi.network/wp-content/uploads/elementor/thumbs/IMG\_4945-pmfedaqpsdaikpnosuh0nx2rqw11e76posx0mvjj9w.png)
+[![](https://phi.network/wp-content/uploads/2022/03/Polygon-MATIC.png)](https://polygonscan.com/token/0xd56fd957027cef9e3fd122d99df0b250f066a31f)[![](https://phi.network/wp-content/uploads/2022/03/1024px-Binance\_logo.svg.png)](https://bscscan.com/token/0x11e4a0da746a43b70b15d58babbde809cd22dbd2)[![](<../../.gitbook/assets/download (20).png>)](https://philabs.org/)[![](https://phi.network/wp-content/uploads/2022/03/ethereum-development-text-home-decor-logo-symbol-transparent-png-739152-1.png)](https://etherscan.io/token/0x2d55344bc1f72e0ccbee2d8d2eab503dedff67c8)[![](https://phi.network/wp-content/uploads/2022/03/1638569855.png)](https://instantmarketcap.com/)![IMG\_4945](https://phi.network/wp-content/uploads/elementor/thumbs/IMG\_4945-pmfedaqpsdaikpnosuh0nx2rqw11e76posx0mvjj9w.png)
 
 [**Create New Wallet**](https://phi.network/register)
 
