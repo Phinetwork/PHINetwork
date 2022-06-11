@@ -1,6 +1,6 @@
 # ℹ Metamask Setup
 
-Follow the step by step Instructions below to set up your [wallet ](install-metamask.md)& connect to [PHI Smart Chain](../../../../) &#x20;
+Follow the step by step Instructions below to set up your [wallet ](../compatible-wallets/install-metamask.md)& connect to [PHI Smart Chain](../../) &#x20;
 
 {% hint style="danger" %}
 Prerequisite: [Metamask ](https://metamask.io/download/)Must Be Installed On Your Device Before Preceding With Setup Instructions. &#x20;
@@ -20,13 +20,13 @@ _**On Mobile Device**_
 
 1.d Then Click Add Network.
 
-![Step 1.a](../../../../.gitbook/assets/IMG\_5318.JPG) ![Step 1.b](../../../../.gitbook/assets/IMG\_5315.JPG) ![Step 1.c](../../../../.gitbook/assets/IMG\_5316.JPG) ![Step 1.d](../../../../.gitbook/assets/IMG\_5319.JPG)
+![Step 1.a](../../.gitbook/assets/IMG\_5318.JPG) ![Step 1.b](../../.gitbook/assets/IMG\_5315.JPG) ![Step 1.c](../../.gitbook/assets/IMG\_5316.JPG) ![Step 1.d](../../.gitbook/assets/IMG\_5319.JPG)
 {% endtab %}
 
 {% tab title="Desktop" %}
 _**On Desktop**_&#x20;
 
-Click on the network drop-down menu on the top part of your [wallet](https://docs.phi.network/phi-wiki/glossary#w), and select the "Add Network" option, as per picture below.![](<../../../../.gitbook/assets/Screen Shot 2022-05-16 at 1.51.03 PM.png>)_****_
+Click on the network drop-down menu on the top part of your [wallet](https://docs.phi.network/phi-wiki/glossary#w), and select the "Add Network" option, as per picture below.![](<../../.gitbook/assets/Screen Shot 2022-05-16 at 1.51.03 PM.png>)_****_
 {% endtab %}
 {% endtabs %}
 
@@ -34,7 +34,7 @@ Click on the network drop-down menu on the top part of your [wallet](https://doc
 
 Fill In <mark style="color:red;">All</mark> the fields with the network information (Do Not Leave the (Optional) Fields Blank They Are Not Optional Fill In The Form Entirely) as shown in the picture below.&#x20;
 
-![](../../../../.gitbook/assets/IMG\_5312.PNG)
+![](../../.gitbook/assets/IMG\_5312.PNG)
 
 * **Network Name:** PHI
 * **New RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
@@ -54,7 +54,7 @@ Click on _"Save"_
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet#metamask" %}
 
-## [Connect Wallet To Phiswap](../../../../layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)&#x20;
+## [Connect Wallet To Phiswap](../../layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)&#x20;
 
 There are two options "Metamask" & "WalletConnect"
 
@@ -91,6 +91,6 @@ ONLY SELECT THE BELOW OPTION ON DESKTOP&#x20;
 
 #### Desktop Connection&#x20;
 
-![ONLY ON DESKTOP SELECT THIS OPTION](../../../../.gitbook/assets/IMG\_5308.JPG)
+![ONLY ON DESKTOP SELECT THIS OPTION](../../.gitbook/assets/IMG\_5308.JPG)
 {% endtab %}
 {% endtabs %}

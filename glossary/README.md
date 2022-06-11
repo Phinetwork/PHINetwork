@@ -88,6 +88,8 @@
 
 **Public Ledger** - A ledger, or database, that is publicly accessible.
 
+**Progressive Web Application (PWA)** - is a website that looks and behaves as if it is a mobile app. PWAs are built to take advantage of native mobile device features, without requiring the end user to visit an app store, make a purchase and download software locally.
+
 ## R
 
 **RPC** - Stands for Remote Procedure Call, and in this document RPCs are referred to as the network's connection endpoint, used by participants to interact with a public or private ledger.
