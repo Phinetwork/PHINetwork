@@ -26,6 +26,18 @@ Learn How To Create A New Smart Chain Wallet
 Go To PHI Non-Custodial Smart Chain Wallet
 {% endembed %}
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet." %}
+Import PHI Profile Wallet Into PHI Smart Chain Wallet
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/how-to-find-phi-smart-chain-wallet-private-key" %}
+How To Find Smart Chain Wallet Private Key
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/how-to-create-a-paper-wallet" %}
+How To Create A Paper Crypto Wallet
+{% endembed %}
+
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 
 Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
