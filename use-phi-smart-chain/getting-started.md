@@ -23,6 +23,18 @@ This step will be different depending on the wallet you chose, but some basic pr
 * You would usually be able to set up various different wallets/accounts under a single [mnemonic phrase - or seed phrase](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#m). Make sure this phrase is safely stored and protected, as anyone that has it can access your wallets and submit transactions.
 * Each individual wallet will have a [public key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which are referred to as your wallet address, and a [private key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which can be used to add your wallet to different devices, and wallet software. Make sure to protect your private keys very well, as they anyone that has it will be able to access your wallet and sign transactions with it.
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet." %}
+Import PHI Network Profile Wallet Into PHI Smart Chain
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet." %}
+Import PHI Network Profile Wallet Into PHI Smart Chain Wallet
+{% endembed %}
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup" %}
+Additional Compatible Wallet Setup
+{% endembed %}
+
 ## 3) Get Some PHI (Φ) Or Phicash (Φ$) <a href="#3-get-some-snt-or-nbx" id="3-get-some-snt-or-nbx"></a>
 
 Once you have your wallet setup and connected to PHI Smart Chain, it's time for you to get some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd). There are a few ways you can get some:
