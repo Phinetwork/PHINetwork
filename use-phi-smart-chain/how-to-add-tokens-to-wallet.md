@@ -9,7 +9,7 @@ Prerequisite:&#x20;
 
 1\) [Wallet](compatible-wallets/) Installed On Device&#x20;
 
-2\) Connected To [PHI Smart Chain](additional-wallets-setup/)
+2\) Connected To [PHI Smart Chain](compatible-wallets/additional-wallets-setup/)
 {% endhint %}
 
 1\) Go To [Phiswap Analytics ](https://info.phiswap.com)

@@ -20,7 +20,7 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-![](../../.gitbook/assets/IMG\_5312.PNG)
+![](../../../.gitbook/assets/IMG\_5312.PNG)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 Best For Desktop Mobile Version Does Not Work So Great.

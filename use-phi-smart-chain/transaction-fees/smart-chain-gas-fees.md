@@ -33,5 +33,5 @@ PHI Network Refunds 100% of All Gas Fees Save Your Transaction Hash URL's & Subm
 {% endhint %}
 
 {% hint style="warning" %}
-Use [Token Pocket](../additional-wallets-setup/token-pocket-setup.md) , [Alpha Wallet Or Brave Wallet](../compatible-wallets/) For Lowest Gas Fees By Default Without Having To Manually Update&#x20;
+Use [Token Pocket](../compatible-wallets/additional-wallets-setup/token-pocket-setup.md) , [Alpha Wallet Or Brave Wallet](../compatible-wallets/) For Lowest Gas Fees By Default Without Having To Manually Update&#x20;
 {% endhint %}

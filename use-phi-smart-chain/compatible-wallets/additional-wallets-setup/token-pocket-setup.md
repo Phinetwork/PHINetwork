@@ -12,7 +12,7 @@ Prerequisite: [Token Pocket ](https://www.tokenpocket.pro/en/download/app)Must B
 
 2\) Follow The Step By Step Visual Aids Below To Connect PHI Smart Chain To Token Pocket Mobile Wallet.
 
-![Step 1](../../.gitbook/assets/IMG\_5505.jpg) ![Step 2](../../.gitbook/assets/IMG\_5506.jpg) ![Step 3](../../.gitbook/assets/IMG\_5501.jpg) ![Step 4](../../.gitbook/assets/IMG\_5502.jpg) ![Step 5](../../.gitbook/assets/IMG\_5504.jpg)
+![Step 1](../../../.gitbook/assets/IMG\_5505.jpg) ![Step 2](../../../.gitbook/assets/IMG\_5506.jpg) ![Step 3](../../../.gitbook/assets/IMG\_5501.jpg) ![Step 4](../../../.gitbook/assets/IMG\_5502.jpg) ![Step 5](../../../.gitbook/assets/IMG\_5504.jpg)
 
 PHI Network Connection Details:
 
