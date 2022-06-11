@@ -8,6 +8,16 @@ description: A list of wallets you can use to connect to PHI Network & PHI Smart
 
 You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use PHI Smart Chain. As you will find many compatible [wallets](https://docs.phi.network/phi-wiki/glossary#w) out there, we officially support only the ones listed below, and strongly advise you to give them preference over untested and unknown wallet providers, as it can result in all your funds and assets being at risk.
 
+PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
+
+![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
+
+Available as a browser extension and as a mobile app, PHI Wallet equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+
+**Compatibility:** Browser Extension, Mobile PWA
+
+**Download:** [Official Download](https://wallet.phi.network)
+
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 
 Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
