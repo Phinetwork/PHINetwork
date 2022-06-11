@@ -1,6 +1,6 @@
 # ℹ Brave Setup
 
-Follow the step by step Instructions below to set up brave wallet & connect to [PHI Smart Chain](../../) &#x20;
+Follow the step by step Instructions below to set up brave wallet & connect to [PHI Smart Chain](../../../../) &#x20;
 
 {% hint style="danger" %}
 Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Device Before Preceding With Setup Instructions. &#x20;
@@ -22,13 +22,13 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 
 7\) Click Save
 
-![Click 3 dots in bottom left hand corner](../../.gitbook/assets/IMG\_4683.jpg) ![Click Wallet (Beta)](../../.gitbook/assets/IMG\_4684.jpg) ![Click Ethereum Next To The Wallet Balance](../../.gitbook/assets/IMG\_4685.jpg) ![Click Add Network ](../../.gitbook/assets/IMG\_4686.jpg) ![Fill In The Form Completely ](../../.gitbook/assets/IMG\_4687.jpg) ![Make Sure The Form Is Filled In Entirety Then Click Save.](../../.gitbook/assets/IMG\_4688.jpg)
+![Click 3 dots in bottom left hand corner](../../../../.gitbook/assets/IMG\_4683.jpg) ![Click Wallet (Beta)](../../../../.gitbook/assets/IMG\_4684.jpg) ![Click Ethereum Next To The Wallet Balance](../../../../.gitbook/assets/IMG\_4685.jpg) ![Click Add Network ](../../../../.gitbook/assets/IMG\_4686.jpg) ![Fill In The Form Completely ](../../../../.gitbook/assets/IMG\_4687.jpg) ![Make Sure The Form Is Filled In Entirety Then Click Save.](../../../../.gitbook/assets/IMG\_4688.jpg)
 
 ****
 {% endtab %}
 
 {% tab title="Desktop" %}
-![Click Wallet Icon In The Top Right Hand Corner](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.51.01 PM.png>) ![Click Ethereum ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.52.18 PM.png>) ![Click Plus "+" Icon In Top Right Below The Wallet Icon](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.53.01 PM.png>) ![Click Add](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.02 PM.png>) ![Enter Chain information ](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.53 PM.png>) ![Click Submit](<../../.gitbook/assets/Screen Shot 2022-06-06 at 3.55.06 PM.png>)
+![Click Wallet Icon In The Top Right Hand Corner](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.51.01 PM.png>) ![Click Ethereum ](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.52.18 PM.png>) ![Click Plus "+" Icon In Top Right Below The Wallet Icon](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.53.01 PM.png>) ![Click Add](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.02 PM.png>) ![Enter Chain information ](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.54.53 PM.png>) ![Click Submit](<../../../../.gitbook/assets/Screen Shot 2022-06-06 at 3.55.06 PM.png>)
 {% endtab %}
 {% endtabs %}
 

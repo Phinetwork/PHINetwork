@@ -11,7 +11,7 @@ Prerequisite:&#x20;
 
 1\) [Token Pocket](https://www.tokenpocket.pro/) Installed On Your Mobile Device&#x20;
 
-2\)  [Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
+2\)  [Connected To PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/token-pocket-setup.md)
 {% endhint %}
 
 1\) Inside Token Pocket Go To Token Pocket dApp Browser By Clicking The "_Discover"_ Tab In The Bottom App Menu.
@@ -43,7 +43,7 @@ This Page Will Display All Tokens Mint From Your Connected Wallet
 {% hint style="danger" %}
 Prerequisite:
 
-[Metamask Extension Installed](../../use-phi-smart-chain/compatible-wallets/install-metamask.md)
+[Metamask Extension Installed](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/metamask-setup/install-metamask.md)
 {% endhint %}
 
 ![Step 1](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.26 PM (1).png>) ![Step 2](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.35 PM (1).png>) ![Step 3](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.43 PM.png>)

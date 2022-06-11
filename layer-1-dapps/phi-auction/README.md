@@ -11,7 +11,7 @@ Prerequisite:&#x20;
 
 1\) [Wallet](../../use-phi-smart-chain/compatible-wallets/) Installed On Device
 
-2\) Connected To [PHI Smart Chain ](../../use-phi-smart-chain/wallet-setup/)
+2\) Connected To [PHI Smart Chain ](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/)
 
 3\) Connected To [PHI Auction](how-to-connect-to-phi-auction.md)&#x20;
 {% endhint %}
