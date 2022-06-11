@@ -32,12 +32,20 @@ Once you have your wallet setup and connected to PHI Smart Chain, it's time for 
 * [Buy PHI](https://buy.phi.holdings/product/%CF%86/) or [Buy Phicash](https://buy.phi.holdings/product/%CF%86-2/) & deposit it to your wallet;
 * Earn [PHI](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) on [PHI.Network](https://phi.network)
 
-{% hint style="info" %}
-[PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) is PHI network's native and primary token.&#x20;
-{% endhint %}
+{% embed url="https://buy.phi.holdings/product/%CF%86-2/" %}
+BUY Phicash (Φ$)
+{% endembed %}
 
 {% hint style="info" %}
 [Phicash (Φ$) ](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd)Is An Algorithmic Stable Coin Pegged To The United States Dollar ($USD).&#x20;
+{% endhint %}
+
+{% embed url="https://buy.phi.holdings/product/%CF%86/" %}
+BUY PHI (Φ)
+{% endembed %}
+
+{% hint style="info" %}
+[PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) is PHI network's native and primary token.&#x20;
 {% endhint %}
 
 ## 4) Start using it! <a href="#4-start-using-it" id="4-start-using-it"></a>
