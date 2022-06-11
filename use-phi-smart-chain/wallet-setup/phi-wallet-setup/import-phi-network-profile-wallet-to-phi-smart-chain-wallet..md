@@ -1,4 +1,10 @@
-# Import PHI Network Profile Wallet To PHI Smart Chain Wallet.
+---
+description: >-
+  Step By Step Guide To Import Your PHI Network Profile Wallet To Your PHI
+  Network Smart Chain Wallet.
+---
+
+# 🔃 Import PHI Network Profile Wallet To PHI Smart Chain Wallet.
 
 By Default Every Username When Created On PHI.Network Has An Associated Smart Chain Address Linked To It. You Can View & Use This Wallet By Exporting The [Private Keys](https://docs.phi.network/phi-wiki/glossary/difference-between-seed-phrase-and-private-keys) That Can Be Found On The [Wallet Page](https://phi.network/send) of PHI.Network App.&#x20;
 
