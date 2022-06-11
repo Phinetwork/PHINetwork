@@ -23,14 +23,22 @@ This step will be different depending on the wallet you chose, but some basic pr
 * You would usually be able to set up various different wallets/accounts under a single [mnemonic phrase - or seed phrase](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#m). Make sure this phrase is safely stored and protected, as anyone that has it can access your wallets and submit transactions.
 * Each individual wallet will have a [public key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which are referred to as your wallet address, and a [private key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which can be used to add your wallet to different devices, and wallet software. Make sure to protect your private keys very well, as they anyone that has it will be able to access your wallet and sign transactions with it.
 
-## 3) Get Some PHI <a href="#3-get-some-snt-or-nbx" id="3-get-some-snt-or-nbx"></a>
+## 3) Get Some PHI (Φ) Or Phicash (Φ$) <a href="#3-get-some-snt-or-nbx" id="3-get-some-snt-or-nbx"></a>
 
-Once you have your wallet setup and connected to PHI Smart Chain, it's time for you to get some PHI. There are a few ways you can get some PHI:
+Once you have your wallet setup and connected to PHI Smart Chain, it's time for you to get some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd). There are a few ways you can get some PHI:
 
-* Ask a friend to sell you some PHI;
-* Sell An Asset, Product Or Service For PHI
-* [Buy PHI ](https://buy.phi.holdings/product/phi)& deposit it to your wallet;
-* Earn PHI on [PHI.Network](https://phi.network)
+* Ask a friend to sell you some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd);
+* Sell An Asset, Product Or Service For [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd)&#x20;
+* [Buy PHI](https://buy.phi.holdings/product/%CF%86/) or [Buy Phicash](https://buy.phi.holdings/product/%CF%86-2/) & deposit it to your wallet;
+* Earn [PHI](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) on [PHI.Network](https://phi.network)
+
+{% hint style="info" %}
+[PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) is PHI network's native and primary token.&#x20;
+{% endhint %}
+
+{% hint style="info" %}
+[Phicash (Φ$) ](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd)Is An Algorithmic Stable Coin Pegged To The United States Dollar ($USD).&#x20;
+{% endhint %}
 
 ## 4) Start using it! <a href="#4-start-using-it" id="4-start-using-it"></a>
 
