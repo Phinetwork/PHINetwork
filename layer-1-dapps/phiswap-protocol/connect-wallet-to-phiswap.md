@@ -5,7 +5,7 @@ Prerequisite:&#x20;
 
 1\) [Wallet Installed](../../use-phi-smart-chain/compatible-wallets/)
 
-2\) [Wallet Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/)
+2\) [Wallet Connected To PHI Smart Chain](../../use-phi-smart-chain/additional-wallets-setup/)
 {% endhint %}
 
 There are two options "Metamask" & "WalletConnect"
@@ -30,15 +30,15 @@ For Mobile Devices Select WalletConnect
 
 
 
-**On Mobile Devices:** For The Best Swap Experience Use [Token Pocket Wallet ](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)dApp Browser
+**On Mobile Devices:** For The Best Swap Experience Use [Token Pocket Wallet ](../../use-phi-smart-chain/additional-wallets-setup/token-pocket-setup.md)dApp Browser
 
 #### **Token Pocket Connection Instructions**&#x20;
 
 {% hint style="warning" %}
-[Connect PHI Smart Chain To Token Pocket](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
+[Connect PHI Smart Chain To Token Pocket](../../use-phi-smart-chain/additional-wallets-setup/token-pocket-setup.md)
 {% endhint %}
 
-* [ ] 1\) Inside Token Pocket _(After_ [_Connected To PHI Smart Chain_](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)_)_
+* [ ] 1\) Inside Token Pocket _(After_ [_Connected To PHI Smart Chain_](../../use-phi-smart-chain/additional-wallets-setup/token-pocket-setup.md)_)_
   * [ ] 1.a) **** Go To Token Pocket dApp Browser By Clicking The "_Discover"_ Tab In The Bottom App Menu.&#x20;
   * [ ] 1.b) Go To App.phiswap.com
 

@@ -11,7 +11,7 @@ Prerequisite:&#x20;
 
 1\) [Token Pocket](https://www.tokenpocket.pro/) Installed On Your Mobile Device&#x20;
 
-2\)  [Connected To PHI Smart Chain](../../use-phi-smart-chain/wallet-setup/token-pocket-setup.md)
+2\)  [Connected To PHI Smart Chain](../../use-phi-smart-chain/additional-wallets-setup/token-pocket-setup.md)
 {% endhint %}
 
 1\) Inside Token Pocket Go To Token Pocket dApp Browser By Clicking The "_Discover"_ Tab In The Bottom App Menu.

@@ -1,4 +1,11 @@
-# 🏦 Wallet Setup
+---
+description: >-
+  Additional Wallets That Are Compatible With PHI Smart Chain. A Step By Step
+  Guide To Connect Your Favorite 3rd Party & Open-source Wallets To PHI Smart
+  Chain.
+---
+
+# 🏦 Additional Wallets Setup
 
 ## Connection Details <a href="#connection-details" id="connection-details"></a>
 
