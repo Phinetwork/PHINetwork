@@ -6,7 +6,7 @@ description: A list of wallets you can use to connect to PHI Network & PHI Smart
 
 ## List of Supported Wallets <a href="#list-of-supported-wallets" id="list-of-supported-wallets"></a>
 
-You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use PHI Smart Chain. As you will find many compatible [wallets](https://docs.phi.network/phi-wiki/glossary#w) out there, we officially support only the ones listed below, and strongly advise you to give them preference over untested and unknown wallet providers, as it can result in all your funds and assets being at risk.
+You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [PHI Smart Chain](../../). As you will find many compatible [wallets](https://docs.phi.network/phi-wiki/glossary#w) out there, we officially support only the ones listed below, and strongly advise you to give them preference over untested and unknown wallet providers, as it can result in all your funds and assets being at risk.
 
 PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
 
