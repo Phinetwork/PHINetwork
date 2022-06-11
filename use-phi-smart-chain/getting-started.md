@@ -25,7 +25,7 @@ This step will be different depending on the wallet you chose, but some basic pr
 
 ## 3) Get Some PHI (Φ) Or Phicash (Φ$) <a href="#3-get-some-snt-or-nbx" id="3-get-some-snt-or-nbx"></a>
 
-Once you have your wallet setup and connected to PHI Smart Chain, it's time for you to get some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd). There are a few ways you can get some PHI:
+Once you have your wallet setup and connected to PHI Smart Chain, it's time for you to get some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd). There are a few ways you can get some:
 
 * Ask a friend to sell you some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd);
 * Sell An Asset, Product Or Service For [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd)&#x20;
