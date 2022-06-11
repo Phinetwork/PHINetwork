@@ -14,6 +14,10 @@ We recommend that you only use [officially supported wallets](https://docs.phi.n
 
 Please be aware that it **you are solely responsible for protecting your funds and assets on PHI Network**, and due to the decentralized nature of the Smart Chain, [PHI Support](https://phi.support) has no means of recovering stolen or locked funds. [PHI Labs](https://philabs.org) Has Launched A Protocol Called [PHI.Insure](https://phi.insure) That Insures Each Wallet Address Up To $1,000,000,000 In Deposits.&#x20;
 
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets" %}
+Select A Compatible Wallet
+{% endembed %}
+
 ## 2) Setup Your Wallet <a href="#2-setup-your-wallet" id="2-setup-your-wallet"></a>
 
 This step will be different depending on the wallet you chose, but some basic principles apply when setting up your [wallet](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#w):
@@ -27,8 +31,8 @@ This step will be different depending on the wallet you chose, but some basic pr
 Import PHI Network Profile Wallet Into PHI Smart Chain
 {% endembed %}
 
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet." %}
-Import PHI Network Profile Wallet Into PHI Smart Chain Wallet
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet" %}
+Create A New Smart Chain Wallet
 {% endembed %}
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup" %}
