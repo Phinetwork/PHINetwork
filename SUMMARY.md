@@ -23,7 +23,7 @@
     * [🏦 PHI Wallet Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/README.md)
       * [📃 How To Create A Paper Wallet?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/how-to-create-a-paper-wallet.md)
       * [🔐 How To Find PHI Smart Chain Wallet Private Key](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/how-to-find-phi-smart-chain-wallet-private-key.md)
-      * [🔃 Import PHI Network Profile Wallet To PHI Smart Chain Wallet.](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet..md)
+      * [🔃 Import PHI Network Profile Wallet To PHI Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet.md)
     * [🏦 Additional Wallets Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/README.md)
       * [ℹ Metamask Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/metamask-setup/README.md)
         * [⤵ Install Metamask](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/metamask-setup/install-metamask.md)
