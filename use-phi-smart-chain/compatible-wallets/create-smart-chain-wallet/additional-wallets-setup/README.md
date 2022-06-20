@@ -22,6 +22,10 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 
 ![](../../../../.gitbook/assets/IMG\_5312.PNG)
 
+Alpha Wallet Has Fully Integrated PHI Network Smart Chain You Can Select PHI In The Select Networks List Without Having To Add The RPC & Explorer Information Manually. Alpha Wallets dApp Browser On Mobiles Devices Works Great To Seamlessly Interact With Any Of PHI Networks dApps likeI [Phiswap](../../../../layer-1-dapps/phiswap-protocol/).&#x20;
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/alpha-wallet-setup" %}
+
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 Best For Desktop Mobile Version Does Not Work So Great.
 {% endembed %}
