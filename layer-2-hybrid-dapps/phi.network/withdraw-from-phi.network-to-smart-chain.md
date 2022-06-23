@@ -20,7 +20,10 @@ Prerequisites:&#x20;
 
 2\) Fill In The Amount Where It Says Withdraw To Smart Chain
 
-3\) In The Message Box Place Your Wallet Address To Receive Your Withdraw Or PHI Will Be Sent To The Smart Chain Wallet That Is Connected To Your PHI.Network Account By Default. You Can Find The Private Keys To Your PHI.Network Profile Wallet [Here](profile-private-key.md)
+3\) In The Message Box Put The Smart Chain Wallet Address You Want To Receive Your Withdraw.&#x20;
+
+* [ ] If No Address Is Specified In The Messages PHI Will Be Sent To The Smart Chain Wallet That Is Connected To Your PHI.Network Account By Default.&#x20;
+* [ ] You Can Find The Private Keys To Your PHI.Network Profile Wallet [Here](profile-private-key.md)
 
 4\) Click Withdraw
 
