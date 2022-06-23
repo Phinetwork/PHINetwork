@@ -73,7 +73,7 @@
 
 * [🌐 PHI.Network](layer-2-hybrid-dapps/phi.network/README.md)
   * [🔏 Profile Private Key](layer-2-hybrid-dapps/phi.network/profile-private-key.md)
-  * [🔄 Withdraw From PHI.Network To Smart Chain](layer-2-hybrid-dapps/phi.network/withdraw-from-phi.network-to-smart-chain.md)
+  * [🔄 Withdraw PHI (Φ) From PHI.Network To Smart Chain](layer-2-hybrid-dapps/phi.network/withdraw-phi-f-from-phi.network-to-smart-chain.md)
 * [📈 JI.Finance](layer-2-hybrid-dapps/ji.finance.md)
 
 ## Layer 3 PHI Dapps

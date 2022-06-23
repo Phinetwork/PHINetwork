@@ -1,5 +1,15 @@
 # 📈 JI.Finance
 
+{% hint style="danger" %}
+THIS APP IS CURRENTLY IN BETA&#x20;
+
+PLEASE USE AT YOUR OWN RISK&#x20;
+
+IF YOU FACE ANY ISSUES PLEASE CONTACT [PHI.SUPPORT](https://phi.support) AND IT WILL BE HANDLED ACCORDING.
+
+THIS PAGE WILL INFORM WHEN JI.FINANCE IS FULLY LIVE AND OUT OF BETA DEVELOPMENT.
+{% endhint %}
+
 ### Private Crypto Exchange
 
 Secure & Easy To Use.
