@@ -17,7 +17,10 @@
 
 ## Use PHI Smart Chain
 
-* [⭐ Getting Started](use-phi-smart-chain/getting-started.md)
+* [⭐ Getting Started](use-phi-smart-chain/getting-started/README.md)
+  * [🪙 How To Buy Bitcoin?](use-phi-smart-chain/getting-started/how-to-buy-bitcoin.md)
+  * [🪙 How To Buy Cryptocurrency?](use-phi-smart-chain/getting-started/how-to-buy-cryptocurrency.md)
+  * [🪙 How To Contribute Cryptocurrencies For PHI (Φ)?](use-phi-smart-chain/getting-started/how-to-contribute-cryptocurrencies-for-phi-f.md)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)
   * [🏦 Create Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/README.md)
     * [🏦 PHI Wallet Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/README.md)
