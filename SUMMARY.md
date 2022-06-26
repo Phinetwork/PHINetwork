@@ -19,8 +19,8 @@
 
 * [⭐ Getting Started](use-phi-smart-chain/getting-started/README.md)
   * [🪙 How To Buy Bitcoin?](use-phi-smart-chain/getting-started/how-to-buy-bitcoin.md)
-  * [🪙 Additional Methods To Buy BTC & Cryptocurrency?](use-phi-smart-chain/getting-started/additional-methods-to-buy-btc-and-cryptocurrency.md)
-  * [🪙 How To Contribute Cryptocurrencies For PHI (Φ)?](use-phi-smart-chain/getting-started/how-to-contribute-cryptocurrencies-for-phi-f.md)
+  * [🪙 Additional Methods To Buy BTC & Cryptocurrency?](use-phi-smart-chain/getting-started/how-to-buy-cryptocurrency.md)
+  * [🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?](use-phi-smart-chain/getting-started/how-to-contribute-bitcoin-btc-for-phi-f.md)
   * [❔ How To Find A Transaction Hash TX?](use-phi-smart-chain/getting-started/how-to-find-a-transaction-hash-tx.md)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)
   * [🏦 Create Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/README.md)
