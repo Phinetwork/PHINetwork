@@ -5,8 +5,6 @@
 Earn, Entertain. Engage & Exchange\
 All In One Place
 
-[Create Wallet](https://phi.network/register)
-
 [Login](https://phi.network/login)
 
 [**Create New Wallet**](https://phi.network/register)
@@ -16,12 +14,6 @@ All In One Place
 ### PHI Network
 
 The Community-Run Technology Powering The Cryptocurrency PHI (PHI). Social Entertainment PHIverse. Fastest, Securest & Easiest To Use Blockchain. Instant, Scalable, Secure, Private, P2P Network. Zero Transaction Fees
-
-[Login](https://phi.network/login)
-
-Log In With A Crypto Wallet
-
-
 
 ### Zero Fees
 
@@ -34,8 +26,6 @@ PHI Network Social Blockchain Is Free To Use & Transact Value. Members Are never
 **Private & Secure**
 
 **Community Owned**
-
-[Create New Wallet](https://phi.network/register)Log In With A Crypto Wallet
 
 **PHUTURE OF PHINANCE**
 
