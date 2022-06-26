@@ -1,10 +1,10 @@
 # 🪙 How To Buy Bitcoin?
 
-[![Cash App](https://cash-f.squarecdn.com/ember/54772a98be4a0ed1bd8df515224da3a445ec4aed/assets/images/region/us/icon-square-cash.svg) Cash App](https://cash.app/help)
+[![Cash App](https://cash-f.squarecdn.com/ember/54772a98be4a0ed1bd8df515224da3a445ec4aed/assets/images/region/us/icon-square-cash.svg) ](https://cash.app/help)
+
+Download: [Cash App](https://cash.app)
 
 ## Buying Bitcoin
-
-[Cash App Support](https://cash.app/help) [Buying Bitcoin](https://cash.app/help/us/en-us/3101-buying-bitcoin)
 
 To purchase bitcoin using your Cash App:
 
