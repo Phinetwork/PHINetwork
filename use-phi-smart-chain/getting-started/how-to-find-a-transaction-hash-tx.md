@@ -30,5 +30,5 @@ Depending on the type of digital currency that was sent, you can find the transa
 2. Go To Transaction History Within Your Wallet.
 3. Click The Transaction You Want The Hash Url Tx
 4. View On Block Explorer Copy The Block Explorer URL
-   * [https://explorer.phi.network](https://explorer.phi.network)&#x20;
+   * [https://explorer.phi.network/tx/0x...](https://explorer.phi.network)
 5. Now You Can Send This Transaction Hash URL As A Receipt To Prove You Have Sent The Funds.&#x20;
