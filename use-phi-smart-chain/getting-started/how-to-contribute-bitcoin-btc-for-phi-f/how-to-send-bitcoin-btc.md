@@ -19,24 +19,11 @@ To do so:
 
 You need to withdraw at least 0.001 bitcoin to make a withdrawal using the Standard withdrawal speed. Rush and Priority withdrawals have no minimum withdrawal amount.
 
-You can also receive bitcoin from any wallet using the blockchain.
-
-To do so:
-
-1. Tap the Bitcoin tab on your Cash App home screen
-2. Tap the Airplane button
-3. Choose deposit Bitcoin
-4. Copy or share your Cash App Bitcoin address with an external wallet. You can also scan the QR code for the destination Bitcoin wallet address
-
 #### Limits
 
 Sending Bitcoin has a few limits to be aware of.
 
-The minimum amount per transaction to a $Cashtag is 0.00001 BTC or 1,000 sats (Satoshis).
-
 Weekly sending limit: $7,500
-
-Weekly receiving limit: $7,500
 
 
 
