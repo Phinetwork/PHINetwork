@@ -4,7 +4,7 @@ description: >-
   Receipt To Confirm Transactions.
 ---
 
-# What Is A Transaction Hash TX?
+# ❔ What Is A Transaction Hash TX?
 
 ## What is a transaction hash/hash ID?
 
