@@ -14,7 +14,7 @@ Follow This Step By Step Visual Aide To Learn How To Receive PHI To Your Wallet.
 
 1. [Withdraw Mined PHI From PHI.Network To Smart Chain Wallet](https://phi.network/send)
 2. [Contribute BTC & Other Cryptocurrencies To Have PHI Sent To Your Wallet](https://phi.network/buy)
-3.  [Offer Something Of Value To PHI Holders & Have Them Send You PHI To Your Wallet Address & Then Send The Offering To Person You Are Trading With. ](https://phi.network/get)
+3.  [Offer Something Of Value To PHI Holders & Have Them Send You PHI To Your Wallet Address & Then Send The Offering To The Person You Are Trading With. ](https://phi.network/get)
 
 
 
