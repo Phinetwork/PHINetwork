@@ -5,13 +5,7 @@
 Earn, Entertain. Engage & Exchange\
 All In One Place
 
-[Create Wallet](https://phi.network/register)
-
 [Login](https://phi.network/login)
-
-**Partners**
-
-[![](https://phi.network/wp-content/uploads/2022/03/Polygon-MATIC.png)](https://polygonscan.com/token/0xd56fd957027cef9e3fd122d99df0b250f066a31f)[![](https://phi.network/wp-content/uploads/2022/03/1024px-Binance\_logo.svg.png)](https://bscscan.com/token/0x11e4a0da746a43b70b15d58babbde809cd22dbd2)[![](<../../.gitbook/assets/download (20).png>)](https://philabs.org/)[![](https://phi.network/wp-content/uploads/2022/03/ethereum-development-text-home-decor-logo-symbol-transparent-png-739152-1.png)](https://etherscan.io/token/0x2d55344bc1f72e0ccbee2d8d2eab503dedff67c8)[![](https://phi.network/wp-content/uploads/2022/03/1638569855.png)](https://instantmarketcap.com/)![IMG\_4945](https://phi.network/wp-content/uploads/elementor/thumbs/IMG\_4945-pmfedaqpsdaikpnosuh0nx2rqw11e76posx0mvjj9w.png)
 
 [**Create New Wallet**](https://phi.network/register)
 
@@ -21,29 +15,17 @@ All In One Place
 
 The Community-Run Technology Powering The Cryptocurrency PHI (PHI). Social Entertainment PHIverse. Fastest, Securest & Easiest To Use Blockchain. Instant, Scalable, Secure, Private, P2P Network. Zero Transaction Fees
 
-[Login](https://phi.network/login)Log In With A Crypto Wallet
-
-
-
 ### Zero Fees
 
-PHI Network Social Blockchain Is Free To Use & Transact Value. Members Are never Charged For Sending, Receiving, Exchanging Or Holding Their Value On PHI Network.[![](https://phi.network/wp-content/uploads/2022/03/img-8-min.jpg)](https://phi.network)
+PHI Network Social Blockchain Is Free To Use & Transact Value. Members Are never Charged For Sending, Receiving, Exchanging Or Holding Their Value On PHI Network
 
-**Zero Fees**
+**Zero Fee**
 
-[![](https://phi.network/wp-content/uploads/2022/03/img-2-min.jpg)](https://phi.network)
-
-**Instant Transactions**
-
-[![](https://phi.network/wp-content/uploads/2022/03/why-sect2.jpg)](https://phi.network)
+**Instant Transaction**
 
 **Private & Secure**
 
-[![](https://phi.network/wp-content/uploads/2022/03/why-sect1.jpg)](https://phi.network)
-
 **Community Owned**
-
-[Create New Wallet](https://phi.network/register)Log In With A Crypto Wallet
 
 **PHUTURE OF PHINANCE**
 

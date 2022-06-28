@@ -8,7 +8,17 @@ description: A list of wallets you can use to connect to PHI Network & PHI Smart
 
 You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [PHI Smart Chain](../../). As you will find many compatible [wallets](https://docs.phi.network/phi-wiki/glossary#w) out there, we officially support only the ones listed below, and strongly advise you to give them preference over untested and unknown wallet providers, as it can result in all your funds and assets being at risk.
 
-PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
+
+
+<mark style="color:green;">Recommended Wallet:</mark>
+
+![PHI.Holdings](<../../.gitbook/assets/Screen Shot 2022-06-27 at 5.24.14 PM.png>)
+
+{% embed url="https://phi.holdings" %}
+<mark style="color:green;">This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.</mark>&#x20;
+{% endembed %}
+
+Back Up PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
 
 ![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
 
