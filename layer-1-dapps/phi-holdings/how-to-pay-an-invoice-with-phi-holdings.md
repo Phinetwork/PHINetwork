@@ -2,7 +2,7 @@
 description: Step By Step Guide On How To Pay An Invoice Using PHI Holdings Wallet.
 ---
 
-# 💸 How To Pay An Invoice With PHI Holdings?
+# 📄 How To Pay An Invoice With PHI Holdings?
 
 Go To The Url That Was Sent To You By The Person Who Created The Invoice.
 
