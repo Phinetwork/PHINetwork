@@ -55,6 +55,7 @@
 
 * [🏦 PHI Holdings](layer-1-dapps/phi-holdings/README.md)
   * [➕ Create PHI Holdings Wallet](layer-1-dapps/phi-holdings/create-phi-holdings-wallet.md)
+  * [🔐 Find Private Keys Of PHI Holdings Wallet](layer-1-dapps/phi-holdings/find-private-keys-of-phi-holdings-wallet.md)
 * [🦄 Phiswap Protocol](layer-1-dapps/phiswap-protocol/README.md)
   * [🔌 Connect Wallet To Phiswap](layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)
   * [🔎 Find Wallet Address](layer-1-dapps/phiswap-protocol/find-wallet-address.md)
