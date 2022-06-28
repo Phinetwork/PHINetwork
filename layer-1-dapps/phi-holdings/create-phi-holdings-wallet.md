@@ -6,6 +6,10 @@ description: >-
 
 # ➕ Create PHI Holdings Wallet
 
+{% embed url="https://phi.holdings" %}
+Click Here To Open PHI.Holdings Decentralized Application
+{% endembed %}
+
 ![Add PHI Holdings To Home Screen](../../.gitbook/assets/IMG\_5251.jpg) ![Hit Add To Home Screen](../../.gitbook/assets/IMG\_5252.jpg) ![Click Add](../../.gitbook/assets/IMG\_5253.jpg)
 
 Congratulations You Have Now Installed PHI Holdings Mobile App To Your Device
