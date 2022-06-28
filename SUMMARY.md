@@ -58,6 +58,7 @@
   * [🔐 Find Private Keys Of PHI Holdings Wallet](layer-1-dapps/phi-holdings/find-private-keys-of-phi-holdings-wallet.md)
   * [📪 How To Send An Invoice Via PHI Holdings](layer-1-dapps/phi-holdings/how-to-send-an-invoice-via-phi-holdings.md)
   * [💸 How To Pay An Invoice With PHI Holdings?](layer-1-dapps/phi-holdings/how-to-pay-an-invoice-with-phi-holdings.md)
+* [How To Send PHI & PHI20 Tokens Using PHI Holdings](layer-1-dapps/how-to-send-phi-and-phi20-tokens-using-phi-holdings.md)
 * [🦄 Phiswap Protocol](layer-1-dapps/phiswap-protocol/README.md)
   * [🔌 Connect Wallet To Phiswap](layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)
   * [🔎 Find Wallet Address](layer-1-dapps/phiswap-protocol/find-wallet-address.md)
