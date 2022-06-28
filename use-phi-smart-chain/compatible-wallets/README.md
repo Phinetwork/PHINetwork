@@ -13,7 +13,8 @@ You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [P
 <mark style="color:green;">Recommended Wallet:</mark>
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings" %}
-PHI Holdings Documentation & Visual Aides
+Step By Step Guide To Walk You Through The PHI Holdings Wallet Features & Functions.\
+
 {% endembed %}
 
 ![PHI.Holdings](<../../.gitbook/assets/Screen Shot 2022-06-27 at 5.24.14 PM.png>)
