@@ -26,7 +26,7 @@ Depending on the type of digital currency that was sent, you can find the transa
 
 #### How To Find PHI Smart Chain Transaction Hash?
 
-1. Go To Your [Wallet](../compatible-wallets/) Thats Connected To [PHI Smart Chain](../compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/) That Sent The Transaction.
+1. Go To Your [Wallet](../compatible-wallets/) Thats Connected To [PHI Smart Chain](../compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/) That Sent The Transaction.
 2. Go To Transaction History Within Your Wallet.
 3. Click The Transaction You Want The Hash Url Tx
 4. View On Block Explorer Copy The Block Explorer URL

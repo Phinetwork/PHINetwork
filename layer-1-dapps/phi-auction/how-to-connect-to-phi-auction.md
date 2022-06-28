@@ -9,12 +9,12 @@ description: Connect To PHI NFT Marketplace To Easily Mint, Buy & Sell.
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-1\) [Token Pocket Wallet](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/token-pocket-setup.md) Installed
+1\) [Token Pocket Wallet](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md) Installed
 
-2\)[ Connected To PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/token-pocket-setup.md)
+2\)[ Connected To PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md)
 {% endhint %}
 
-1\) Go to [Token Pocket ](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/token-pocket-setup.md)Wallet On Mobile Device.
+1\) Go to [Token Pocket ](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md)Wallet On Mobile Device.
 
 2\) Then Click Discover Tab In The Bottom Menu
 
@@ -35,7 +35,7 @@ Prerequisite:&#x20;
 
 1\) [Wallet ](../../use-phi-smart-chain/compatible-wallets/)Installed
 
-2\) [Connected To PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/)
+2\) [Connected To PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/)
 {% endhint %}
 
 ![Click Connect In The Top Right Hand Corner Of Your Screen](<../../.gitbook/assets/Screen Shot 2022-06-02 at 11.17.28 AM.png>)
