@@ -10,9 +10,13 @@ description: >-
 The Recommended Non-Custodial Wallet For PHI Network Is [PHI.Holdings](https://phi.holdings)
 {% endhint %}
 
-{% embed url="https://phi.holdings" %}
+![PHI.Holdings](<../../../.gitbook/assets/Screen Shot 2022-06-27 at 5.24.14 PM (1).png>)
 
-Additional Back Up PHI Branded Wallet&#x20;
+{% embed url="https://phi.holdings" %}
+Recommended Non-custodial Mobile Wallet
+{% endembed %}
+
+## Additional Back Up PHI Branded Wallet&#x20;
 
 This Wallet Allows For The Creation Of Paper Wallets.
 
