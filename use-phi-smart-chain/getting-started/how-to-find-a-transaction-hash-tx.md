@@ -15,14 +15,6 @@ Depending on the type of digital currency that was sent, you can find the transa
 
 
 * BTC: [https://www.blockchain.com/explorer?view=btc](https://www.blockchain.com/explorer?view=btc)&#x20;
-* ETH: [https://etherscan.io/](https://etherscan.io/)
-* BSC: [https://bscscan.com/](https://bscscan.com)
-* LTC: [https://live.blockcypher.com/](https://live.blockcypher.com/) (Make sure to set to LTC, not BTC!)
-* BCH: [https://bch.btc.com/](https://bch.btc.com/)
-* ETC: [https://gastracker.io/](https://gastracker.io/)
-* XLM: [https://stellar.expert/explorer/public/](https://stellar.expert/explorer/public/)
-* XRP: [https://xrpscan.com/](https://xrpscan.com/)
-* EOS: [https://www.eosx.io/](https://www.eosx.io/)
 
 #### How To Find PHI Smart Chain Transaction Hash?
 
