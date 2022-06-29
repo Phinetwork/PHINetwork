@@ -14,7 +14,7 @@ Depending on the type of digital currency that was sent, you can find the transa
 
 
 
-* BTC: [https://www.blockchain.com/](https://www.blockchain.com/)
+* BTC: [https://www.blockchain.com/explorer?view=btc](https://www.blockchain.com/explorer?view=btc)&#x20;
 * ETH: [https://etherscan.io/](https://etherscan.io/)
 * BSC: [https://bscscan.com/](https://bscscan.com)
 * LTC: [https://live.blockcypher.com/](https://live.blockcypher.com/) (Make sure to set to LTC, not BTC!)
