@@ -6,4 +6,12 @@ description: >-
 
 # 🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?
 
-{% embed url="https://phi.network/buy" %}
+{% embed url="https://buy.phi.holdings" %}
+Click To Contribute Cryptocurrency (BTC, ETH or Doge) For PHI
+{% endembed %}
+
+Step By Step Tutorial On How To Use The Contribution Form.
+
+{% embed url="https://phi.network/contribute" %}
+Learn How To Use The Contribution Form.&#x20;
+{% endembed %}
