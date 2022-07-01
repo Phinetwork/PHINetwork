@@ -1,4 +1,22 @@
+---
+description: Learn How To Send BTC. So You Can Contribute BTC for PHI.
+---
+
 # 💸 How To Send Bitcoin (BTC)?
+
+## Sending Bitcoin Using PHI Holdings.
+
+Once You Have Bitcoin (BTC) In Your Wallet Click Send
+
+Paste The Send Address&#x20;
+
+Enter Amount Of BTC You Would Like To Send
+
+Click Send BTC
+
+![Click Send](../../../../../.gitbook/assets/IMG\_5409.jpg) ![Paste Address. Enter Amount. Click Send BTC. ](../../../../../.gitbook/assets/IMG\_5408.jpg)
+
+
 
 ## Sending Bitcoin On Cash App&#x20;
 

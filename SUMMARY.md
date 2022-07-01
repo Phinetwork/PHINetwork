@@ -17,13 +17,13 @@
 
 ## Use PHI Smart Chain
 
-* [⭐ Getting Started](use-phi-smart-chain/getting-started/README.md)
-  * [🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?](use-phi-smart-chain/getting-started/how-to-contribute-cryptocurrencies-for-phi-f.md)
-    * [💸 How To Send Bitcoin (BTC)?](use-phi-smart-chain/getting-started/how-to-contribute-bitcoin-btc-for-phi-f/how-to-send-bitcoin-btc.md)
-  * [❔ How To Find A Transaction Hash TX?](use-phi-smart-chain/getting-started/how-to-find-a-transaction-hash-tx.md)
+* [⭐ Getting Started](use-phi-smart-chain/getting-started.md)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)
   * [🏦 Create Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/README.md)
     * [🪙 How To Buy Bitcoin?](use-phi-smart-chain/getting-started/how-to-buy-bitcoin.md)
+      * [🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/README.md)
+        * [💸 How To Send Bitcoin (BTC)?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/how-to-send-bitcoin-btc.md)
+      * [❔ How To Find A Transaction Hash TX?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/how-to-buy-bitcoin/how-to-find-a-transaction-hash-tx.md)
       * [🪙 Additional Methods To Buy BTC](use-phi-smart-chain/getting-started/how-to-buy-cryptocurrency.md)
     * [🏦 Additional PHI Wallet Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/README.md)
       * [📃 How To Create A Paper Wallet?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/how-to-create-a-paper-wallet.md)
