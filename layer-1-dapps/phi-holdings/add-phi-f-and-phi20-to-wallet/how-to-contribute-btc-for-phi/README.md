@@ -4,7 +4,7 @@ description: >-
   (BTC) For PHI (Φ).
 ---
 
-# 🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?
+# 🪙 How To Contribute BTC For PHI?
 
 {% hint style="danger" %}
 Prerequisite:
