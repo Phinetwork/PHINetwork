@@ -24,7 +24,7 @@ You can use your Visa or Mastercard To Buy BTC Within The PHI Holdings Interface
 
 ![Create BTC Wallet  Click BTC](<../../../../.gitbook/assets/IMG\_5406 2.jpg>) ![Click Continue](<../../../../.gitbook/assets/IMG\_5407 2.jpg>) ![Click Deposit ](<../../../../.gitbook/assets/IMG\_5403 2.jpg>) ![Click Copy To Clipboard](../../../../.gitbook/assets/IMG\_5400.jpg)
 
-Now Copy Your Bitcoin (BTC) Address, So Your Ready For The Deposit Form, To You can Receive Your BTC Once You Pay With Your Credit Card.&#x20;
+Now Copy Your Bitcoin (BTC) Address, So Your Ready For The Deposit Form, To Receive Your BTC, Once You Have Paid For It With Your Credit Card.&#x20;
 
 Now That You Have Your BTC Wallet Address Copied.&#x20;
 
