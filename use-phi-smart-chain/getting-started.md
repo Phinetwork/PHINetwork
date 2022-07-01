@@ -57,7 +57,7 @@ Once you have your wallet setup and connected to PHI Smart Chain, it's time for 
 
 * Ask a friend to sell you some [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd);
 * Sell An Asset, Product Or Service For [PHI (Φ)](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) or [Phicash (Φ$)](https://docs.phi.network/phi-wiki/phi-smart-chain/phicash-fusd)&#x20;
-* [Contribute BTC To Reedeem PHI or Phicash](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f) to your wallet;
+* [Contribute BTC & Redeem PHI or Phicash](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f) to your wallet;
 * Earn [PHI](https://docs.phi.network/phi-wiki/phi-smart-chain/phi-f) on [PHI.Network](https://phi.network)
 
 {% embed url="https://buy.phi.holdings" %}
