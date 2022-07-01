@@ -53,7 +53,7 @@
     * [🪙 How To Buy Bitcoin?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/README.md)
       * [🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/README.md)
         * [💸 How To Send Bitcoin (BTC)?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/how-to-send-bitcoin-btc.md)
-        * [❔ How To Find A Transaction Hash TX?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/how-to-find-a-transaction-hash-tx.md)
+        * [❔ How To Find A Transaction Hash TX?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-find-a-transaction-hash-tx.md)
       * [🪙 Additional Methods To Buy BTC](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/additional-methods-to-buy-btc.md)
   * [💵 How To Receive PHI (Φ) & PHI20 Tokens](layer-1-dapps/phi-holdings/how-to-receive-phi-f-and-phi20-tokens/README.md)
     * [📪 How To Send An Invoice Via PHI Holdings](layer-1-dapps/phi-holdings/how-to-receive-phi-f-and-phi20-tokens/how-to-send-an-invoice-via-phi-holdings.md)
