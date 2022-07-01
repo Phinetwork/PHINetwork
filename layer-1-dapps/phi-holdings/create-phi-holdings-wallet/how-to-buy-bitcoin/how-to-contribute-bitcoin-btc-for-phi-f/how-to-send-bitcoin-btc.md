@@ -16,7 +16,7 @@ Click Send BTC
 
 
 
-![](<../../../../.gitbook/assets/IMG\_5433 (1).jpg>) ![](../../../../.gitbook/assets/IMG\_5434.jpg) ![](<../../../../.gitbook/assets/IMG\_5435 (1).jpg>) ![](<../../../../.gitbook/assets/IMG\_5436 (2).jpg>)
+![](<../../../../../.gitbook/assets/IMG\_5433 (1).jpg>) ![](../../../../../.gitbook/assets/IMG\_5434.jpg) ![](<../../../../../.gitbook/assets/IMG\_5435 (1).jpg>) ![](<../../../../../.gitbook/assets/IMG\_5436 (2).jpg>)
 
 
 
