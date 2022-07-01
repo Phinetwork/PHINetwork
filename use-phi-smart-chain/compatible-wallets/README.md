@@ -10,7 +10,13 @@ You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [P
 
 
 
-<mark style="color:green;">Recommended Wallet:</mark>
+Recommended Wallet:
+
+Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+
+**Compatibility:** Mobile PWA
+
+**Download:** [Official Download](https://phi.holdings)
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings" %}
 Step By Step Guide To Walk You Through The PHI Holdings Wallet Features & Functions.\
@@ -27,7 +33,7 @@ Back Up PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
 
 ![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
 
-Available as a browser extension and as a mobile app, PHI Wallet equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+Available as a browser extension and as a mobile app, PHI Wallet equips you with a key vault, secure login, token wallet, everything you need to manage, receive & send your digital assets. One of the Special Features of this wallet is ability to create a paper wallet.
 
 **Compatibility:** Browser Extension, Mobile PWA
 
