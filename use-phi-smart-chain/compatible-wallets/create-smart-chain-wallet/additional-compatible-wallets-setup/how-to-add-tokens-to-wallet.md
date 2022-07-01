@@ -2,7 +2,7 @@
 description: Follow These Step By Step Instructions To Add PHI20 Tokens To Any Wallet
 ---
 
-# 🪙 How To Add Tokens To Wallet
+# 🪙 How To Add PHI20 Tokens To Wallet
 
 {% hint style="danger" %}
 Prerequisite:&#x20;

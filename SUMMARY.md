@@ -34,7 +34,7 @@
       * [ℹ ImToken Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/imtoken-setup.md)
       * [🔌 Connect With Chainlist](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/connect-with-chainlist.md)
       * [↕ How To Import A Wallet Into Another Wallet?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/how-to-import-a-wallet-into-another-wallet.md)
-      * [🪙 How To Add PHI20 Tokens To Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/how-to-add-phi20-tokens-to-wallet.md)
+      * [🪙 How To Add PHI20 Tokens To Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/how-to-add-tokens-to-wallet.md)
     * [💨 Transaction Fees](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/transaction-fees/README.md)
       * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/transaction-fees/smart-chain-gas-fees.md)
 
@@ -60,7 +60,8 @@
   * [💸 Send PHI (Φ) & PHI20 Tokens Using PHI Holdings](layer-1-dapps/phi-holdings/send-phi-f-and-phi20-tokens-using-phi-holdings/README.md)
     * [📄 How To Pay An Invoice With PHI Holdings?](layer-1-dapps/phi-holdings/send-phi-f-and-phi20-tokens-using-phi-holdings/how-to-pay-an-invoice-with-phi-holdings.md)
   * [🔐 Find Private Keys Of PHI Holdings Wallet](layer-1-dapps/phi-holdings/find-private-keys-of-phi-holdings-wallet.md)
-  * [Exchange PHI & PHI20 Tokens On PHI Holdings](layer-1-dapps/phi-holdings/exchange-phi-and-phi20-tokens-on-phi-holdings.md)
+  * [🪙 Add PHI20 Tokens To PHI Holdings](layer-1-dapps/phi-holdings/add-phi20-tokens-to-phi-holdings.md)
+  * [🔃 Exchange PHI & PHI20 Tokens On PHI Holdings](layer-1-dapps/phi-holdings/exchange-phi-and-phi20-tokens-on-phi-holdings.md)
 * [🦄 Phiswap Protocol](layer-1-dapps/phiswap-protocol/README.md)
   * [🔌 Connect Wallet To Phiswap](layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)
   * [🔎 Find Wallet Address](layer-1-dapps/phiswap-protocol/find-wallet-address.md)
