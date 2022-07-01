@@ -14,7 +14,9 @@ Enter Amount Of BTC You Would Like To Send
 
 Click Send BTC
 
-![Click Send](../../../../../.gitbook/assets/IMG\_5409.jpg) ![Paste Address. Enter Amount. Click Send BTC. ](../../../../../.gitbook/assets/IMG\_5408.jpg)
+
+
+![](<../../../../../.gitbook/assets/IMG\_5433 (1).jpg>) ![](../../../../../.gitbook/assets/IMG\_5434.jpg) ![](<../../../../../.gitbook/assets/IMG\_5435 (1).jpg>) ![](<../../../../../.gitbook/assets/IMG\_5436 (2).jpg>)
 
 
 
