@@ -12,18 +12,18 @@ You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [P
 
 Recommended Wallet:
 
-Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
-
-**Compatibility:** Mobile PWA
-
-**Download:** [Official Download](https://phi.holdings)
-
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings" %}
 Step By Step Guide To Walk You Through The PHI Holdings Wallet Features & Functions.\
 
 {% endembed %}
 
 ![PHI.Holdings](<../../.gitbook/assets/Screen Shot 2022-06-27 at 5.24.14 PM.png>)
+
+Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+
+**Compatibility:** Mobile PWA
+
+**Download:** [Official Download](https://phi.holdings)
 
 {% embed url="https://phi.holdings" %}
 <mark style="color:green;">This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.</mark>&#x20;
