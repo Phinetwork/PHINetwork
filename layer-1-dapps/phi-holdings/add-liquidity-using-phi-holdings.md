@@ -4,7 +4,7 @@ description: >-
   Holdings Wallet.
 ---
 
-# 🌊 Add Liquidity Using PHI Holdings
+# 🌊 Add Liquidity
 
 Go To The Exchange Page Within PHI Holdings Wallet
 

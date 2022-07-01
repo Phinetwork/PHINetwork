@@ -2,7 +2,7 @@
 description: This Guide Will Show You How To Add PHI20 Tokens To Your PHI Holdings Wallet.
 ---
 
-# 🪙 Add PHI20 Tokens To PHI Holdings
+# 🪙 Add PHI20 Tokens To Wallet
 
 First Step Is Getting The Token You Want To Add Contract Address. You Can Find Every Token On PHI Smart Chain Using [Phiswap Analytics](https://info.phiswap.com)&#x20;
 
