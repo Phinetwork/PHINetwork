@@ -10,7 +10,7 @@ Now That You Have Created Your PHI.Holdings Wallets  Get Some BTC In Your Wallet
 
 ![Create BTC Wallet  Click BTC](<../../../../.gitbook/assets/IMG\_5406 2.jpg>) ![Click Continue](<../../../../.gitbook/assets/IMG\_5407 2.jpg>) ![Click Deposit ](<../../../../.gitbook/assets/IMG\_5403 2.jpg>) ![Click Copy To Clipboard](../../../../.gitbook/assets/IMG\_5400.jpg)
 
-Now Copy Your Bitcoin (BTC) Address So Your Ready For The Deposit Form To Enter Your BTC Address So You can Receive Your  BTC Once Your Pay With Your Credit Card.&#x20;
+Now Copy Your Bitcoin (BTC) Address So Your Ready For The Deposit Form To Enter Your BTC Address So You can Receive Your BTC Once You Pay With Your Credit Card.&#x20;
 
 Now That You Have Your BTC Wallet Address Coped.&#x20;
 
