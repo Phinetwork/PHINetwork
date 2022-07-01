@@ -1,0 +1,31 @@
+---
+description: >-
+  Follow This Step By Step Guide To Purchase Bitcoin Using Your PHI.Holdings
+  Wallet.
+---
+
+# 🪙 How To Buy Bitcoin?
+
+Now That You Have Created Your PHI.Holdings Wallets  Get Some BTC In Your Wallet So You Can Contribute It For PHI To Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
+
+![](<../../.gitbook/assets/IMG\_5403 (1).jpg>) ![](<../../.gitbook/assets/IMG\_5400 (1).jpg>)
+
+Once You Have Securing Stored Your 12 Word Phrase & Private Keys For Your Wallet.&#x20;
+
+Now Copy Your Bitcoin (BTC) Address So Your Ready For The Deposit Form To Enter Your BTC Address So You can Receive Your  BTC Once Your Pay With Your Credit Card.&#x20;
+
+Now That You Have Your BTC Wallet Address Coped.&#x20;
+
+Go To The Wallet Page Click The Buy Bitcoin (BTC) With Visa/MC. Tab In the middle Of the screen. Alternatively you can click deposit then click the link "buy btc with credit card". Both These links will take you to the same destination to buy BTC with a credit card so you can contribute it for PHI.&#x20;
+
+![](<../../.gitbook/assets/IMG\_5404 2.jpg>)
+
+Follow The Instructions On The Following Page Enter The Amount of Bitcoin (BTC) You Would Like To Purchase & Submit Your Bitcoin (BTC) Deposit Wallet Address.&#x20;
+
+![Click "not a robot"](<../../.gitbook/assets/IMG\_5394 2.jpg>) ![Solve Captcha](../../.gitbook/assets/IMG\_5395.PNG) ![Paste Bitcoin (BTC) in form and enter amount of BTC you want to buy. Click Continue. ](../../.gitbook/assets/IMG\_5401.jpg) ![Fill In Payment Instructions Continue To Process Payment. ](../../.gitbook/assets/IMG\_5402.PNG)
+
+
+
+
+
+\
