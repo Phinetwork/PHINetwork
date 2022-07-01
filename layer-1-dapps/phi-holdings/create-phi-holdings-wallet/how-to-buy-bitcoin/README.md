@@ -33,7 +33,7 @@ Follow The Instructions On The Following Page Enter The Amount of Bitcoin (BTC) 
 ![Click "not a robot"](<../../../../.gitbook/assets/IMG\_5394 2.jpg>) ![Solve Captcha](../../../../.gitbook/assets/IMG\_5395.PNG) ![Paste Bitcoin (BTC) in form and enter amount of BTC you want to buy. Click Continue. ](../../../../.gitbook/assets/IMG\_5401.jpg) ![Fill In Payment Instructions Continue To Process Payment. ](../../../../.gitbook/assets/IMG\_5402.PNG)
 
 {% hint style="success" %}
-Congratulations!!! You Have Now Bought Your First Bitcoin. [Now Learn How To Contribute For To Redeem More PHI.](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f)
+Congratulations!!! You Have Now Bought Your First Bitcoin. Next [Learn How To Contribute The BTC To Redeem More PHI.](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f)
 {% endhint %}
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f" %}
