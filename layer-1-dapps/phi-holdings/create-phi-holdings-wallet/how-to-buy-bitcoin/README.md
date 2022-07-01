@@ -18,6 +18,8 @@ Now That You Have Created Your PHI.Holdings Wallets.&#x20;
 
 Get Some BTC In Your Wallet So You Can Contribute It For PHI To Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
 
+![On The PHI Holdings Wallet Page Click Add Currency](../../../../.gitbook/assets/IMG\_5479.jpg)
+
 ![Create BTC Wallet  Click BTC](<../../../../.gitbook/assets/IMG\_5406 2.jpg>) ![Click Continue](<../../../../.gitbook/assets/IMG\_5407 2.jpg>) ![Click Deposit ](<../../../../.gitbook/assets/IMG\_5403 2.jpg>) ![Click Copy To Clipboard](../../../../.gitbook/assets/IMG\_5400.jpg)
 
 Now Copy Your Bitcoin (BTC) Address So Your Ready For The Deposit Form To Enter Your BTC Address So You can Receive Your BTC Once You Pay With Your Credit Card.&#x20;

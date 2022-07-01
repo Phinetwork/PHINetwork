@@ -50,6 +50,7 @@
 
 * [🏦 PHI Holdings](layer-1-dapps/phi-holdings/README.md)
   * [➕ Create PHI Holdings Wallet](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/README.md)
+    * [🔐 Find Private Keys](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/find-private-keys.md)
     * [🪙 How To Buy Bitcoin?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/README.md)
       * [🪙 How To Contribute Bitcoin (BTC) For PHI (Φ)?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/README.md)
         * [💸 How To Send Bitcoin (BTC)?](layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin/how-to-contribute-bitcoin-btc-for-phi-f/how-to-send-bitcoin-btc.md)
@@ -59,8 +60,7 @@
     * [📪 How To Send An Invoice Via PHI Holdings](layer-1-dapps/phi-holdings/how-to-receive-phi-f-and-phi20-tokens/how-to-send-an-invoice-via-phi-holdings.md)
   * [💸 Send PHI (Φ) & PHI20 Tokens](layer-1-dapps/phi-holdings/send-phi-f-and-phi20-tokens-using-phi-holdings/README.md)
     * [📄 How To Pay An Invoice With PHI Holdings?](layer-1-dapps/phi-holdings/send-phi-f-and-phi20-tokens-using-phi-holdings/how-to-pay-an-invoice-with-phi-holdings.md)
-  * [🔐 Find Private Keys](layer-1-dapps/phi-holdings/find-private-keys-of-phi-holdings-wallet.md)
-  * [🪙 Add PHI20 Tokens To Wallet](layer-1-dapps/phi-holdings/add-phi20-tokens-to-wallet.md)
+  * [🪙 Add PHI20 Tokens To Wallet](layer-1-dapps/phi-holdings/add-phi20-tokens-to-phi-holdings.md)
   * [🔃 Exchange PHI & PHI20 Tokens](layer-1-dapps/phi-holdings/exchange-phi-and-phi20-tokens-on-phi-holdings.md)
   * [🌊 Add Liquidity](layer-1-dapps/phi-holdings/add-liquidity-using-phi-holdings.md)
   * [⛏ Mint New PHI20 Token](layer-1-dapps/phi-holdings/mint-new-phi20-token.md)
