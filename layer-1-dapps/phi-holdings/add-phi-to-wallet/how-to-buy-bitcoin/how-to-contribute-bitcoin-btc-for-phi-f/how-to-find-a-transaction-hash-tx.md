@@ -16,11 +16,11 @@ Depending on the type of digital currency that was sent, you can find the transa
 
 * BTC: [https://www.blockchain.com/explorer?view=btc](https://www.blockchain.com/explorer?view=btc)&#x20;
 
-![Click The Transactions Tab. Then Click The Transaction](<../../../../.gitbook/assets/IMG\_5439 (1).jpg>) ![Once Viewing The Transaction Click The Transaction ID or Click The Share Button. Copy This URL This Is Your Transaction Hash](../../../../.gitbook/assets/IMG\_5436.jpg)
+![Click The Transactions Tab. Then Click The Transaction](<../../../../../.gitbook/assets/IMG\_5439 (1).jpg>) ![Once Viewing The Transaction Click The Transaction ID or Click The Share Button. Copy This URL This Is Your Transaction Hash](../../../../../.gitbook/assets/IMG\_5436.jpg)
 
 #### How To Find PHI Smart Chain Transaction Hash?
 
-1. Go To Your [Wallet](../../../../use-phi-smart-chain/compatible-wallets/) Thats Connected To [PHI Smart Chain](../../../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/) That Sent The Transaction.
+1. Go To Your [Wallet](../../../../../use-phi-smart-chain/compatible-wallets/) Thats Connected To [PHI Smart Chain](../../../../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/) That Sent The Transaction.
 2. Go To Transaction History Within Your Wallet.
 3. Click The Transaction You Want The Hash Url Tx
 4. View On Block Explorer Copy The Block Explorer URL
