@@ -8,7 +8,7 @@ Transactions have an average fee of PHI 0.000000000000010007, Which In $USD Term
 
 * If the transaction interacts, or not, with a smart contract;
 * If there are too many other transactions being submitted at the same time;
-* The type of asset you are transferring - [PHI20](../../glossary/#p), [PHI721](../../glossary/#p), etc;
+* The type of asset you are transferring - [PHI20](../../../../glossary/#p), [PHI721](../../../../glossary/#p), etc;
 * Built-in fees from the protocol or application you are using to submit the transaction;
 
 The base fee has no upper bound and is always burned - or destroyed. So every time a user transacts on [PHI Smart Chain](broken-reference) the supply of PHI is reduced by a certain amount.

@@ -11,14 +11,14 @@ Gas Fees To Perform Transactions On PHI Smart Chain Are The Lowest In The World 
 1. Open A New Metmask Transaction&#x20;
 2. Click _**Edit**_ (Above _Gas Estimate)_
 
-![](<../../.gitbook/assets/Screen Shot 2022-05-16 at 1.57.12 PM.png>)
+![](<../../../../.gitbook/assets/Screen Shot 2022-05-16 at 1.57.12 PM.png>)
 
 1. For Base Max Fee (GWEI) Enter _**.01**_
 2. For Priority Fee (GWEI) Enter _**.00001**_
 3. Select The Check _"Always Use Values And Advanced Settings As Default"_
 4. Click Save
 
-![Congratulations ](<../../.gitbook/assets/Screen Shot 2022-05-16 at 1.55.33 PM.png>)
+![Congratulations ](<../../../../.gitbook/assets/Screen Shot 2022-05-16 at 1.55.33 PM.png>)
 
 {% hint style="danger" %}
 OVER PAID ON GAS!!!!!!&#x20;
@@ -33,5 +33,5 @@ PHI Network Refunds 100% of All Gas Fees Save Your Transaction Hash URL's & Subm
 {% endhint %}
 
 {% hint style="warning" %}
-Use [Token Pocket](../compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md) , [Alpha Wallet Or Brave Wallet](../compatible-wallets/) For Lowest Gas Fees By Default Without Having To Manually Update&#x20;
+Use [Token Pocket](../additional-compatible-wallets-setup/token-pocket-setup.md) , [Alpha Wallet Or Brave Wallet](../../) For Lowest Gas Fees By Default Without Having To Manually Update&#x20;
 {% endhint %}

@@ -35,8 +35,8 @@
       * [🔌 Connect With Chainlist](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/connect-with-chainlist.md)
       * [↕ How To Import A Wallet Into Another Wallet?](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/how-to-import-a-wallet-into-another-wallet.md)
       * [🪙 How To Add Tokens To Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/how-to-add-tokens-to-wallet.md)
-* [💨 Transaction Fees](use-phi-smart-chain/transaction-fees/README.md)
-  * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/transaction-fees/smart-chain-gas-fees.md)
+    * [💨 Transaction Fees](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/transaction-fees/README.md)
+      * [⛽ Smart Chain Gas Fees](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/transaction-fees/smart-chain-gas-fees.md)
 
 ## Core Layer
 
