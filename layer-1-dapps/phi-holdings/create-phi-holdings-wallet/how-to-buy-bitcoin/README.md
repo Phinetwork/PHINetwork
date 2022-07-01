@@ -6,7 +6,17 @@ description: >-
 
 # 🪙 How To Buy Bitcoin?
 
-Now That You Have Created Your PHI.Holdings Wallets  Get Some BTC In Your Wallet So You Can Contribute It For PHI To Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
+{% hint style="danger" %}
+Prerequisite:&#x20;
+
+1\) [PHI.Holdings Installed On Your Device.](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
+
+2\) [Saved Keyphrase & Private Key](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
+{% endhint %}
+
+Now That You Have Created Your PHI.Holdings Wallets.&#x20;
+
+Get Some BTC In Your Wallet So You Can Contribute It For PHI To Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
 
 ![Create BTC Wallet  Click BTC](<../../../../.gitbook/assets/IMG\_5406 2.jpg>) ![Click Continue](<../../../../.gitbook/assets/IMG\_5407 2.jpg>) ![Click Deposit ](<../../../../.gitbook/assets/IMG\_5403 2.jpg>) ![Click Copy To Clipboard](../../../../.gitbook/assets/IMG\_5400.jpg)
 
