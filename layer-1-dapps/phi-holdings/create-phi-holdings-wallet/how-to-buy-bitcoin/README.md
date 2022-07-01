@@ -18,15 +18,21 @@ Now That You Have Created Your PHI.Holdings Wallets.&#x20;
 
 Get Some BTC In Your Wallet So You Can Contribute It For PHI To Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
 
+You can use your Visa or Mastercard To Buy BTC Within The PHI Holdings Interface.&#x20;
+
 ![On The PHI Holdings Wallet Page Click Add Currency](../../../../.gitbook/assets/IMG\_5479.jpg)
 
 ![Create BTC Wallet  Click BTC](<../../../../.gitbook/assets/IMG\_5406 2.jpg>) ![Click Continue](<../../../../.gitbook/assets/IMG\_5407 2.jpg>) ![Click Deposit ](<../../../../.gitbook/assets/IMG\_5403 2.jpg>) ![Click Copy To Clipboard](../../../../.gitbook/assets/IMG\_5400.jpg)
 
-Now Copy Your Bitcoin (BTC) Address So Your Ready For The Deposit Form To Enter Your BTC Address So You can Receive Your BTC Once You Pay With Your Credit Card.&#x20;
+Now Copy Your Bitcoin (BTC) Address, So Your Ready For The Deposit Form, To You can Receive Your BTC Once You Pay With Your Credit Card.&#x20;
 
-Now That You Have Your BTC Wallet Address Coped.&#x20;
+Now That You Have Your BTC Wallet Address Copied.&#x20;
 
-Go To The Wallet Page Click The Buy Bitcoin (BTC) With Visa/MC. Tab In the middle Of the screen. Alternatively you can click deposit then click the link "buy btc with credit card". Both These links will take you to the same destination to buy BTC with a credit card so you can contribute it for PHI.&#x20;
+Go To The Wallet Page Click The Buy Bitcoin (BTC) With Visa/MC. Tab In the middle Of the screen.&#x20;
+
+Alternatively you can click deposit then click the link "buy btc with credit card".&#x20;
+
+Both These links will take you to the same destination to buy BTC with a credit card so you can then contribute the BTC for PHI.&#x20;
 
 ![](<../../../../.gitbook/assets/IMG\_5404 2.jpg>)
 
