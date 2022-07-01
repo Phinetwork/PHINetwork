@@ -4,9 +4,23 @@ description: >-
   Wallet
 ---
 
-# 🏦 PHI Wallet Setup
+# 🏦 Additional PHI Wallet Setup
+
+
+
+## Additional Back Up PHI Branded Wallet&#x20;
+
+This Wallet Allows For The Creation Of Paper Wallets.
+
+{% embed url="https://wallet.phi.network" %}
+
+![](<../../../../.gitbook/assets/IMG\_4870 2.jpg>) ![](../../../../.gitbook/assets/IMG\_4871.jpg) ![](../../../../.gitbook/assets/IMG\_4872.jpg) ![](../../../../.gitbook/assets/IMG\_4873.jpg) ![](../../../../.gitbook/assets/IMG\_4874.jpg) ![](../../../../.gitbook/assets/IMG\_4875.jpg) ![](../../../../.gitbook/assets/IMG\_4876.jpg) ![](../../../../.gitbook/assets/IMG\_4877.jpg) ![](../../../../.gitbook/assets/IMG\_4878.jpg) ![](../../../../.gitbook/assets/IMG\_4879.jpg) ![](../../../../.gitbook/assets/IMG\_4880.jpg) ![](../../../../.gitbook/assets/IMG\_4881.jpg) ![](../../../../.gitbook/assets/IMG\_4882.jpg) ![](../../../../.gitbook/assets/IMG\_4883.jpg) ![](../../../../.gitbook/assets/IMG\_4884.jpg) ![](../../../../.gitbook/assets/IMG\_4885.jpg) ![](../../../../.gitbook/assets/IMG\_4886.jpg) ![](../../../../.gitbook/assets/IMG\_4887.jpg) ![](../../../../.gitbook/assets/IMG\_4888.jpg) ![](../../../../.gitbook/assets/IMG\_4889.jpg) ![](../../../../.gitbook/assets/IMG\_4890.jpg) ![](../../../../.gitbook/assets/IMG\_4891.jpg)
+
+How To Import PHI Profile Smart Chain Wallet To PHI Wallet.&#x20;
 
 ![](../../../../.gitbook/assets/IMG\_4863.jpg) ![](../../../../.gitbook/assets/IMG\_4864.jpg) ![](<../../../../.gitbook/assets/IMG\_4865 (1).jpg>) ![](<../../../../.gitbook/assets/IMG\_4866 (1).jpg>) ![](../../../../.gitbook/assets/IMG\_4867.jpg) ![](<../../../../.gitbook/assets/IMG\_4868 (1).jpg>) ![](../../../../.gitbook/assets/IMG\_4869.jpg)
+
+
 
 {% embed url="https://wallet.phi.network" %}
 
