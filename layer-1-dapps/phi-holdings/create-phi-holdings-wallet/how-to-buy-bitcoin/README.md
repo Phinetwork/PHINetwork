@@ -16,7 +16,7 @@ Prerequisite:&#x20;
 
 Now That You Have Created Your PHI.Holdings Wallets.&#x20;
 
-Get Some BTC In Your Wallet So You Can Exchange It For PHI So You Can Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
+Get Some BTC In Your Wallet So You Can Exchange It For PHI & Participate In The Largest & Fastest Growing Decentralized Economy In The World.&#x20;
 
 You can use your Visa or Mastercard To Buy BTC Within The PHI Holdings Interface.&#x20;
 
