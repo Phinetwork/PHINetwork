@@ -27,5 +27,5 @@ Click To Contribute Cryptocurrency (BTC, ETH or Doge) For PHI
 
 
 {% hint style="success" %}
-Congratulations You Have Now Learned How To Exchange BTC For PHI. Welcome To The Private & Decentralized Economy. &#x20;
+Congratulations You Have Now Learned How To Exchange BTC For PHI. Welcome To The Worlds Largest & Fastest Growing Decentralized Economy.. &#x20;
 {% endhint %}

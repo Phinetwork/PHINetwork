@@ -1,6 +1,6 @@
 # ⭐ Getting Started
 
-Getting Started If you are ready to connect to our public ledgers, you can use the step-by-step guide below to connect, using your Windows, Linux, MacOS, or mobile device.
+Getting Started If you are ready to connect to public ledgers, you can use the step-by-step guide below to connect, using your Windows, Linux, MacOS, or mobile device.
 
 ## 1) Install a Compatible Wallet <a href="#1-download-a-compatible-wallet" id="1-download-a-compatible-wallet"></a>
 
