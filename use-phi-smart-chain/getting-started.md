@@ -4,7 +4,7 @@ Getting Started If you are ready to connect to public ledgers, you can use the s
 
 ## 1) Install a Compatible Wallet <a href="#1-download-a-compatible-wallet" id="1-download-a-compatible-wallet"></a>
 
-Your wallet will be the gateway that will allow you to connect to either our public or any private ledgers you deploy, and will enable you to send and receive funds, NFTs, and connect to Web 3 applications on the internet.&#x20;
+Your wallet will be the gateway that will allow you to connect to either the public or any private ledgers you deploy, and will enable you to send and receive funds, NFTs, and connect to Web 3 applications on the internet.&#x20;
 
 It is important to keep your information secure, and setup your wallet on a device that is free of viruses and other malicious threats, as well as not publicly accessible.&#x20;
 
