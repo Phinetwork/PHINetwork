@@ -6,12 +6,18 @@ Follow the step by step Instructions below to set up Alpha wallet & connect to [
 Prerequisite: [Alpha Wallet ](https://alphawallet.com/)Must Be Installed On Your Device Before Preceding With Setup Instructions. &#x20;
 {% endhint %}
 
-![Click Settings In Bottom Left Hand Corner](../../../../.gitbook/assets/IMG\_4706.jpeg) ![Select Active Networks](../../../../.gitbook/assets/IMG\_4707.jpg) ![Click Plus "+" Icon In The Top Right Hand Corner](../../../../.gitbook/assets/IMG\_4708.jpg) ![Click Enter](../../../../.gitbook/assets/IMG\_4709.jpg) ![Enter Information Then Click Save Network](../../../../.gitbook/assets/IMG\_4710.jpg)
+![Create a New Wallet or import an existing one](../../../../.gitbook/assets/IMG\_5518.jpg) ![Scroll Down Until You See PHI](../../../../.gitbook/assets/IMG\_5519.jpg) ![Select PHO](../../../../.gitbook/assets/IMG\_5520.jpg) ![Click Continue ](../../../../.gitbook/assets/IMG\_5521.jpg)
 
-* **Network Name:** PHI
-* **New RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
-* **Chain ID: 4181**
-* **Symbol: Φ**
-* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
+How To Find Select Networks Section Of Alpha Wallet.&#x20;
+
+Select Settings
+
+Click Select Active Networks
+
+Select PHI
+
+![](../../../../.gitbook/assets/IMG\_5523.jpg) ![](../../../../.gitbook/assets/IMG\_5522.jpg)
+
+
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet#alpha-wallet" %}

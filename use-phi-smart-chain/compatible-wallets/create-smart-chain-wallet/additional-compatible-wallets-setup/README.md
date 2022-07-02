@@ -5,7 +5,13 @@ description: >-
   Chain.
 ---
 
-# 🏦 Additional Wallets Setup
+# 🏦 Additional Compatible Wallets Setup
+
+### Recommended Additional PHI Smart Chain Wallet Is Alpha Wallet <a href="#connection-details" id="connection-details"></a>
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup" %}
+Alpha Wallet Comes Natively Installed With Alpha Wallet & You Wont Need To Manually Add The Connection Details.&#x20;
+{% endembed %}
 
 ## Connection Details <a href="#connection-details" id="connection-details"></a>
 
