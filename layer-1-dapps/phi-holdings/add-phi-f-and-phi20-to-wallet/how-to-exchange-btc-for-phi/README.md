@@ -1,6 +1,6 @@
 ---
 description: >-
-  Follow The Instructions That Are On The Following Page To Contribute Bitcoin
+  Follow The Instructions That Are On The Following Page To Exchange Bitcoin
   (BTC) For PHI (Φ).
 ---
 
@@ -16,7 +16,7 @@ Prerequisite:
 
 Now That You Have Successfully Sent BTC To The Contribution Deposit Address For PHI. Go Back To The Contribution Form & Fill In The Form To Redeem Your PHI To Your Wallet.
 
-![Select Type Of PHI](../../../../.gitbook/assets/IMG\_5445.jpg) ![This Tutorial Shows Selecting The Smart Chain For Deposit Into PHI Holdings Wallet](../../../../.gitbook/assets/IMG\_5446.jpg) ![Add Your Address From Your PHI Wallet.](../../../../.gitbook/assets/IMG\_5447.jpg) ![Confirm Contribution Click "Redeem PHI"  Button](../../../../.gitbook/assets/IMG\_5448.PNG)
+![Select Type Of PHI](../../../../.gitbook/assets/F8863348-3F64-400A-A378-38B58195EF11.PNG) ![This Tutorial Shows Selecting The Smart Chain For Deposit Into PHI Holdings Wallet](../../../../.gitbook/assets/C0E257E2-36C1-4B45-B1E4-FC4248F463EB.PNG) ![Add Your Address From Your PHI Wallet.](../../../../.gitbook/assets/4C4ABB30-68A7-4B29-95ED-3D84E26EB99B.PNG) ![Click Redeem PHI Button](../../../../.gitbook/assets/IMG\_5485.jpg)
 
 {% embed url="https://buy.phi.holdings" %}
 Click To Contribute Cryptocurrency (BTC, ETH or Doge) For PHI
@@ -25,5 +25,5 @@ Click To Contribute Cryptocurrency (BTC, ETH or Doge) For PHI
 
 
 {% hint style="success" %}
-Congratulations You Have Now Learned How To Contribute BTC For PHI. Welcome To The Private & Decentralized Economy. &#x20;
+Congratulations You Have Now Learned How To Exchange BTC For PHI. Welcome To The Private & Decentralized Economy. &#x20;
 {% endhint %}
