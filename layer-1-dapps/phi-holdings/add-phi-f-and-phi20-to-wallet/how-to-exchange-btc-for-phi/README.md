@@ -18,7 +18,7 @@ Prerequisite:
 
 Now That You Have Successfully Sent BTC To The Contribution Deposit Address For PHI. Go Back To The Contribution Form & Fill In The Form To Redeem Your PHI To Your Wallet.
 
-![Select Type Of PHI](../../../../.gitbook/assets/F8863348-3F64-400A-A378-38B58195EF11.PNG) ![This Tutorial Shows Selecting The Smart Chain For Deposit Into PHI Holdings Wallet](../../../../.gitbook/assets/C0E257E2-36C1-4B45-B1E4-FC4248F463EB.PNG) ![Add Your Address From Your PHI Wallet.](../../../../.gitbook/assets/4C4ABB30-68A7-4B29-95ED-3D84E26EB99B.PNG) ![Click Redeem PHI Button](../../../../.gitbook/assets/IMG\_5485.jpg)
+![Select Type Of PHI](../../../../.gitbook/assets/F8863348-3F64-400A-A378-38B58195EF11.PNG) ![This Tutorial Shows Selecting The Smart Chain For Deposit Into PHI Holdings Wallet](../../../../.gitbook/assets/C0E257E2-36C1-4B45-B1E4-FC4248F463EB.PNG) ![Add Your Address From Your PHI Wallet. Then Add The Transaction Hash For your BTC transaction.](../../../../.gitbook/assets/4C4ABB30-68A7-4B29-95ED-3D84E26EB99B.PNG) ![Click Redeem PHI Button. You Have Successfully Exchanged BTC for PHI](../../../../.gitbook/assets/IMG\_5485.jpg)
 
 {% embed url="https://buy.phi.holdings" %}
 Click To Contribute Cryptocurrency (BTC, ETH or Doge) For PHI
