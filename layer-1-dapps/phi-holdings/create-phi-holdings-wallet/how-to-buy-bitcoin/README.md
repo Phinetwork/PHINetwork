@@ -9,7 +9,7 @@ description: >-
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-1\) [PHI.Holdings Installed On Your Device.](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
+1\) [Wallet Installed On Your Device.](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
 
 2\) [Saved Keyphrase & Private Key](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)&#x20;
 {% endhint %}

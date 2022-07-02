@@ -4,6 +4,14 @@ description: Learn How To Send BTC. So You Can Contribute BTC for PHI.
 
 # 💸 How To Send Bitcoin (BTC)?
 
+{% hint style="danger" %}
+Prerequisite:
+
+1\) [Crypto Wallet Installed](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
+
+2\) [BTC In Your Wallet ](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin)
+{% endhint %}
+
 ## Sending Bitcoin Using PHI Holdings.
 
 Once You Have Bitcoin (BTC) In Your Wallet Click Send
@@ -16,7 +24,7 @@ Click Send BTC
 
 
 
-![](<../../../../../.gitbook/assets/IMG\_5433 (1).jpg>) ![](../../../../../.gitbook/assets/IMG\_5434.jpg) ![](<../../../../../.gitbook/assets/IMG\_5435 (1).jpg>) ![](<../../../../../.gitbook/assets/IMG\_5436 (2).jpg>)
+![](<../../../../.gitbook/assets/IMG\_5433 (1).jpg>) ![](../../../../.gitbook/assets/IMG\_5434.jpg) ![](<../../../../.gitbook/assets/IMG\_5435 (1).jpg>) ![](<../../../../.gitbook/assets/IMG\_5436 (2).jpg>)
 
 
 

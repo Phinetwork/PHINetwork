@@ -9,7 +9,7 @@ description: >-
 {% hint style="danger" %}
 Prerequisite:
 
-1\) [Crypto Wallet Installed](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)
+1\) [Wallet Installed](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet)&#x20;
 
 2\) [BTC In Your Wallet ](https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings/create-phi-holdings-wallet/how-to-buy-bitcoin)
 {% endhint %}
