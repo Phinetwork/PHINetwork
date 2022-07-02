@@ -12,7 +12,7 @@ To start the process, you will need to install and setup a [compatible wallet](h
 
 We recommend that you only use [officially supported wallets](https://docs.phi.network/phi-wiki/compatible-wallets), as unsupported wallets can pose a direct threat to your funds, finances, and assets.
 
-Please be aware that it **you are solely responsible for protecting your funds and assets on PHI Network**, and due to the decentralized nature of the Smart Chain, [PHI Support](https://phi.support) has no means of recovering stolen or locked funds. Although Funds Are Not Recoverable [PHI Labs](https://philabs.org) Has Launched A Protocol Called [PHI.Insure](https://phi.insure) That Insures Each Wallet Address Up To $1,000,000,000 In PHI To Protect You In Case Of Stolen or Lost Funds.&#x20;
+Please be aware that it **you are solely responsible for protecting your funds and assets on PHI Network**, and due to the decentralized nature of the Smart Chain, [PHI Support](https://phi.support) has no means of recovering stolen or locked funds. Although Funds Are Not Recoverable [PHI Labs](https://philabs.org) Has Launched A Novel Protocol Called [PHI.Insure](https://phi.insure) That Insures Each Wallet Address Up To $1,000,000,000 In PHI To Protect You In Case Of Stolen or Lost Funds.&#x20;
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets" %}
 Select A Compatible Wallet
@@ -23,7 +23,7 @@ Select A Compatible Wallet
 This step will be different depending on the wallet you chose, but some basic principles apply when setting up your [wallet](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#w):
 
 * A wallet software can take various forms, and be compatible with various different devices. You can have [wallets](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#w) on browser extensions, desktops, and mobile devices, and you can have them all synchronized and integrated, so you can carry and use your digital assets anywhere you go.
-* Normally, you will need to manually add PHI Smart Chain to the list of supported networks, and you can use our [Wallet Setup](https://docs.phi.network/phi-wiki/compatible-wallets/wallet-setup) tutorial to get some help with that.
+* If you decide to use any of the alternative compatible wallets, besides alpha wallet, you will normally, need to manually add PHI Smart Chain to the list of supported networks, and you can use the [Wallet Setup](https://docs.phi.network/phi-wiki/compatible-wallets/wallet-setup) tutorial to get some help with that.
 * You would usually be able to set up various different wallets/accounts under a single [mnemonic phrase - or seed phrase](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#m). Make sure this phrase is safely stored and protected, as anyone that has it can access your wallets and submit transactions.
 * Each individual wallet will have a [public key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which are referred to as your wallet address, and a [private key](https://docs.phi.network/phi-wiki/what-is-phi-smart-chain/hybrid-consensus-approach/glossary#p), which can be used to add your wallet to different devices, and wallet software. Make sure to protect your private keys very well, as they anyone that has it will be able to access your wallet and sign transactions with it.
 
