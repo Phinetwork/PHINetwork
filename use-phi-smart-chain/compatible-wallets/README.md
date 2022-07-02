@@ -59,6 +59,22 @@ How To Find Smart Chain Wallet Private Key
 How To Create A Paper Crypto Wallet
 {% endembed %}
 
+
+
+
+
+[![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
+
+#### The ultimate Web3 Wallet to power your tokens.
+
+**AlphaWallet is the only self-custodial wallet, that’s 100% open source. Production Ready, simply customize for your tokens and launch your MVP in 1/5 of the time. Built by web3 engineers, for the community.**
+
+**Compatibility: Mobile**
+
+**Download:** [**Official Download**](https://alphawallet.com/)****
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
+
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 
 Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
@@ -80,18 +96,6 @@ Coinbase Wallet is a self-custody crypto wallet, putting you in control of your 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/coinbase-setup" %}
 
 
-
-[![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
-
-#### The ultimate Web3 Wallet to power your tokens.
-
-**AlphaWallet is the only self-custodial wallet, that’s 100% open source. Production Ready, simply customize for your tokens and launch your MVP in 1/5 of the time. Built by web3 engineers, for the community.**
-
-**Compatibility: Mobile**
-
-**Download:** [**Official Download**](https://alphawallet.com/)****
-
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
 
 [![imToken Logo](https://token.im/img/imTokenLogo.svg)](https://token.im/)&#x20;
 
