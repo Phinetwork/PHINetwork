@@ -26,6 +26,7 @@
       * [🔃 Import PHI Network Profile Wallet To PHI Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/import-phi-network-profile-wallet-to-phi-smart-chain-wallet.md)
     * [🏦 Additional Compatible Wallets Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/README.md)
       * [ℹ Alpha Wallet Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup.md)
+      * [dApp Browser](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/dapp-browser.md)
       * [ℹ Metamask Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup/README.md)
         * [⤵ Install Metamask](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup/install-metamask.md)
       * [ℹ Token Pocket Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md)
