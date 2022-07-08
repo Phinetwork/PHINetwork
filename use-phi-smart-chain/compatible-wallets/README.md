@@ -77,7 +77,7 @@ Alpha Wallet Has Integrated PHI Smart Chain Natively Into The IOS & Android Mobi
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
 
-Additional Wallets Compatible With PHI Smart Chain:
+#### Additional Wallets Compatible With PHI Smart Chain:
 
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 
