@@ -103,6 +103,7 @@
 
 ## Developers
 
+* [📈 PHI & PHI20 Price API](developers/phi-and-phi20-price-api.md)
 * [📶 Run A Node](developers/run-a-node.md)
 * [📖 Developer Resources](developers/developer-resources.md)
 * [📊 GraphQL API](developers/graphql-api.md)
