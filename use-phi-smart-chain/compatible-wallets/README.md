@@ -29,7 +29,7 @@ Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure 
 This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.
 {% endembed %}
 
-#### Back Up PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
+#### Back Up PHI Network Non-Custodial Native Smart Chain Wallet&#x20;
 
 ![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
 
