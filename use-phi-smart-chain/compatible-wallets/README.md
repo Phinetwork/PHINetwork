@@ -10,7 +10,7 @@ You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [P
 
 
 
-Recommended Wallet:
+## Recommended Wallet:
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings" %}
 Step By Step Guide To Walk You Through The PHI Holdings Wallet Features & Functions.\
@@ -26,10 +26,10 @@ Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure 
 **Download:** [Official Download](https://phi.holdings)
 
 {% embed url="https://phi.holdings" %}
-<mark style="color:green;">This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.</mark>&#x20;
+This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.
 {% endembed %}
 
-Back Up PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
+#### Back Up PHI Network Native Non-Custodial Smart Chain Wallet&#x20;
 
 ![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
 
@@ -59,7 +59,9 @@ How To Find Smart Chain Wallet Private Key
 How To Create A Paper Crypto Wallet
 {% endembed %}
 
+### Recommended Additional PHI Wallet:
 
+Alpha Wallet Has Integrated PHI Smart Chain Natively Into The IOS & Android Mobile Applications. You Will Not Need To Manually Add PHI Smrt Chain Into Alpha Wallet. Alpha Wallet Is The Best Solution For Using A dApp Browser On Your Mobile Device To Connect Your PHI Wallet To dApps.&#x20;
 
 
 
@@ -74,6 +76,8 @@ How To Create A Paper Crypto Wallet
 **Download:** [**Official Download**](https://alphawallet.com/)****
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
+
+Additional Wallets Compatible With PHI Smart Chain:
 
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
 

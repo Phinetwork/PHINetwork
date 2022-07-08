@@ -103,7 +103,6 @@
 
 ## Developers
 
-* [📈 PHI & PHI20 Price API](developers/phi-and-phi20-price-api.md)
 * [📶 Run A Node](developers/run-a-node.md)
 * [📖 Developer Resources](developers/developer-resources.md)
 * [📊 GraphQL API](developers/graphql-api.md)
@@ -121,6 +120,7 @@
   * [eth\_getCode](developers/json-rpc-methods/eth\_getcode.md)
   * [eth\_getTransactionReceipt](developers/json-rpc-methods/eth\_gettransactionreceipt.md)
   * [eth\_sendRawTransaction](developers/json-rpc-methods/eth\_sendrawtransaction.md)
+* [📈 PHI & PHI20 Price API](developers/phi-and-phi20-price-api.md)
 
 ## Tutorials
 
