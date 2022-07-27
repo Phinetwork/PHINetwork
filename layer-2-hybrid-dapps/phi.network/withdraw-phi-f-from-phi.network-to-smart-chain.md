@@ -14,6 +14,8 @@ Prerequisites:&#x20;
 2\) [PHI In PHI.Network Wallet](https://phi.network/send)
 
 3\) [Logged In To PHI.Network](https://phi.network)
+
+4\) [PHI Smart Chain Wallet](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets)
 {% endhint %}
 
 1\) Go To Your [PHI.Network Wallet](https://phi.network/send) or [Click Here](https://phi.network/withdraw-to-smart-chain/) To Be Taken Directly To The PHI.Network Withdraw To Smart Chain Function.&#x20;
