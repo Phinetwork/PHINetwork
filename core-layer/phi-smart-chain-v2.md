@@ -83,6 +83,10 @@ Number of Transactions: 894&#x20;
 
 $6,000 Cost / 894 Transactions = <mark style="color:red;">$6.71</mark> Average Cost Per Transaction
 
+{% hint style="danger" %}
+On Average 25%+ Of Deposited Value Goes To Cover Gas Fees On The Ethereum Network.
+{% endhint %}
+
 {% embed url="https://www.blockchain.com/eth/address/0x1321c3b62bd841e12bb9fa77d7778a41e08bf323" %}
 Block Explorer Proof&#x20;
 {% endembed %}
