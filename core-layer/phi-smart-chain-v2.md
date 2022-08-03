@@ -32,7 +32,7 @@ Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee88
 Gas Fee In $USD Equivalent: <mark style="color:green;">$0.00000004746</mark>
 
 {% hint style="success" %}
-Per 1,000,000 Transactions Cost In $USD = $0.04746
+Per 1,000,000 PHI Transactions Cost In $USD = $0.04746
 {% endhint %}
 
 ### PHI20 v2 Gas Fee Per Transaction:
@@ -44,7 +44,7 @@ Gas Fee In PHI = [Φ0.000000000000114484](https://phiscan.com/tx/0xe9897a1afee12
 Gas Fee In $USD Equivalent: $0.00000012936692
 
 {% hint style="success" %}
-Per 1,000,000 Transactions Cost In $USD = $0.13
+Per 1,000,000 PHI20 Transactions Cost In $USD = $0.13
 {% endhint %}
 
 ### Smart Contract Deployment Average Gas Fee Per Transaction:
@@ -56,7 +56,7 @@ Gas Fee In PHI = [Φ0.00000000000551184](https://phiscan.com/tx/0x0d9e33410a71ec
 Gas Fee In $USD Equivalent: $0.0000062283792
 
 {% hint style="success" %}
-Per 1,000,000 Transactions Cost In $USD: $6.22
+Per 1,000,000 Smart Contract Deployment Average Transactions Cost In $USD: $6.22
 {% endhint %}
 
 
