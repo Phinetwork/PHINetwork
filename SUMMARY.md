@@ -46,6 +46,8 @@
 * [🔭 Block Explorers](core-layer/block-explorers/README.md)
   * [📡 PHI Smart Chain Explorer](https://explorer.phi.network)
   * [💓 PHI Network Explorer](https://phi.network/explorer)
+  * [🚀 Phiscan](https://phiscan.com)
+* [🚀 PHI Smart Chain V2](core-layer/phi-smart-chain-v2.md)
 
 ## Layer 1 dApps
 
@@ -86,6 +88,7 @@
   * [⏭ How To Send An NFT?](layer-1-dapps/phi-auction/how-to-send-an-nft.md)
   * [⏮ How To Receive An NFT?](layer-1-dapps/phi-auction/how-to-receive-an-nft.md)
   * [🇻🇳 How To View NFT In Wallet?](layer-1-dapps/phi-auction/how-to-view-nft-in-wallet.md)
+* [✖ Multi-Chain Swap (Bridge)](layer-1-dapps/multi-chain-swap-bridge.md)
 
 ## Layer 2 Hybrid Dapps
 
