@@ -27,9 +27,9 @@ v2 Chain Official Launch Date: 9/5/22
 
 .0000000002 Gwei
 
-Gas Fee In PHI = Φ0.000000000000042
+Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee881137526e8593943c06b4759ffecc296bf4f95c27a3c28b6c)
 
-Gas Fee In USD Equivalent: <mark style="color:green;">$0.00000004746</mark>
+Gas Fee In $USD Equivalent: <mark style="color:green;">$0.00000004746</mark>
 
 Per 1,000,000 Transactions Cost In $USD = $0.04746
 
@@ -37,9 +37,9 @@ Per 1,000,000 Transactions Cost In $USD = $0.04746
 
 .0000000002 Gwei
 
-Gas Fee In PHI = Φ0.000000000000114484
+Gas Fee In PHI = [Φ0.000000000000114484](https://phiscan.com/tx/0xe9897a1afee12b09caaad521c1fa34940513c1772bc8676d769154cb40fb35fb)
 
-Gas Fee In USD Equivalent: $0.00000012936692
+Gas Fee In $USD Equivalent: $0.00000012936692
 
 Per 1,000,000 Transactions Cost In $USD = $0.13
 
@@ -47,9 +47,9 @@ Per 1,000,000 Transactions Cost In $USD = $0.13
 
 .0000000002 Gwei
 
-Gas Fee In PHI = Φ0.00000000000551184
+Gas Fee In PHI = [Φ0.00000000000551184](https://phiscan.com/tx/0x0d9e33410a71ec6e3d2ed7a274726549527155924999c460f0afe191397f00ff)
 
-Gas Fee In USD Equivalent: $0.0000062283792
+Gas Fee In $USD Equivalent: $0.0000062283792
 
 Per 1,000,000 Transactions Cost In $USD: $6.22
 
