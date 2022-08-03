@@ -69,7 +69,9 @@ Easily Swap Between PHI Smart Chain V1 To PHI Smart Chain V2
 
 ## Ethereum Gas Fees Real World Example:
 
+{% hint style="info" %}
 Average Price of ETH = ($1,500 For USD Converted Example)
+{% endhint %}
 
 Total Sent: 13.838401569877111802 ($21,210)
 
