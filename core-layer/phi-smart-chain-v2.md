@@ -31,7 +31,9 @@ v2 Chain Official Launch Date: 9/5/22
 
 v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.000002+</mark> Gwei&#x20;
 
-v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei (20000000000+ Wei)&#x20;
+v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei (20,000,000,000+ Wei)&#x20;
+
+Ethereum Is 10 Billion+ Times More Expensive In Wei Than PHI Smart Chain&#x20;
 
 Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee881137526e8593943c06b4759ffecc296bf4f95c27a3c28b6c)
 
