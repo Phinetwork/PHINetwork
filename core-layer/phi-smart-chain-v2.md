@@ -25,11 +25,11 @@ v2 Chain Official Launch Date: 9/5/22
 
 [Current: V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000010007 Gwei
 
-v2 Gas Savings Per Transaction: <mark style="color:green;">.00001+</mark> Gwei&#x20;
-
 ### New: PHI v2 Gas Fee Per Transaction:
 
 .0000000002 Gwei
+
+v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.00001+</mark> Gwei&#x20;
 
 Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee881137526e8593943c06b4759ffecc296bf4f95c27a3c28b6c)
 
