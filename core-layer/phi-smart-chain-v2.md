@@ -1,6 +1,6 @@
 ---
 description: >-
-  3x-10x Faster & Even Lower Fees, Than V1, Updated Block Explorer & Full
+  3x-10x Faster & 1000x Lower Fees, Than V1, Updated Block Explorer & Full
   Developer API Suite Powered By Phiscan
 ---
 
@@ -22,6 +22,38 @@ PHI Smart Chain V2 Connection Details:
 * **Symbol: Φ**
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
+
+#### PHI v2 Gas Fees:
+
+.0000000002 Gwei
+
+Gas Fee In PHI = Φ0.000000000000042
+
+Gas Fee In USD Equivalent: $0.00000004746
+
+Per 1,000,000 Transactions Cost In $USD = $0.04746
+
+#### PHI20 v2 Gas Fees:
+
+.0000000002 Gwei
+
+Gas Fee In PHI = Φ0.000000000000114484
+
+Gas Fee In USD Equivalent: $0.00000012936692
+
+Per 1,000,000 Transactions Cost In $USD = $0.13
+
+#### Smart Contract Deployment Average Gas Fees:
+
+.0000000002 Gwei
+
+Gas Fee In PHI = Φ0.00000000000551184
+
+Gas Fee In USD Equivalent: $0.0000062283792
+
+Per 1,000,000 Transactions Cost In $USD: $6.22
+
+
 
 {% embed url="https://phiscan.com" %}
 
