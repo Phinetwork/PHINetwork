@@ -93,4 +93,4 @@ On Average 25%+ Of Deposited Value Goes To Cover Gas Fees On The Ethereum Networ
 Block Explorer Proof&#x20;
 {% endembed %}
 
-![](<../.gitbook/assets/Screen Shot 2022-08-03 at 2.11.53 AM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-08-03 at 2.11.53 AM.png>) ![](../.gitbook/assets/IMG\_6244.jpg)
