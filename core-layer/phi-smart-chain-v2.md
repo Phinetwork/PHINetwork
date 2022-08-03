@@ -1,6 +1,6 @@
 ---
 description: >-
-  3x-10x Faster & 10000x Lower Fees, Than V1, Updated Block Explorer & Full
+  3x-10x Faster & 10000x Lower Gas Fees, Than V1, Updated Block Explorer & Full
   Developer API Suite Powered By Phiscan
 ---
 
@@ -14,7 +14,7 @@ description: >-
 v2 Chain Official Launch Date: 9/5/22
 {% endhint %}
 
-PHI Smart Chain V2 Connection Details:
+## PHI Smart Chain V2 Connection Details:
 
 * **Network Name:** PHI
 * **RPC URL:** [https://connect.phi.network](https://connect.phi.network)​
@@ -23,7 +23,7 @@ PHI Smart Chain V2 Connection Details:
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-#### PHI v2 Gas Fees:
+### PHI v2 Gas Fees:
 
 .0000000002 Gwei
 
@@ -33,7 +33,7 @@ Gas Fee In USD Equivalent: <mark style="color:green;">$0.00000004746</mark>
 
 Per 1,000,000 Transactions Cost In $USD = $0.04746
 
-#### PHI20 v2 Gas Fees:
+### PHI20 v2 Gas Fees:
 
 .0000000002 Gwei
 
@@ -43,7 +43,7 @@ Gas Fee In USD Equivalent: $0.00000012936692
 
 Per 1,000,000 Transactions Cost In $USD = $0.13
 
-#### Smart Contract Deployment Average Gas Fees:
+### Smart Contract Deployment Average Gas Fees:
 
 .0000000002 Gwei
 
@@ -61,7 +61,7 @@ Easily Swap Between PHI Smart Chain V1 To PHI Smart Chain V2
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/multi-chain-swap-bridge" %}
 
-### Ethereum Gas Fees Real World Example:
+## Ethereum Gas Fees Real World Example:
 
 Average Price of ETH = ($1,500 For USD Converted Example)
 
