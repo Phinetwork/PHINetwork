@@ -11,7 +11,9 @@ description: >-
 {% endhint %}
 
 {% hint style="danger" %}
-Caution!&#x20;
+CAUTION!&#x20;
+
+Beta Testing Use At Own Risk:&#x20;
 
 1\) ONLY ADD LIQUIDITY TO PHI SMART CHAIN v1, V2 & Binance Smart Chain.
 
