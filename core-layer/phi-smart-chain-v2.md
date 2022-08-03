@@ -1,6 +1,6 @@
 ---
 description: >-
-  3x-10x Faster & 100000x Lower Gas Fees, Than V1, Updated Block Explorer & Full
+  3x-10x Faster & 1000x Lower Gas Fees, Than V1, Updated Block Explorer & Full
   Developer API Suite Powered By Phiscan
 ---
 
