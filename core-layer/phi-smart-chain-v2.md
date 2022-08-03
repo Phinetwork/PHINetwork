@@ -56,7 +56,7 @@ Gas Fee In PHI = [Φ0.00000000000551184](https://phiscan.com/tx/0x0d9e33410a71ec
 Gas Fee In $USD Equivalent: $0.0000062283792
 
 {% hint style="success" %}
-Per 1,000,000 Smart Contract Deployment Average Transactions Cost In $USD: $6.22
+Per 1,000,000 Smart Contract Deployments Average Transactions Cost In $USD: $6.22
 {% endhint %}
 
 ### PHI Smart Chain V2 Block Explorer (Phiscan)
