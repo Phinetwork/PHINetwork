@@ -17,7 +17,7 @@ v2 Chain Official Launch Date: 9/5/22
 PHI Smart Chain V2 Connection Details:
 
 * **Network Name:** PHI
-* **RPC URL:** [https://connect.phi.network](https://rpc1.phi.network)​
+* **RPC URL:** [https://connect.phi.network](https://connect.phi.network)​
 * **Chain ID: 144**
 * **Symbol: Φ**
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
