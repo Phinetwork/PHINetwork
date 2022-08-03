@@ -1,7 +1,7 @@
 ---
 description: >-
-  3x Faster & Even Lower Fees Updated Block Explorer & Full API Suite Powered By
-  Phiscan
+  3x Faster & Even Lower Fees Updated Block Explorer & Full Developer API Suite
+  Powered By Phiscan
 ---
 
 # 🚀 PHI Smart Chain V2
