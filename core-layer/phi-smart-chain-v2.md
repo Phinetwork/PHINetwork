@@ -33,7 +33,9 @@ v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.00000
 
 v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei (20,000,000,000+ Wei)&#x20;
 
-* (Ethereums Operating Cost Is 10,000,0000,000X More Expensive Than PHI Smart Chains)
+* (In Wei: Ethereums Operating Cost Is 10,000,000,000X More Expensive Than PHI Smart Chains)
+* (In Converted Dollar Value: Ethereum Is 10,000,000x More Expensive Than PHI Smart)
+* That Means You Can Do 10,000,000+ PHI Transactions For The Same $USD Cost Of 1 ETH Transaction.
 
 Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee881137526e8593943c06b4759ffecc296bf4f95c27a3c28b6c)
 
