@@ -23,15 +23,15 @@ v2 Chain Official Launch Date: 9/5/22
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-[Current: V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000002 Gwei
+[Current: V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000002 Gwei (2000 Wei)
 
 ### New: PHI v2 Gas Fee Per Transaction:
 
-0.000000002 Gwei
+0.000000002 Gwei (2 Wei)
 
 v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.000002+</mark> Gwei&#x20;
 
-v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei
+v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei (20000000000+ Wei)&#x20;
 
 Gas Fee In PHI = [Φ0.000000000000042](https://phiscan.com/tx/0x9327d7f2053eee881137526e8593943c06b4759ffecc296bf4f95c27a3c28b6c)
 
