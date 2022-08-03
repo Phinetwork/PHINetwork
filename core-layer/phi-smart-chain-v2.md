@@ -29,7 +29,7 @@ PHI Smart Chain V2 Connection Details:
 
 Gas Fee In PHI = Φ0.000000000000042
 
-Gas Fee In USD Equivalent: $0.00000004746
+Gas Fee In USD Equivalent: <mark style="color:green;">$0.00000004746</mark>
 
 Per 1,000,000 Transactions Cost In $USD = $0.04746
 
@@ -63,7 +63,7 @@ Easily Swap Between PHI Smart Chain V1 To PHI Smart Chain V2
 
 ### Ethereum Gas Fees Real World Example:
 
-Price of ETH = ($1,500 For USD Converted Example)
+Average Price of ETH = ($1,500 For USD Converted Example)
 
 Total Sent: 13.838401569877111802 ($21,210)
 
@@ -75,7 +75,7 @@ ETH Total Fees: 4.307074427376370795 ETH <mark style="color:red;">($6,000)</mark
 
 Number of Transactions: 894&#x20;
 
-$6,000 Cost / 894 Transactions = $6.71 Average Cost Per Transaction
+$6,000 Cost / 894 Transactions = <mark style="color:red;">$6.71</mark> Average Cost Per Transaction
 
 {% embed url="https://www.blockchain.com/eth/address/0x1321c3b62bd841e12bb9fa77d7778a41e08bf323" %}
 Block Explorer Proof&#x20;
