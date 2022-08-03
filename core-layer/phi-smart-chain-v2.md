@@ -1,6 +1,6 @@
 ---
 description: >-
-  3x-10x Faster & 10000x Lower Gas Fees, Than V1, Updated Block Explorer & Full
+  3x-10x Faster & 100000x Lower Gas Fees, Than V1, Updated Block Explorer & Full
   Developer API Suite Powered By Phiscan
 ---
 
@@ -23,13 +23,13 @@ v2 Chain Official Launch Date: 9/5/22
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-[Current: V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000010007 Gwei
+[Current: V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000002 Gwei
 
 ### New: PHI v2 Gas Fee Per Transaction:
 
-.0000000002 Gwei
+0.000000002 Gwei
 
-v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.00001+</mark> Gwei&#x20;
+v2 Gas Savings Per Transaction Compared To V1: <mark style="color:green;">.000002+</mark> Gwei&#x20;
 
 v2 Gas Savings Per Transaction Compared To ETH: <mark style="color:green;">20+</mark> Gwei
 
@@ -43,7 +43,7 @@ Per 1,000,000 PHI Transactions Cost In $USD = $0.04746
 
 ### PHI20 v2 Gas Fee Per Transaction:
 
-.0000000002 Gwei
+0.000000002 Gwei
 
 Gas Fee In PHI = [Φ0.000000000000114484](https://phiscan.com/tx/0xe9897a1afee12b09caaad521c1fa34940513c1772bc8676d769154cb40fb35fb)
 
@@ -55,7 +55,7 @@ Per 1,000,000 PHI20 Transactions Cost In $USD = $0.13
 
 ### Smart Contract Deployment Average Gas Fee Per Transaction:
 
-.0000000002 Gwei
+0.000000002 Gwei
 
 Gas Fee In PHI = [Φ0.00000000000551184](https://phiscan.com/tx/0x0d9e33410a71ec6e3d2ed7a274726549527155924999c460f0afe191397f00ff)
 
