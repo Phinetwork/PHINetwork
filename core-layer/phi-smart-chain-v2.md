@@ -60,3 +60,25 @@ Per 1,000,000 Transactions Cost In $USD: $6.22
 Easily Swap Between PHI Smart Chain V1 To PHI Smart Chain V2
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/multi-chain-swap-bridge" %}
+
+### Ethereum Gas Fees Real World Example:
+
+Price of ETH = ($1,500 For USD Converted Example)
+
+Total Sent: 13.838401569877111802 ($21,210)
+
+ETH Total Received: 18.145476001253482597 ($27,210)
+
+Final Balance: 0.000000004 ETH
+
+ETH Total Fees: 4.307074427376370795 ETH <mark style="color:red;">($6,000)</mark>
+
+Number of Transactions: 894&#x20;
+
+$6,000 Cost / 894 Transactions = $6.71 Average Cost Per Transaction
+
+{% embed url="https://www.blockchain.com/eth/address/0x1321c3b62bd841e12bb9fa77d7778a41e08bf323" %}
+Block Explorer Proof&#x20;
+{% endembed %}
+
+![](<../.gitbook/assets/Screen Shot 2022-08-03 at 2.11.53 AM.png>)
