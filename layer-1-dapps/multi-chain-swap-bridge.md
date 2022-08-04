@@ -40,7 +40,7 @@ description: >-
 
 
 
-Sushi now connects all major chains and rollups, with one easy-to-use dApp interface.
+PHI now connects all major chains and rollups, with one easy-to-use dApp interface.
 
 ### Getting AMMs ready for the Multichain future
 
@@ -50,7 +50,7 @@ To help combat this, we have released [PHI Bridge](https://bridge.phi.network) o
 
 As an example, consider this: a new chain has just been deployed and you want to get in on some of the early farming action, chasing the sky-high APY. You head to the new canonical bridge that has been set up, input some tokens to bridge over, then… wait! You realize that you actually need the new chain’s own native gas token to make the transfer! You quickly look all around mainnet for some of these new and elusive gas tokens so that your early farming lead isn’t spoiled, only to find that there is next to no liquidity for it anywhere. What to do? Do you bite the bullet and turn to a centralized exchange? Do you simply give up on your alpha you’ve been excited to act upon? Do you beg the unapologetic masses on Twitter?
 
-Luckily for you, PHI Bridge solves these major issues and allows you to spend more time strategizing about your next moves once your assets are actually on the destination chain, without worrying about whether your assets are safe or will even make it while they’re in the cross-chain bridge ether in the first place. Leveraging LayerZero’s groundbreaking omnichain messaging protocol by allowing users to make one-click, chain agnostic swaps, SushiXSwap itself extends the functionality even further, enabling users to then use our own liquidity pools on each chain to get the desired assets on the destination chain. In effect, this means that multiple bridges are in play, regardless of their implementations, as SushiXSwap will efficiently route through all of these separate implementations to find the user the absolute best price for any pair, regardless of the chain they’re using.
+Luckily for you, PHI Bridge solves these major issues and allows you to spend more time strategizing about your next moves once your assets are actually on the destination chain, without worrying about whether your assets are safe or will even make it while they’re in the cross-chain bridge ether in the first place. Leveraging LayerZero’s groundbreaking omnichain messaging protocol by allowing users to make one-click, chain agnostic swaps, PHI Bridge itself extends the functionality even further, enabling users to then use our own liquidity pools on each chain to get the desired assets on the destination chain. In effect, this means that multiple bridges are in play, regardless of their implementations, as PHI Bridge will efficiently route through all of these separate implementations to find the user the absolute best price for any pair, regardless of the chain they’re using.
 
 ![image3.png](https://res.cloudinary.com/sushi-cdn/image/fetch/f\_auto,c\_limit,w\_3840,q\_100/https://res.cloudinary.com/sushi-cdn/image/upload/f\_webp/if\_h\_gt\_1280/c\_fill,h\_1280/if\_end/q\_auto/image3\_38fc1b008d?\_a=ATAMhAA0)
 
@@ -60,7 +60,7 @@ Because its simple, intuitive UI is integrated directly into our swap interface,
 
 ### Bridge and swap any token, with minimal slippage at best prices
 
-A challenge for crosschain bridges so far has been finding a path with sufficient liquidity on both sides of a swap. We solve this problem by plugging into our own Sushi liquidity pools, which are currently deployed on 14 chains. Being able to use this liquidity guarantees our users to always receive the best price for any pair across all the chains.
+A challenge for crosschain bridges so far has been finding a path with sufficient liquidity on both sides of a swap. We solve this problem by plugging into our own PHI liquidity pools, which are currently deployed on 4 chains. Being able to use this liquidity guarantees our users to always receive the best price for any pair across all the chains.
 
 ![image3.jpg](https://res.cloudinary.com/sushi-cdn/image/fetch/f\_auto,c\_limit,w\_3840,q\_100/https://res.cloudinary.com/sushi-cdn/image/upload/f\_webp/if\_h\_gt\_1280/c\_fill,h\_1280/if\_end/q\_auto/image3\_7446aa27d6?\_a=ATAMhAA0)
 
