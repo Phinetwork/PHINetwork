@@ -16,9 +16,9 @@ description: >-
 
 #### <mark style="color:green;">Live Chains</mark>
 
-Φ Smart Chain v1
+#### Φ Smart Chain v1
 
-Φ Smart Chain v2
+#### Φ Smart Chain v2
 
 #### 🟡 Binance Chain&#x20;
 
