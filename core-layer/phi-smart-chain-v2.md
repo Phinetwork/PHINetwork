@@ -23,6 +23,10 @@ v2 Chain Official Launch Date: 9/5/22
 * **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
+#### Additional Information For Developers
+
+#### Hex Form Chain ID: 0x90
+
 [V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000002 Gwei (2000 Wei)
 
 ### New: PHI v2 Gas Fee Per Transaction:
