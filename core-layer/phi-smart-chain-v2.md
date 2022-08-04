@@ -25,7 +25,7 @@ v2 Chain Official Launch Date: 9/5/22
 
 #### Additional Information For Developers
 
-#### Hex Form Chain ID: 0x90
+#### Hex Format Chain ID: 0x90
 
 [V1 Gas Fee Per Transaction](https://explorer.phi.network): 0.000002 Gwei (2000 Wei)
 
