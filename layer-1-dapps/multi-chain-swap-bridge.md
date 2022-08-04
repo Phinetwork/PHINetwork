@@ -1,7 +1,7 @@
 ---
 description: >-
   A Non-Custodial Trustless Solution To Swap Your Cryptocurrencies To Different
-  Chains. PHI Network Bridge Is A DEX/AMM Multichain Swap
+  Chains. PHI Network Bridge Is A DEX/AMM Cross-chain Swap
 ---
 
 # ✖ Cross-Chain Swap (Bridge)

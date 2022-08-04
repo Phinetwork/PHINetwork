@@ -77,7 +77,7 @@
   * [Charts & Analytics](https://info.phiswap.com)
   * [Verified Token List .Json](https://github.com/Phinetwork/phiswap/blob/main/phiswap.json)
 * [🔀 PHI Exchange (Stake & Yield) $PHIX](layer-1-dapps/phi-exchange-stake-and-yield-usdphix.md)
-* [✖ Cross-Chain Swap (Bridge)](layer-1-dapps/cross-chain-swap-bridge.md)
+* [✖ Cross-Chain Swap (Bridge)](layer-1-dapps/multi-chain-swap-bridge.md)
 * [🪙 Phitoken Protocol](layer-1-dapps/phitoken-protocol/README.md)
   * [🎇 How To Connect To Phitoken App?](layer-1-dapps/phitoken-protocol/how-to-connect-to-phitoken-app.md)
   * [💰 How To Mint A New PHI20 Token?](layer-1-dapps/phitoken-protocol/how-to-mint-a-new-phi20-token.md)
