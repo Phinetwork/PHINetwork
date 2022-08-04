@@ -24,7 +24,7 @@ description: >-
 
 #### ∞ Polygon
 
-<mark style="color:orange;">Coming Soon!</mark>
+#### <mark style="color:orange;">Coming Soon!</mark>
 
 #### Ξ Ethereum,
 
