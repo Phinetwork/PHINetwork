@@ -89,7 +89,7 @@ On PHI Bridge, you can trade tokens and you can LP on any of the listed chains. 
 
 ### How to Make a Crosschain Swap
 
-Making a crosschain swap is extremely simple, and will likely be very intuitive for users who have used the Sushi UI before. Using PHI Bridge as your crosschain swap choice affords a user the lowest slippage possible, while staying fast and secure.
+Making a crosschain swap is extremely simple, and will likely be very intuitive for users who have used the PHI UI before. Using PHI Bridge as your crosschain swap choice affords a user the lowest slippage possible, while staying fast and secure.
 
 First off, you’ll need to navigate to Bridge.phi.network and connect your wallet using the button in the top right corner.
 
