@@ -77,10 +77,7 @@
   * [Charts & Analytics](https://info.phiswap.com)
   * [Verified Token List .Json](https://github.com/Phinetwork/phiswap/blob/main/phiswap.json)
 * [🔀 PHI Exchange (Stake & Yield) $PHIX](layer-1-dapps/phi-exchange-stake-and-yield-usdphix.md)
-* [🪙 Phitoken Protocol](layer-1-dapps/phitoken-protocol/README.md)
-  * [🎇 How To Connect To Phitoken App?](layer-1-dapps/phitoken-protocol/how-to-connect-to-phitoken-app.md)
-  * [💰 How To Mint A New PHI20 Token?](layer-1-dapps/phitoken-protocol/how-to-mint-a-new-phi20-token.md)
-  * [ℹ How To Find Minted Tokens Info?](layer-1-dapps/phitoken-protocol/how-to-find-minted-tokens-info.md)
+* [✖ Multi-Chain Swap (Bridge)](layer-1-dapps/multi-chain-swap-bridge.md)
 * [🤝 PHI Auction](layer-1-dapps/phi-auction/README.md)
   * [🔌 How To Connect To PHI Auction?](layer-1-dapps/phi-auction/how-to-connect-to-phi-auction.md)
   * [⛏ How To Mint A New NFT?](layer-1-dapps/phi-auction/how-to-mint-a-new-nft.md)
@@ -89,7 +86,10 @@
   * [⏭ How To Send An NFT?](layer-1-dapps/phi-auction/how-to-send-an-nft.md)
   * [⏮ How To Receive An NFT?](layer-1-dapps/phi-auction/how-to-receive-an-nft.md)
   * [🇻🇳 How To View NFT In Wallet?](layer-1-dapps/phi-auction/how-to-view-nft-in-wallet.md)
-* [✖ Multi-Chain Swap (Bridge)](layer-1-dapps/multi-chain-swap-bridge.md)
+* [🪙 Phitoken Protocol](layer-1-dapps/phitoken-protocol/README.md)
+  * [🎇 How To Connect To Phitoken App?](layer-1-dapps/phitoken-protocol/how-to-connect-to-phitoken-app.md)
+  * [💰 How To Mint A New PHI20 Token?](layer-1-dapps/phitoken-protocol/how-to-mint-a-new-phi20-token.md)
+  * [ℹ How To Find Minted Tokens Info?](layer-1-dapps/phitoken-protocol/how-to-find-minted-tokens-info.md)
 
 ## Layer 2 Hybrid Dapps
 
