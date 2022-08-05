@@ -42,28 +42,6 @@ In raw form, a private key is a string of 256 alphanumeric characters. Imagine t
 
 And that’s not all. Since your private key gives access to your blockchain address, it is a huge target for opportunists looking to steal your crypto. So although you need this data on a regular basis if you’re transacting with crypto, you also need to ensure it stays completely private and unseen. Not an easy balance.
 
-#### A BEACON FOR ONLINE THREATS
-
-We know what you’re thinking: why not secure the private key on a computer, or better still, a digital crypto wallet? Sounds perfect, right?!
-
-Not really. Your device, be it a phone or computer, is just about the most unsafe place you can keep your private key, whether or not you’re using a crypto wallet interface. Anything connected to the internet can be targeted via remote hacks and malware, allowing bad actors to view data stored on your computer, or even hack into your online crypto wallet to retrieve the private keys. This is why computer storage simply is not a secure solution for your private keys.
-
-So in short, what’s needed is a way of using your private key easily, without it ever being exposed, either online or physically. And what’s more, to do this in a way that leaves you ultimate control over your crypto assets, independently of any third party.  This is where crypto hardware wallets – and the recovery phrase – come into play.
-
-### HARDWARE WALLETS: COMPLETE PROTECTION, COMPLETE CONTROL
-
-As the leading crypto hardware wallet, securing your private keys offline – while leaving you with ultimate control over your crypto assets – is Ledger’s sole objective.&#x20;
-
-Ledger devices provide an environment where your private keys remain offline at all times. The device itself is never connected to the internet, and even when you transact with online platforms, the private key signs transactions inside the device.
-
-The result? Your private key stays out of reach of digital hackers looking to access your crypto via your internet connection.
-
-Hardware devices are a beautiful solution to a complex problem, allowing you to secure your private keys without compromising on utility. But ironically, keeping your keys in a device begs a new question:
-
-_What if you lose your wallet? Does this mean you’ll lose your crypto?_
-
-Of course not. It’s time to talk about your recovery phrase, its purpose – and how to keep it safe.
-
 ### RECOVERY PHRASE: YOUR CRYPTO FINGERPRINT
 
 The [recovery phrase](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase) – sometimes called the seed phrase or mnemonic phrase – is a 12, 18, or 24-word pattern generated each time a new wallet is created. Unlike your private key, which relates to just one blockchain address, the recovery phrase is a derivative of your entire wallet, and all private keys stored there.
