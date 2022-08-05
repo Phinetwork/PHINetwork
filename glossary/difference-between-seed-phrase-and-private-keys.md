@@ -40,7 +40,7 @@ In raw form, a private key is a string of 256 alphanumeric characters. Imagine t
 
 #### PRYING EYES ARE ALWAYS LURKING
 
-And that’s not all. Since your private key gives access to your blockchain address, it is a huge target for opportunists looking to steal your crypto. So although you need this data on a regular basis if you’re transacting with crypto, you also need to ensure it stays completely private and unseen. Not an easy balance.
+And that’s not all. Since your private key gives access to your blockchain address, it is a huge target for opportunists looking to steal your crypto. So although you need this data on a regular basis if you’re transacting with crypto, you also need to ensure it stays completely private and unseen.
 
 ### RECOVERY PHRASE: YOUR CRYPTO FINGERPRINT
 
