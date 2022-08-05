@@ -16,6 +16,6 @@ One Φ$ will always be worth one US Dollar, and there will be platforms availabl
 
 ## Can I redeem Φ$ in fiat or other stablecoins?
 
-You can redeem Φ$ for any other stablecoin or token available on PHI Network using any decentralized exchange with enough liquidity to back up the transaction. Phi Labs has developed a cross-chain dex/amm for on and offramp options for users.
+You can redeem Φ$ for any other stablecoin or token available on PHI Network using any decentralized exchange with enough liquidity to back up the transaction. Phi Labs has developed a cross-chain dex/amm as a decentralized on and offramp option for users.
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/cross-chain-swap-bridge" %}
