@@ -6,7 +6,7 @@ We officially support Φ$ exclusively on PHI Network. Other platforms and protoc
 
 ## Is Φ$ an algorithmic stablecoin?
 
-Φ$ is an algorithmic soft-pegged stablecoin backed by reserves held by PHI Network treasury.
+Φ$ is an algorithmic pegged stablecoin backed by reserves held by PHI Network treasury.
 
 ## What if it loses its peg?
 
