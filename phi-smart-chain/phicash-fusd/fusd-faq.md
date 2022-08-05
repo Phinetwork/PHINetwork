@@ -10,7 +10,7 @@ We officially support Φ$ exclusively on PHI Network. Other platforms and protoc
 
 ## What if it loses its peg?
 
-One Φ$ will always be worth one US Dollar, and there are platforms available for redemption in other stablecoins in different networks. This makes price balancing by arbitrage extremely likely, and over and above that we also have other mechanisms to ensure the price gets back to peg to avoid the possibility of a decoupling event.
+One Φ$ will always be worth one US Dollar, and there are platforms available for redemption in other stablecoins in different networks. This makes price balancing by arbitrage extremely likely, and over and above that PHI has other mechanisms to ensure the price gets back to peg to avoid the possibility of a decoupling event.
 
 
 
