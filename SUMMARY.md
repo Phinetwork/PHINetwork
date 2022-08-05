@@ -12,8 +12,6 @@
 * [💵 Phicash (Φ$)](phi-smart-chain/phicash-fusd/README.md)
   * [📍 Pegging & Backing](phi-smart-chain/phicash-fusd/pegging-and-backing.md)
   * [❓ Φ$ FAQ](phi-smart-chain/phicash-fusd/fusd-faq.md)
-  * [🎗 3% PHI$ Bonus](phi-smart-chain/phicash-fusd/3-phiusd-bonus.md)
-  * [🔄 How To Exchange PHIcash (Φ$) & PHI (Φ)?](phi-smart-chain/phicash-fusd/how-to-exchange-phicash-fusd-and-phi-f.md)
 
 ## Use PHI Smart Chain
 
@@ -76,6 +74,7 @@
   * [🔍 How To Find A Liquidity Pool Contract Address?](layer-1-dapps/phiswap-protocol/how-to-find-a-liquidity-pool-contract-address.md)
   * [Charts & Analytics](https://info.phiswap.com)
   * [Verified Token List .Json](https://github.com/Phinetwork/phiswap/blob/main/phiswap.json)
+  * [🔄 How To Exchange PHIcash (Φ$) & PHI (Φ)?](layer-1-dapps/phiswap-protocol/how-to-exchange-phicash-fusd-and-phi-f.md)
 * [🔀 PHI Exchange (Stake & Yield) $PHIX](layer-1-dapps/phi-exchange-stake-and-yield-usdphix.md)
 * [✖ Cross-Chain Swap (Bridge)](layer-1-dapps/multi-chain-swap-bridge.md)
 * [🪙 Phitoken Protocol](layer-1-dapps/phitoken-protocol/README.md)
