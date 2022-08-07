@@ -4,15 +4,15 @@ description: >-
   Smart Chains
 ---
 
-# How To Swap Between v1 & v2 Chain?
+# How To Swap Between v1 & v2 Smart Chains?
 
-### Swap Using PHI.Network To v1 & v2
+## Swap Using PHI.Network To v1 & v2
 
-![us the PHI.Network Exchange To Swap From v1 to v2](../../.gitbook/assets/IMG\_6341.jpg) ![Enter Amount of PHI](../../.gitbook/assets/IMG\_6342.jpg) ![Click Exchange](../../.gitbook/assets/IMG\_6343.jpg)
+![Use the PHI.Network Exchange To Swap From v1 to v2](../../.gitbook/assets/IMG\_6341.jpg) ![Enter Amount of PHI](../../.gitbook/assets/IMG\_6342.jpg) ![Click Exchange](../../.gitbook/assets/IMG\_6343.jpg)
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-2-hybrid-dapps/phi.network/withdraw-phi-f-from-phi.network-to-smart-chain" %}
 
-### Swap From Smart Chain
+## Swap From Smart Chain
 
 1\) Go To [Buy.Phi.Holdings](https://buy.phi.holdings)
 

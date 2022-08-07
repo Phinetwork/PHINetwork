@@ -46,7 +46,7 @@
   * [💓 PHI Network Explorer](https://phi.network/explorer)
   * [🚀 Phiscan](https://phiscan.com)
 * [🚀 PHI Smart Chain V2](core-layer/phi-smart-chain-v2/README.md)
-  * [How To Swap Between v1 & v2 Chain?](core-layer/phi-smart-chain-v2/how-to-swap-between-v1-and-v2-chain.md)
+  * [How To Swap Between v1 & v2 Smart Chains?](core-layer/phi-smart-chain-v2/how-to-swap-between-v1-and-v2-smart-chains.md)
 
 ## Layer 1 dApps
 
