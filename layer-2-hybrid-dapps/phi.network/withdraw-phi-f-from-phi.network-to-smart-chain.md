@@ -29,6 +29,8 @@ Prerequisites:&#x20;
 
 4\) Click Withdraw
 
+![ Fill In Withdraw Form With Amount Type & Wallet Address](../../.gitbook/assets/IMG\_6344.jpg) ![Select Type Of PHI v1 or v2](../../.gitbook/assets/IMG\_6345.jpg) ![Enter Address Smart Chain Wallet Address (0x..) Then Click Withdraw ](../../.gitbook/assets/IMG\_6346.jpg)
+
 {% hint style="success" %}
 Congratulations You Learned How To Withdraw PHI From PHI.Network To The PHI Smart Chain. Please Allow For 1-24 Hours to Receive Your Withdraw To Smart Chain Wallet.
 {% endhint %}
