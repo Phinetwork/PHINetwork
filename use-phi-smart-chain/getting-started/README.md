@@ -8,7 +8,7 @@ Your wallet will be the gateway that will allow you to connect to either the pub
 
 It is important to keep your information secure, and setup your wallet on a device that is free of viruses and other malicious threats, as well as not publicly accessible.&#x20;
 
-To start the process, you will need to install and setup a [compatible wallet](https://docs.phi.network/phi-wiki/compatible-wallets) to connect to a ledger, and start using[ PHI Smart Chain. ](../)
+To start the process, you will need to install and setup a [compatible wallet](https://docs.phi.network/phi-wiki/compatible-wallets) to connect to a ledger, and start using[ PHI Smart Chain. ](../../)
 
 We recommend that you only use [officially supported wallets](https://docs.phi.network/phi-wiki/compatible-wallets), as unsupported wallets can pose a direct threat to your funds, finances, and assets.
 

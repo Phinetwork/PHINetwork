@@ -15,7 +15,9 @@
 
 ## Use PHI Smart Chain
 
-* [⭐ Getting Started](use-phi-smart-chain/getting-started.md)
+* [⭐ Getting Started](use-phi-smart-chain/getting-started/README.md)
+  * [🔌 Chainlist V1](https://chainlist.org/chain/4181)
+  * [🔌 Chainlist V2](https://chainlist.org/chain/144)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)
   * [🏦 Create Smart Chain Wallet](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/README.md)
     * [🏦 Additional PHI Wallet Setup](use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-phi-wallet-setup/README.md)
@@ -47,6 +49,7 @@
   * [🚀 Phiscan](https://phiscan.com)
 * [🚀 PHI Smart Chain V2](core-layer/phi-smart-chain-v2/README.md)
   * [How To Swap Between v1 & v2 Smart Chains?](core-layer/phi-smart-chain-v2/how-to-swap-between-v1-and-v2-smart-chains.md)
+* [🕍 Goverance](https://phi.vote)
 
 ## Layer 1 dApps
 
