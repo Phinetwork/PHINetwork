@@ -15,7 +15,7 @@
 
 ## Use PHI Smart Chain
 
-* [⭐ Getting Started](use-phi-smart-chain/getting-started/README.md)
+* [⭐ Getting Started](use-phi-smart-chain/getting-started.md)
   * [🔌 Chainlist V1](https://chainlist.org/chain/4181)
   * [🔌 Chainlist V2](https://chainlist.org/chain/144)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)

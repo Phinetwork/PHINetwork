@@ -12,7 +12,7 @@ Have Additional Questions Or Need Support Use [PHI.Support](https://phi.support)
 
 ## Introduction <a href="#introduction" id="introduction"></a>
 
-[PHI Smart Chain](https://explorer.phi.network) is a open-source [DAG](https://docs.phi.network/phi-wiki/glossary#d) programable [smart contracts](https://docs.phi.network/phi-wiki/glossary#s) platform built for decentralized and enterprise-level applications, in one highly scalable [ecosystem](https://phi.network/resources). PHI Network is home for digital store of value, decentralized infrastructure, and applications, ready and built to scale for global usage and adoption. It is compatible and interoperable with Ethereum and other [EVM](https://docs.phi.network/phi-wiki/glossary#e) networks, and [Solidity](https://docs.phi.network/phi-wiki/glossary#s) is natively compatible, making it easy and quick for Ethereum developers to build, deploy, or fork from existing open-source infrastructure built on other networks. A noticeable difference between PHI Network and other decentralized networks is the structuring of our consensus protocol. It leverages on a novel concept named [Hybrid Consensus Algorithm,](./#hybrid-consensus-approach) and ensures decentralization, quick [finality](https://docs.phi.network/phi-wiki/glossary#f), and high [throughput](https://docs.phi.network/phi-wiki/glossary#t), without compromising on scalability and energy efficiency.
+[PHI Smart Chain](https://explorer.phi.network) is a open-source Decentralized Autonomous Economy (DAE), programable [smart contracts](https://docs.phi.network/phi-wiki/glossary#s) platform built for decentralized and enterprise-level applications, in one highly scalable [ecosystem](https://phi.network/resources). PHI Network is home for digital store of value, decentralized infrastructure, and applications, ready and built to scale for global usage and adoption. It is compatible and interoperable with Ethereum and other [EVM](https://docs.phi.network/phi-wiki/glossary#e) networks, and [Solidity](https://docs.phi.network/phi-wiki/glossary#s) is natively compatible, making it easy and quick for Ethereum developers to build, deploy, or fork from existing open-source infrastructure built on other networks. A noticeable difference between PHI Network and other decentralized networks is the structuring of our consensus protocol. It leverages on a novel concept named [Hybrid Consensus Algorithm,](./#hybrid-consensus-approach) and ensures decentralization, quick [finality](https://docs.phi.network/phi-wiki/glossary#f), and high [throughput](https://docs.phi.network/phi-wiki/glossary#t), without compromising on scalability and energy efficiency.
 
 #### PHI, **Φ**
 
@@ -22,7 +22,7 @@ PHI- or **Φ** - is the native token of PHI Network. It is a low supply and scar
 
 **Public Ledgers**
 
-PHI Smart Chain has two official public ledgers, [**PHI** (mainnet)](https://explorer.phi.network), and **Divine Testnet** (testnet). Anyone can connect and use both public ledgers, and **Divine Testnet** is a great place for developers to build and test their applications without any financial risk, as you can acquire the network's native token, Divine TST (DTS), for free.
+PHI Smart Chain has two official public ledgers, [**PHI Smart Chain**(v1) Chain ID 4181 ](https://explorer.phi.network), and [PHI Smart Chain (v2) Chain ID 144](https://phiscan.com). Anyone can connect and use both public ledgers.
 
 #### Private Ledgers <a href="#private-ledgers" id="private-ledgers"></a>
 
