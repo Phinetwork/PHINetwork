@@ -34,7 +34,7 @@ PHI Smart Chain leverages on the [Ethereum Virtual Machine (EVM)](https://docs.p
 
 #### Hybrid Consensus Algorithm <a href="#hybrid-consensus-approach" id="hybrid-consensus-approach"></a>
 
-[Hybrid Consensus Algorithm,](https://docs.phi.network/phi-wiki/hybrid-consensus-approach) or HCA for short, is a novel structuring standard for decentralized infrastructure, which ensures speed, high throughput, and quick finality, without compromising security and decentralization.
+[Hybrid Consensus Algorithm,](https://docs.phi.network/phi-wiki/hybrid-consensus-approach) or HCA for short, is a novel structuring standard for decentralized infrastructure, which ensures speed, high throughput, and quick finality, without compromising security and decentralization. PHI Smart Chains Use the Genesis Block For Validation Block Rewards Are Produced To Users Based On Participation. Users Contribute Assets & Are Rewarded PHI For Their Contribution.
 
 #### Key Features <a href="#key-features" id="key-features"></a>
 
