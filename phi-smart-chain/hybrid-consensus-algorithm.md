@@ -1,6 +1,6 @@
 # 🗯 Hybrid Consensus Algorithm
 
-## What is consensus in a DAG context? <a href="#what-is-consensus-in-a-dag-context" id="what-is-consensus-in-a-dag-context"></a>
+## What is consensus in a DAE context? <a href="#what-is-consensus-in-a-dag-context" id="what-is-consensus-in-a-dag-context"></a>
 
 When the subject is cryptographic networks, consensus can be defined as being the task of getting a group of computers or [validators ](https://docs.phi.network/phi-wiki/glossary#v)to come to an agreement as for the current state of the network ledger or database. The steps used for these computers to reach to this agreement is called a consensus mechanism, or consensus protocol.
 
@@ -10,7 +10,7 @@ When the subject is cryptographic networks, consensus can be defined as being th
 
 ## Hybrid Consensus Algorithm <a href="#hybrid-consensus-approach" id="hybrid-consensus-approach"></a>
 
-The Hybrid Consensus Algorithm is a novel structuring standard for decentralized infrastructure, which invokes different elements of[ Proof of Work (PoW)](https://docs.phi.network/phi-wiki/glossary#p), [Proof of Authority (PoA)](https://docs.phi.network/phi-wiki/glossary#p), and[ Proof of Stake (PoS),](https://docs.phi.network/phi-wiki/glossary#p) to create a secure, democratic, reliable, and scalable network. The concept is relatively simple, and implies on controlled[ mining ](https://docs.phi.network/phi-wiki/glossary#m)and[ hashpower ](https://docs.phi.network/phi-wiki/glossary#h)input by validators that have their identities fully verified by PHI Network Inc., and the consignment of a set amount of funds from these [validators ](https://docs.phi.network/phi-wiki/glossary#v)- in this case PHI 625,000 - with PHI Network Inc. for the whole period in which they hold a [validator key.](https://docs.phi.network/phi-wiki/glossary#v)
+The Hybrid Consensus Algorithm is a novel structuring standard for decentralized infrastructure, which invokes different elements of[ Proof of Work (PoW)](https://docs.phi.network/phi-wiki/glossary#p), [Proof of Authority (PoA)](https://docs.phi.network/phi-wiki/glossary#p), and[ Proof of Stake (PoS),](https://docs.phi.network/phi-wiki/glossary#p) to create a secure, democratic, reliable, and scalable network. The concept is relatively simple, and implies on controlled[ mining ](https://docs.phi.network/phi-wiki/glossary#m)and participation input. The Genesis Block Validates & Seals Transactions Users & Rewarded By Contribution of Assets.
 
 ### **Controlled Mining** <a href="#controlled-mining" id="controlled-mining"></a>
 

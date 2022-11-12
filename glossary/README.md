@@ -22,7 +22,9 @@
 
 **DDoS Attack** - A denial-of-service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network.
 
-**Decentralised Exchange** - An exchange that operates on a decentralised manner. Normally uses AMM (Automated Market Making) mechanisms, and are known for its relatively lower fees compared to Centralised Exchanges, and all its transactions take place on chain.
+**Decentralized Exchange** - An exchange that operates on a decentralized manner. Normally uses AMM (Automated Market Making) mechanisms, and are known for its relatively lower fees compared to Centralized Exchanges, and all its transactions take place on chain.
+
+**Decentralized Autonomous Economy (DAE) -** An Economy That operates In a decentralized manner. A Smart contract Governed Economy Secured Using Cryptography.&#x20;
 
 ## E
 
