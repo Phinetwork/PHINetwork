@@ -29,7 +29,27 @@ Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure 
 This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.
 {% endembed %}
 
+### Recommended 3rd Party PHI Wallet:
+
+Alpha Wallet Has Integrated PHI Smart Chain **** v1 & v2 **** Natively Into The IOS & Android Mobile Applications. You Will Not Need To Manually Add PHI Smart Chain Into Alpha Wallet. Alpha Wallet Is The Best Solution For Using A dApp Browser On Your Mobile Device To Connect Your PHI Wallet To dApps. Alpha Wallet HasFully Integrated PHI Consumable Price API That Reads Market Price Data Live.
+
+****
+
+[![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
+
+#### The ultimate Web3 Wallet to power your tokens.
+
+**AlphaWallet is the only self-custodial wallet, that’s 100% open source. Production Ready, simply customize for your tokens and launch your MVP in 1/5 of the time. Built by web3 engineers, for the community.**
+
+**Compatibility: Mobile**
+
+**Download:** [**Official Download**](https://alphawallet.com/)****
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup" %}
+
 #### Back Up PHI Network Self-Custodial Native Smart Chain Wallet&#x20;
+
+Very Basic Send & Receive Features on v1 Chain. Good For generating Paper Wallets & Sending Offline Transactions. Also Can Login With Key Store. Currently Only Integrated With The v1 Smart Chain.
 
 ![PHI Noncustodial Wallet](<../../.gitbook/assets/Screen Shot 2022-06-10 at 10.00.17 PM.png>)
 
@@ -58,24 +78,6 @@ How To Find Smart Chain Wallet Private Key
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/phi-wallet-setup/how-to-create-a-paper-wallet" %}
 How To Create A Paper Crypto Wallet
 {% endembed %}
-
-### Recommended 3rd Party PHI Wallet:
-
-Alpha Wallet Has Integrated PHI Smart Chain Natively Into The IOS & Android Mobile Applications. You Will Not Need To Manually Add PHI Smrt Chain Into Alpha Wallet. Alpha Wallet Is The Best Solution For Using A dApp Browser On Your Mobile Device To Connect Your PHI Wallet To dApps.&#x20;
-
-
-
-[![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
-
-#### The ultimate Web3 Wallet to power your tokens.
-
-**AlphaWallet is the only self-custodial wallet, that’s 100% open source. Production Ready, simply customize for your tokens and launch your MVP in 1/5 of the time. Built by web3 engineers, for the community.**
-
-**Compatibility: Mobile**
-
-**Download:** [**Official Download**](https://alphawallet.com/)****
-
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/alpha-wallet-setup" %}
 
 #### Additional 3rd Party Wallets Compatible With PHI Smart Chain:
 
