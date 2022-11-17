@@ -7,7 +7,7 @@ description: >-
 
 # 🏦 Additional Compatible Wallets Setup
 
-### Recommended Additional PHI Smart Chain Wallet Is Alpha Wallet <a href="#connection-details" id="connection-details"></a>
+### Recommended Additional PHI Smart Chain Wallet Is Alpha Wallet Allow For Dapp Browser Capabilities & Integrated With PHI Price API <a href="#connection-details" id="connection-details"></a>
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup" %}
 Alpha Wallet Comes Natively Installed With Alpha Wallet & You Wont Need To Manually Add The Connection Details.&#x20;
@@ -17,7 +17,7 @@ Alpha Wallet Comes Natively Installed With Alpha Wallet & You Wont Need To Manua
 
 You will need to setup your wallet in order to use PHI Smart Chain, and you can use the parameters below to configure it with your preferred wallet provider. If you are using a private ledger, you will have to contact your server administrator to request the connection parameters of the network you are trying to connect to.
 
-## PHI Network Smart Chain <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+## PHI Network Smart Chain v1 <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** PHI
 * **RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
@@ -28,7 +28,18 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 
 ![](../../../../.gitbook/assets/IMG\_5312.PNG)
 
-[Alpha Wallet](alpha-wallet-setup/) Has Fully Integrated PHI Network Smart Chain You Can Select PHI In The Select Networks List Without Having To Add The RPC & Explorer Information Manually.&#x20;
+## PHI Network Smart Chain v2  <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+
+* **Network Name:** PHI
+* **RPC URL:** [https://connect.phi.network/​ ](https://connect.phi.network)
+* **Chain ID: 144**
+* **Symbol: Φ**
+* **Block Explorer:**  [**https://phiscan.com**](https://phiscan.com)****
+* **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
+
+
+
+[Alpha Wallet](alpha-wallet-setup/) Has Fully Integrated PHI Network Smart Chain v1 & v2 along with PHI Price API so you can easily see PHI Value Converted To USD. You Can Select PHI In The Select Networks List Without Having To Add The RPC & Explorer Information Manually. Easily Switch Both Chains As Well As Connect To Any Dapp on Your Mobile Device Using [Alpha Wallets Dapp Browser.](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup/dapp-browser)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/alpha-wallet-setup" %}
 Alpha Wallets dApp Browser On Mobiles Devices Works Great To Seamlessly Interact With Your Favorite PHI Networks dApps like [Phiswap](../../../../layer-1-dapps/phiswap-protocol/).&#x20;
