@@ -44,6 +44,10 @@ Fill In <mark style="color:red;">All</mark> the fields with the network informat
 * **Symbol:** Φ
 * **Block Explorer:** https://phiscan.com
 
+{% hint style="success" %}
+For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
+{% endhint %}
+
 {% hint style="info" %}
 Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
 {% endhint %}
@@ -73,6 +77,10 @@ Click on _"Save"_
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/how-to-add-tokens-to-wallet#metamask" %}
 
 ## [Connect Wallet To Phiswap](../../../../../layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)&#x20;
+
+{% hint style="danger" %}
+Phiswap Is Configured For The v1 Chain. To Swap Using the v2 Chain Use [App.PHI.Exchange](https://app.phi.exchange)
+{% endhint %}
 
 There are two options "Metamask" & "WalletConnect"
 
