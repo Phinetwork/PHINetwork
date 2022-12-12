@@ -32,6 +32,8 @@ Click on the network drop-down menu on the top part of your [wallet](https://doc
 
 ## <mark style="color:yellow;">Step 2.</mark>
 
+#### <mark style="color:yellow;">-2a.</mark>
+
 Fill In <mark style="color:red;">All</mark> the fields with the network information (Do Not Leave the (Optional) Fields Blank They Are Not Optional Fill In The Form Entirely) as shown in the picture below.&#x20;
 
 ### **PHI Smart Chain v2 Connection Details:**
@@ -53,6 +55,8 @@ Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Se
 {% endhint %}
 
 ****
+
+#### <mark style="color:yellow;">-2b.</mark>
 
 ### **PHI Smart Chain v1 Connection Details:**
 
