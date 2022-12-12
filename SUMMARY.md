@@ -1,8 +1,8 @@
 # Table of contents
 
 * [🧠 What Is PHI Smart Chain?](README.md)
-  * [Main Benefits Of V1 & v2 Smart Chains](what-is-phi-smart-chain/main-benefits-of-v1-and-v2-smart-chains/README.md)
-    * [Difference Between PHI.Network Wallet & PHI Smart Chains](what-is-phi-smart-chain/main-benefits-of-v1-and-v2-smart-chains/difference-between-phi.network-wallet-and-phi-smart-chains.md)
+  * [Main Benefits Of V1 & V2 Smart Chains](what-is-phi-smart-chain/main-benefits-of-v1-and-v2-smart-chains.md)
+  * [Difference Between PHI.Network Wallet & PHI Smart Chains](what-is-phi-smart-chain/difference-between-phi.network-wallet-and-phi-smart-chains.md)
 * [🎓 Glossary](glossary/README.md)
   * [🌟 Difference Between Seed Phrase & Private Keys](glossary/difference-between-seed-phrase-and-private-keys.md)
 
