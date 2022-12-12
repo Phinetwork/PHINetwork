@@ -12,7 +12,7 @@ Prerequisite:&#x20;
 2\) Connected To [PHI Smart Chain](./)
 {% endhint %}
 
-### v1 Chain:
+## v1 Chain:
 
 1\) Go To [Phiswap Analytics ](https://info.phiswap.com)
 
@@ -53,6 +53,8 @@ Prerequisite:&#x20;
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phiswap-protocol" %}
 
 
+
+## v2 Chain:
 
 V2 Chain PHI20 Token Contract Address
 
