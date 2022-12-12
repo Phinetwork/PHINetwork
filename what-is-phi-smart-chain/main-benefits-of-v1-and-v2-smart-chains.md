@@ -1,10 +1,12 @@
 ---
-description: We Will Now Explore The Difference Between The PHI v1 & v2 Smart Chains
+description: We Will Now Explore The Main Benefits Of The PHI v1 & v2 Smart Chains.
 ---
 
 # Main Benefits Of V1 & V2 Smart Chains
 
-There Are Benefits To Both The v1 & v2 Smart Chains Which is Why PHI Has Two Smart Chains. Below You Will See The Major Benefits Of Each.
+There Are Benefits To Both The v1 & v2 Smart Chains Which is Why PHI Has Two Smart Chains.&#x20;
+
+Below You Will See The Major Benefits Of Each.
 
 V1 Chain:
 
