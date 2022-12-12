@@ -135,7 +135,7 @@
 * [📳 Deploy a dApp](tutorials/deploy-a-dapp.md)
 * [📃 Deploy a Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [🖼 Create a NFT Collection](tutorials/create-a-nft-collection.md)
-* [Create A Decentralized Autonomous Organization (DAO)](tutorials/create-a-decentralized-autonomous-organization-dao.md)
+* [🏨 Create A Decentralized Autonomous Organization (DAO)](tutorials/create-a-decentralized-autonomous-organization-dao.md)
 * [✨ Smart Contract Examples](tutorials/smart-contract-examples/README.md)
   * [Classic PHI-20 Token](tutorials/smart-contract-examples/classic-phi-20-token.md)
   * [Fixed Cap Supply Token](tutorials/smart-contract-examples/fixed-cap-supply-token.md)

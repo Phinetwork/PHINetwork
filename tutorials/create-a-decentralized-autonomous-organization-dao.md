@@ -1,7 +1,11 @@
-# Create A Decentralized Autonomous Organization (DAO)
+# 🏨 Create A Decentralized Autonomous Organization (DAO)
 
 {% hint style="info" %}
-Tutorial Under Construction For Technical Documentation While This Is Being Built Use [Docs.Snapshot.org](https://docs.snapshot.org)&#x20;
+[🚧](https://yaytext.com/emoji/construction/) Tutorial Under Construction [🚧](https://yaytext.com/emoji/construction/)&#x20;
+
+For Technical Documentation While This Is Being Built&#x20;
+
+Use [Docs.Snapshot.org](https://docs.snapshot.org)&#x20;
 {% endhint %}
 
 {% embed url="https://docs.snapshot.org" %}
