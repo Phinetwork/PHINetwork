@@ -11,6 +11,10 @@ description: >-
 
 You will need to setup your wallet in order to use PHI Smart Chain, and you can use the parameters below to configure it with your preferred wallet provider. If you are using a private ledger, you will have to contact your server administrator to request the connection parameters of the network you are trying to connect to.
 
+{% hint style="info" %}
+Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
+{% endhint %}
+
 ## **PHI Smart Chain v2 Connection Details:**
 
 <figure><img src="../../../../.gitbook/assets/D1603B0F-C32A-4275-B67A-760B286FB3DE.JPEG" alt=""><figcaption><p>v2 connection details</p></figcaption></figure>
@@ -22,6 +26,10 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 * **Block Explorer:** https://phiscan.com
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
+{% hint style="success" %}
+For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
+{% endhint %}
+
 ## PHI Smart Chain v1 Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** PHI
@@ -31,7 +39,11 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 * **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-![](../../../../.gitbook/assets/IMG\_5312.PNG)
+![v1 connection details](../../../../.gitbook/assets/IMG\_5312.PNG)
+
+{% hint style="success" %}
+For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
+{% endhint %}
 
 ## Specific Wallet Guided Setup Instructions <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
