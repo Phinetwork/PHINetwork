@@ -34,6 +34,24 @@ Click on the network drop-down menu on the top part of your [wallet](https://doc
 
 Fill In <mark style="color:red;">All</mark> the fields with the network information (Do Not Leave the (Optional) Fields Blank They Are Not Optional Fill In The Form Entirely) as shown in the picture below.&#x20;
 
+### **PHI Smart Chain v2 Connection Details:**
+
+<figure><img src="../../../../../.gitbook/assets/D1603B0F-C32A-4275-B67A-760B286FB3DE.JPEG" alt=""><figcaption><p>v2 connection details</p></figcaption></figure>
+
+* **Network Name:** PHI
+* **New RPC URL:** https://connect.phi.network
+* **Chain ID:** 144
+* **Symbol:** Φ
+* **Block Explorer:** https://phiscan.com
+
+{% hint style="info" %}
+Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
+{% endhint %}
+
+****
+
+### **PHI Smart Chain v1 Connection Details:**
+
 ![](../../../../../.gitbook/assets/IMG\_5312.PNG)
 
 * **Network Name:** PHI
