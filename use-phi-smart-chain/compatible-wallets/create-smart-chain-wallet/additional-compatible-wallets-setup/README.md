@@ -41,16 +41,14 @@ You will need to setup your wallet in order to use PHI Smart Chain, and you can 
 * **Block Explorer:**  [**https://phiscan.com**](https://phiscan.com)****
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
-
-
-[Alpha Wallet](alpha-wallet-setup/) Has Fully Integrated PHI Network Smart Chain v1 & v2 along with PHI Price API so you can easily see PHI Value Converted To USD. You Can Select PHI In The Select Networks List Without Having To Add The RPC & Explorer Information Manually. Easily Switch Both Chains As Well As Connect To Any Dapp on Your Mobile Device Using [Alpha Wallets Dapp Browser.](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup/dapp-browser)
-
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/alpha-wallet-setup" %}
-Alpha Wallets dApp Browser On Mobiles Devices Works Great To Seamlessly Interact With Your Favorite PHI Networks dApps like [Phiswap](../../../../layer-1-dapps/phiswap-protocol/).&#x20;
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
+Mobile dApp Browser Is Great For Using dApps On Your Mobile Device As Well As Sending & Receiving. Metamask Is Great For Desktop Browser.&#x20;
 {% endembed %}
 
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
-Best For Desktop Mobile Version Does Not Work So Great.
+
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-wallets-setup/alpha-wallet-setup" %}
+Mobile dApp Browser Is Great For Using dApps On Your Mobile Device As Well As Sending & Receiving.&#x20;
 {% endembed %}
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/token-pocket-setup" %}
