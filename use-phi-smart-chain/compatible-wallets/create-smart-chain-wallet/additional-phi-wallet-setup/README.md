@@ -6,15 +6,13 @@ description: >-
 
 # 🏦 Additional PHI Wallet Setup
 
+
+
 ## Additional Back Up PHI Branded Wallet&#x20;
 
 This Wallet Allows For The Creation Of Paper Wallets.
 
 {% embed url="https://wallet.phi.network" %}
-
-{% hint style="warning" %}
-For Sending & Balance Viewing This Wallet Is Only Compatible With V1 Chain. If Using This Wallet For New Wallet Creation, Paper Wallets & Receiving Then It Will Work For Both v1 & v2 Chains.
-{% endhint %}
 
 ![](<../../../../.gitbook/assets/IMG\_4870 2.jpg>) ![](../../../../.gitbook/assets/IMG\_4871.jpg) ![](../../../../.gitbook/assets/IMG\_4872.jpg) ![](../../../../.gitbook/assets/IMG\_4873.jpg) ![](../../../../.gitbook/assets/IMG\_4874.jpg) ![](../../../../.gitbook/assets/IMG\_4875.jpg) ![](../../../../.gitbook/assets/IMG\_4876.jpg) ![](../../../../.gitbook/assets/IMG\_4877.jpg) ![](../../../../.gitbook/assets/IMG\_4878.jpg) ![](../../../../.gitbook/assets/IMG\_4879.jpg) ![](../../../../.gitbook/assets/IMG\_4880.jpg) ![](../../../../.gitbook/assets/IMG\_4881.jpg) ![](../../../../.gitbook/assets/IMG\_4882.jpg) ![](../../../../.gitbook/assets/IMG\_4883.jpg) ![](../../../../.gitbook/assets/IMG\_4884.jpg) ![](../../../../.gitbook/assets/IMG\_4885.jpg) ![](../../../../.gitbook/assets/IMG\_4886.jpg) ![](../../../../.gitbook/assets/IMG\_4887.jpg) ![](../../../../.gitbook/assets/IMG\_4888.jpg) ![](../../../../.gitbook/assets/IMG\_4889.jpg) ![](../../../../.gitbook/assets/IMG\_4890.jpg) ![](../../../../.gitbook/assets/IMG\_4891.jpg)
 

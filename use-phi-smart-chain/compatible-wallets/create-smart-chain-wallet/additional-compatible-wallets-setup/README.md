@@ -27,7 +27,7 @@ Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Se
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
 {% hint style="success" %}
-For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
+For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form.
 {% endhint %}
 
 ## PHI Smart Chain v1 Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
@@ -42,10 +42,10 @@ For Your Convenience Copy & Paste The Listed Above Credentials In The Add Networ
 ![v1 connection details](../../../../.gitbook/assets/IMG\_5312.PNG)
 
 {% hint style="success" %}
-For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
+For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form.
 {% endhint %}
 
-## Specific Wallet Guided Setup Instructions <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+## Specific Alternative 3rd Party Wallet Guided Setup Instructions <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 Mobile dApp Browser Is Great For Using dApps On Your Mobile Device As Well As Sending & Receiving. Metamask Is Great For Desktop Browser.&#x20;
