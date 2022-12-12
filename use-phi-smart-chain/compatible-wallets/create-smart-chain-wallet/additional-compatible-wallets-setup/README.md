@@ -7,17 +7,21 @@ description: >-
 
 # 🏦 Additional Compatible Wallets Setup
 
-### Recommended Additional PHI Smart Chain Wallet Is Alpha Wallet Allow For Dapp Browser Capabilities & Integrated With PHI Price API <a href="#connection-details" id="connection-details"></a>
-
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup" %}
-Alpha Wallet Comes Natively Installed With Alpha Wallet & You Wont Need To Manually Add The Connection Details.&#x20;
-{% endembed %}
-
 ## Connection Details <a href="#connection-details" id="connection-details"></a>
 
 You will need to setup your wallet in order to use PHI Smart Chain, and you can use the parameters below to configure it with your preferred wallet provider. If you are using a private ledger, you will have to contact your server administrator to request the connection parameters of the network you are trying to connect to.
 
-## PHI Network Smart Chain v1 <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+## **PHI Smart Chain v2 Connection Details:**
+
+<figure><img src="../../../../.gitbook/assets/D1603B0F-C32A-4275-B67A-760B286FB3DE.JPEG" alt=""><figcaption><p>v2 connection details</p></figcaption></figure>
+
+* **Network Name:** PHI
+* **New RPC URL:** https://connect.phi.network
+* **Chain ID:** 144
+* **Symbol:** Φ
+* **Block Explorer:** https://phiscan.com
+
+## PHI Smart Chain v1 Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** PHI
 * **RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
