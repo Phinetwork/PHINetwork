@@ -1,6 +1,7 @@
 # Table of contents
 
 * [🧠 What Is PHI Smart Chain?](README.md)
+  * [Main Benefits Of V1 & v2 Smart Chains](what-is-phi-smart-chain/main-benefits-of-v1-and-v2-smart-chains.md)
 * [🎓 Glossary](glossary/README.md)
   * [🌟 Difference Between Seed Phrase & Private Keys](glossary/difference-between-seed-phrase-and-private-keys.md)
 
