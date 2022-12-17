@@ -29,9 +29,19 @@ Available as a PWA mobile app, PHI Holdings equips you with a key vault, secure 
 This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact With PHI Smart Chain. Noncustodial Solution For Sending, Receiving, Storing PHI, & Exchanging PHI20 Tokens.
 {% endembed %}
 
-### Recommended 3rd Party PHI Wallet:
+### 3rd Party PHI Wallets:
 
-Alpha Wallet Has Integrated PHI Smart Chain **** v1 & v2 **** Natively Into The IOS & Android Mobile Applications. You Will Not Need To Manually Add PHI Smart Chain Into Alpha Wallet. Alpha Wallet Is The Best Solution For Using A dApp Browser On Your Mobile Device To Connect Your PHI Wallet To dApps. Alpha Wallet HasFully Integrated PHI Consumable Price API That Reads Market Price Data Live.
+
+
+![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
+
+Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+
+**Compatibility:** Browser Extension, Mobile
+
+**Download:** [Official Download](https://metamask.io/download/)
+
+{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 
 ****
 
@@ -80,16 +90,6 @@ How To Create A Paper Crypto Wallet
 {% endembed %}
 
 #### Additional 3rd Party Wallets Compatible With PHI Smart Chain:
-
-![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
-
-Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
-
-**Compatibility:** Browser Extension, Mobile
-
-**Download:** [Official Download](https://metamask.io/download/)
-
-{% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FICZw8IeTKFltax8fVc0v%2Fcoinbase-wallet.0867e872675336d5fa888fc7e1c2e491.png?alt=media\&token=fb6e0a78-4bb3-4733-a990-39d130d7d5b7)
 
