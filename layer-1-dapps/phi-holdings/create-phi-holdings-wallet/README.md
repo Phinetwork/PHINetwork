@@ -26,3 +26,8 @@ Congratulations You Have Now Installed PHI Holdings Mobile App To Your Device.
 
 ![Click PHI & Continue](../../../.gitbook/assets/IMG\_5254.jpg) ![Click Show Address](../../../.gitbook/assets/IMG\_5255.jpg) ![Click I understand](../../../.gitbook/assets/IMG\_5256.jpg) ![Copy Phrase & Store In A Safe Place Hit Continue](../../../.gitbook/assets/IMG\_5257.jpg) ![Enter Phrase In Order](../../../.gitbook/assets/IMG\_5258.jpg) ![Click Ready](../../../.gitbook/assets/IMG\_5259.jpg) ![Congrats You Have Created A New PHI Holdings Wallet](../../../.gitbook/assets/IMG\_5260.PNG)
 
+
+
+### Android Progressive Web Application Installations Instructions&#x20;
+
+{% embed url="https://support.google.com/chrome/answer/9658361?co=GENIE.Platform=Android&hl=en&oco=1" %}
