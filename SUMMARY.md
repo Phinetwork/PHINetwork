@@ -145,3 +145,6 @@
   * [Real Estate Transaction](tutorials/smart-contract-examples/real-estate-transaction/README.md)
     * [Mortgage Agreement](tutorials/smart-contract-examples/real-estate-transaction/mortgage-agreement/README.md)
       * [Real Estate Mortgage Bridge](tutorials/smart-contract-examples/real-estate-transaction/mortgage-agreement/real-estate-mortgage-bridge.md)
+  * [Token Rebalance Protocol](tutorials/smart-contract-examples/token-rebalance-protocol.md)
+  * [Constituion](tutorials/smart-contract-examples/constituion/README.md)
+    * [Congress](tutorials/smart-contract-examples/constituion/congress.md)
