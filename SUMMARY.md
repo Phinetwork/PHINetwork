@@ -148,3 +148,4 @@
   * [Token Rebalance Protocol](tutorials/smart-contract-examples/token-rebalance-protocol.md)
   * [Constituion](tutorials/smart-contract-examples/constituion/README.md)
     * [Congress](tutorials/smart-contract-examples/constituion/congress.md)
+    * [President](tutorials/smart-contract-examples/constituion/president.md)
