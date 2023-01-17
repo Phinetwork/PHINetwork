@@ -9,11 +9,15 @@ All In One Place
 
 [**Create New Wallet**](https://phi.network/register)
 
+**Install From Google Play Store**
+
+{% embed url="https://play.google.com/store/apps/details?id=com.phinetwork.myapp" %}
+
 **Φ**
 
 ### PHI Network
 
-The Community-Run Technology Powering The Cryptocurrency PHI (PHI). Social Entertainment PHIverse. Fastest, Securest & Easiest To Use Blockchain. Instant, Scalable, Secure, Private, P2P Network. Zero Transaction Fees
+The Community-Run Technology Powering The Cryptocurrency PHI (PHI). Social Entertainment [PHIverse](https://phiverse.com). Fastest, Securest & Easiest To Use Blockchain. Instant, Scalable, Secure, Private, P2P Network. Zero Transaction Fees
 
 ### Zero Fees
 
