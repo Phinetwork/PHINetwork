@@ -46,29 +46,23 @@ Polygon Matic Contract Address
 
 ## Token Economics <a href="#token-economics" id="token-economics"></a>
 
-PHI token economics promote fair distribution amongst the community, scarcity, and holding incentives for users. A small portion of its supply is burned every time a user sends a transaction on PHI Network, and this ensures balance to the inflationary nature of the tokens, as they are used to pay for block rewards on the network.
+PHI token economics promote fair distribution amongst the community, scarcity, and holding incentives for users. A small portion of its supply is burned every time a user sends a transaction on PHI Network, and this ensures balance to the  nature of the tokens, as they are used to pay for block rewards on the network.
 
 ### Supply <a href="#supply" id="supply"></a>
 
 #### PHI Network <a href="#nova-network" id="nova-network"></a>
 
-There were PHI 10,000,000 (ten million) pre-mined in our genesis block, and about PHI 2 are produced every time a block is sealed on the mainnet. This brings a relative inflation of about PHI 4,000,000 per year with the network averaging 5 seconds between blocks.
+There were PHI 10,000,000 (ten million) pre-mined in PHI genesis block.
 
 **Pre-Mined Supply:** 10,000,000&#x20;
 
-**Block Rewards:** 2/block
+### Deflation Rate <a href="#inflation-rate" id="inflation-rate"></a>
 
-### Inflation Rate <a href="#inflation-rate" id="inflation-rate"></a>
-
-New PHI is created on every block mined, thus bringing an inflationary element to the economics of the coin. Because the same average PHI is produced every year against a steadily growing supply, it is expected that the inflation rate will lessen as years go by, and this will also be countered by the built-in burning mechanism that burns part of the fees used to pay for transactions.
-
-**Expected Inflation Rate:** 2\* PHI per Block&#x20;
-
-\* \~ 2M Blocks per Year = PHI \~4M/Year
+PHI is burnt every transaction on every block mined, thus bringing an inflationary element to the economics of the coin.  This will be countered by the built-in burning mechanism that burns the fees used to pay for transactions.
 
 ### Usage Fees & Burning Mechanism <a href="#usage-fees-and-burning-mechanism" id="usage-fees-and-burning-mechanism"></a>
 
-PHI Network distributes part of the gas fees used to pay for transactions to the validators, and part of these fees are automatically burned by the protocol.
+PHI Network distributes part of the gas fees used to pay for transactions, these fees are automatically burned by the protocol.
 
 ### Tokens Initial Allocation <a href="#tokens-initial-allocation" id="tokens-initial-allocation"></a>
 
