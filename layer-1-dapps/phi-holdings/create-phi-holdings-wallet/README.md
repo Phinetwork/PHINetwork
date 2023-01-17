@@ -31,3 +31,7 @@ Congratulations You Have Now Installed PHI Holdings Mobile App To Your Device.
 ### Android Progressive Web Application Installations Instructions&#x20;
 
 {% embed url="https://support.google.com/chrome/answer/9658361?co=GENIE.Platform=Android&hl=en&oco=1" %}
+
+Install From Google Play Store&#x20;
+
+{% embed url="https://play.google.com/store/apps/details?id=com.phiholdings.myapp" %}
