@@ -2,7 +2,7 @@
 description: The complete web3 Development Framework.
 ---
 
-# Thirdweb
+# 🕸 Thirdweb
 
 Everything you need to connect your apps or games to PHI Network
 
