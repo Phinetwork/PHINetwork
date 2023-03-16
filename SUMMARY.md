@@ -129,6 +129,9 @@
   * [eth\_getTransactionReceipt](developers/json-rpc-methods/eth\_gettransactionreceipt.md)
   * [eth\_sendRawTransaction](developers/json-rpc-methods/eth\_sendrawtransaction.md)
 * [📈 PHI & PHI20 Price API](developers/phi-and-phi20-price-api.md)
+* [Thirdweb](developers/thirdweb/README.md)
+  * [Thirdweb SDK v1](https://thirdweb.com/phi-network-v1)
+  * [Thirdweb SDK v2](https://thirdweb.com/phi-network-v2)
 
 ## Tutorials
 
