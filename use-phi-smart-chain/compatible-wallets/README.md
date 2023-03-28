@@ -31,6 +31,20 @@ This Is The Recommended Wallet For Ease Of Use On A Mobile Devices To Interact W
 
 ### 3rd Party PHI Wallets:
 
+<img src="https://wallet3.io/static/media/logo.c13e125d.svg" alt="Wallet 3" data-size="line">
+
+#### Open Web3 with Wallet 3
+
+* Designed based on asset security
+* Multi-chain tokens and NFT digital assets
+* A built-in Web3 browser that can be compatible with Metamask
+* Unreserved open-source code for auditing
+* Signin With Apple and Google Account
+
+**Compatibility:** Mobile Dapp Browser
+
+**Download:** [Official Download](https://wallet3.io/)
+
 
 
 ![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)
