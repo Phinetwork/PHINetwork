@@ -11,6 +11,16 @@ description: >-
 
 You will need to setup your wallet in order to use PHI Smart Chain, and you can use the parameters below to configure it with your preferred wallet provider. If you are using a private ledger, you will have to contact your server administrator to request the connection parameters of the network you are trying to connect to.
 
+Fastest Way To Automatically Set Up Both Chains Within Any Web3 Wallet Is Go To&#x20;
+
+{% embed url="https://phi.exchange" %}
+
+Go To Both The V1 Chain ID 4181 & v2 Chain ID 144
+
+Connect Your Wallet To Each Exchange & The Chains Will Be Automatically Added To Your Wallet.&#x20;
+
+Below You Will Find The Manual Connection Details.&#x20;
+
 {% hint style="info" %}
 Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
 {% endhint %}
