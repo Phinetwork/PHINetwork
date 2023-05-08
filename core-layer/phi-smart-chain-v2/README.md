@@ -12,7 +12,7 @@ description: >-
 * **RPC URL:** [https://connect.phi.network](https://connect.phi.network)​
 * **Chain ID: 144**
 * **Symbol: Φ**
-* **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)****
+* **Block Explorer:** [**https://phiscan.com**](https://phiscan.com)
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
 
 #### Additional Information For Developers

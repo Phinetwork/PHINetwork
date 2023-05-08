@@ -7,11 +7,10 @@ description: >-
 
 # Classic PHI-20 Token
 
-****
 
-```
-//// SPDX-License-Identifier: MIT
-// Contract by PHI Network.
+
+<pre class="language-solidity"><code class="lang-solidity"><strong>//// SPDX-License-Identifier: MIT
+</strong>// Contract by PHI Network.
 
 pragma solidity ^0.4.23;
 contract owned {
@@ -75,7 +74,7 @@ contract TokenERC20 {
     }
 
     function transferFrom(address _from, address _to, uint256 _value) public returns (bool success) {
-        require(_value <= allowance[_from][msg.sender]);
+        require(_value &#x3C;= allowance[_from][msg.sender]);
         allowance[_from][msg.sender] -= _value;
         _transfer(_from, _to, _value);
         return true;
@@ -108,7 +107,7 @@ contract TokenERC20 {
 
     function burnFrom(address _from, uint256 _value) public returns (bool success) {
         require(balanceOf[_from] >= _value);
-        require(_value <= allowance[_from][msg.sender]);
+        require(_value &#x3C;= allowance[_from][msg.sender]);
         balanceOf[_from] -= _value;
         allowance[_from][msg.sender] -= _value;
         totalSupply -= _value;
@@ -171,6 +170,6 @@ mapping (address => bool) public frozenAccount;
     }
 }
 
-```
+</code></pre>
 
 \

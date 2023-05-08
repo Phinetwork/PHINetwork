@@ -26,7 +26,7 @@ _**On Mobile Device**_
 {% tab title="Desktop" %}
 _**On Desktop**_&#x20;
 
-Click on the network drop-down menu on the top part of your [wallet](https://docs.phi.network/phi-wiki/glossary#w), and select the "Add Network" option, as per picture below.![](<../../../../../.gitbook/assets/Screen Shot 2022-05-16 at 1.51.03 PM.png>)_****_
+Click on the network drop-down menu on the top part of your [wallet](https://docs.phi.network/phi-wiki/glossary#w), and select the "Add Network" option, as per picture below.![](<../../../../../.gitbook/assets/Screen Shot 2022-05-16 at 1.51.03 PM.png>)
 {% endtab %}
 {% endtabs %}
 
@@ -54,7 +54,7 @@ For Your Convenience Copy & Paste The Listed Above Credentials In The Add Networ
 Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
 {% endhint %}
 
-****
+
 
 #### <mark style="color:yellow;">-2b.</mark>
 
@@ -66,7 +66,7 @@ Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Se
 * **New RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
 * **Chain ID: 4181**
 * **Symbol: Φ**
-* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
+* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
 
 {% hint style="success" %}
 For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.

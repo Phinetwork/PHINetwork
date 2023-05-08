@@ -46,7 +46,7 @@ And that’s not all. Since your private key gives access to your blockchain add
 
 The [recovery phrase](https://www.ledger.com/academy/crypto/what-is-a-recovery-phrase) – sometimes called the seed phrase or mnemonic phrase – is a 12, 18, or 24-word pattern generated each time a new wallet is created. Unlike your private key, which relates to just one blockchain address, the recovery phrase is a derivative of your entire wallet, and all private keys stored there.
 
-In layman’s terms, a recover phrase is the “master __ key” for all of your crypto accounts – it is your private keys in mnemonic form. These words, when entered into another crypto wallet (in the correct order) will recover all of the private keys you were storing on your original wallet. The purpose? Giving you control. Having this phrase means that even if you lose your physical hardware device, you’ll still have access to your blockchain assets.
+In layman’s terms, a recover phrase is the “master key” for all of your crypto accounts – it is your private keys in mnemonic form. These words, when entered into another crypto wallet (in the correct order) will recover all of the private keys you were storing on your original wallet. The purpose? Giving you control. Having this phrase means that even if you lose your physical hardware device, you’ll still have access to your blockchain assets.
 
 #### BIP-39 STANDARD – MAKING CRYPTO WALLETS INTEROPERABLE
 

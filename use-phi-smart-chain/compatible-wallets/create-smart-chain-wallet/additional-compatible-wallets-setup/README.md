@@ -15,9 +15,9 @@ Fastest Way To Automatically Set Up Both Chains Within Any Web3 Wallet Is Go To&
 
 {% embed url="https://phi.exchange" %}
 
-Go To Both The V1 Chain ID 4181 & v2 Chain ID 144
+Go To Both The [V1 Chain ID 4181](https://swap.phi.exchange) & v2 [Chain ID 144](https://app.phi.network)
 
-Connect Your Wallet To Each Exchange & The Chains Will Be Automatically Added To Your Wallet.&#x20;
+Connect Your Wallet Within Your Wallets Dapp Browser By Clicking "Metamask" Even If Your Inside Another Wallets Dapp Browser. Do This With Each Each Exchange & The Chains Will Be Automatically Added To Your Wallet.&#x20;
 
 Below You Will Find The Manual Connection Details.&#x20;
 

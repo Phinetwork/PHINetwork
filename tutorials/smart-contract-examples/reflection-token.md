@@ -7,7 +7,7 @@ description: >-
 
 # Reflection Token
 
-****
+
 
 ```
 //// SPDX-License-Identifier: MIT
@@ -166,4 +166,3 @@ mapping (address => bool) public frozenAccount;
 
 ```
 
-****

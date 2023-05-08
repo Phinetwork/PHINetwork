@@ -12,7 +12,7 @@ PHI Network Connection Details:
 * **New RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
 * **Chain ID: 4181**
 * **Symbol: Φ**
-* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)``
+* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
 
 {% hint style="success" %}
 For Your Convenience Copy & Paste The Listed Above Credentials In The Form On Coinbase [Non-Custodial](../../../../glossary/#n). Then Click Save

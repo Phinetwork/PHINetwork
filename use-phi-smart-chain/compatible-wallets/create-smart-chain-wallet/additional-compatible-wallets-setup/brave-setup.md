@@ -24,7 +24,7 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 
 ![Click 3 dots in bottom left hand corner](../../../../.gitbook/assets/IMG\_4683.jpg) ![Click Wallet (Beta)](../../../../.gitbook/assets/IMG\_4684.jpg) ![Click Ethereum Next To The Wallet Balance](../../../../.gitbook/assets/IMG\_4685.jpg) ![Click Add Network ](../../../../.gitbook/assets/IMG\_4686.jpg) ![Fill In The Form Completely ](../../../../.gitbook/assets/IMG\_4687.jpg) ![Make Sure The Form Is Filled In Entirety Then Click Save.](../../../../.gitbook/assets/IMG\_4688.jpg)
 
-****
+
 {% endtab %}
 
 {% tab title="Desktop" %}
@@ -52,7 +52,7 @@ Prerequisite: [Brave Browser ](https://brave.com/)Must Be Installed On Your Devi
 Congratulations You Have Connected Brave To PHI Smart Chain
 {% endhint %}
 
-****
+
 
 {% hint style="warning" %}
 As of 6/6/22 [Coingecko](https://coingecko.com) Has Not Yet Listed PHI On Their Website So The PHI Price Will Not Show Up Correctly On Brave Browser As Brave Is Pulling Their Price Data From[ Coingecko](https://coingecko.com). PHI Has Intentionally Not Listed With [Coingecko](https://coingecko.com) or [Coin market Cap](https://coinmarketcap.com) because they ask for all holders information allowing them to have centralized control & power over the market. As Time Progresses These Resources Will Have To List PHI With Out Asking For Holder Personal Information Because PHI's Value IS Undeniable & Brings Real Solutions To The World. Additionally The PHI Community is in the process of developing its own branded wallet resources that pull data from sources like [phiswap](https://info.phiswap.com) analytics & [instantmarketcap](https://instantmarketcap.com)&#x20;

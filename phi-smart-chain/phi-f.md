@@ -20,11 +20,11 @@ PHI Φ is PHI network's native and primary token. Initially deployed on Ethereum
 
 ### **Contract Addresses** <a href="#contract-addresses" id="contract-addresses"></a>
 
-Wrapped PHI v2 Contract Address **** (wPHI)
+Wrapped PHI v2 Contract Address (wPHI)
 
 [0x587fe3Fdb7EcD6b134E1556A3Cd083ccF6e7f1B8](https://phiscan.com/token/0x587fe3Fdb7EcD6b134E1556A3Cd083ccF6e7f1B8)
 
-Wrapped PHI v1 Contract Address **** (wPHI)
+Wrapped PHI v1 Contract Address (wPHI)
 
 [0xb61d26717dbd2ea6ebf4fadae02a28782f86864c](https://info.phiswap.com/token/0xb61d26717dbd2ea6ebf4fadae02a28782f86864c)
 

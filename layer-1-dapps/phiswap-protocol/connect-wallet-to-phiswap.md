@@ -39,7 +39,7 @@ For Mobile Devices Select WalletConnect
 {% endhint %}
 
 * [ ] 1\) Inside Token Pocket _(After_ [_Connected To PHI Smart Chain_](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/token-pocket-setup.md)_)_
-  * [ ] 1.a) **** Go To Token Pocket dApp Browser By Clicking The "_Discover"_ Tab In The Bottom App Menu.&#x20;
+  * [ ] 1.a) Go To Token Pocket dApp Browser By Clicking The "_Discover"_ Tab In The Bottom App Menu.&#x20;
   * [ ] 1.b) Go To App.phiswap.com
 
 ![1.a Click Discover](../../.gitbook/assets/IMG\_31B67C9812BC-1.jpeg) ![1.b Enter https://app.phiswap.com ](../../.gitbook/assets/IMG\_4413.jpg)
@@ -62,7 +62,7 @@ _**Desktop Connection**_&#x20;
 {% endtab %}
 {% endtabs %}
 
-****
+
 
 {% hint style="success" %}
 Congratulations You Have Successfully Connected Your Wallet To Phiswap

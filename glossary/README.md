@@ -28,7 +28,7 @@
 
 ## E
 
-**Ethereum Virtual Machine (EVM) Aka **_**"Smart Chain"**_** ** - The Ethereum Virtual Machine is the software platform that developers can use to create decentralized applications (dApps) on PHI Network, Ethereum, and other compatible networks. This virtual machine integrates & is 100% compatible with PHI Smart Chain.&#x20;
+**Ethereum Virtual Machine (EVM) Aka **_**"Smart Chain"**_ - The Ethereum Virtual Machine is the software platform that developers can use to create decentralized applications (dApps) on PHI Network, Ethereum, and other compatible networks. This virtual machine integrates & is 100% compatible with PHI Smart Chain.&#x20;
 
 ## F
 

@@ -28,7 +28,7 @@ _Speed_ Controlled hashpower also contributes to overall speed, as the rate in w
 
 ### **The Structure** <a href="#the-structure" id="the-structure"></a>
 
-To make HCA possible, three layers of nodes are required. The first one is the core layer – layer zero –, that hosts all the network’s history and ensures security and functioning of the chain, even if all the validators fail at once. The core layer connects to an upper layer of bridging nodes that are used to generate the validator keys – layer one – and by the validators on the execution layer – layer two – to connect and sync with the network.![](https://novanetwork.io/wp-content/uploads/2022/04/Picture1-1024x299.png)__
+To make HCA possible, three layers of nodes are required. The first one is the core layer – layer zero –, that hosts all the network’s history and ensures security and functioning of the chain, even if all the validators fail at once. The core layer connects to an upper layer of bridging nodes that are used to generate the validator keys – layer one – and by the validators on the execution layer – layer two – to connect and sync with the network.![](https://novanetwork.io/wp-content/uploads/2022/04/Picture1-1024x299.png)
 
 _Core Layer or Layer Zero_It’s the core layer of nodes, and it can have as many nodes as the blockchain constructor wants it to have. It stores a full record of the network’s history and is used as the main layer of security of the network too. It can have one or more nodes with mining enabled, to ensure that even if all validators’ nodes fail, the chain will remain operational.&#x20;
 

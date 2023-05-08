@@ -57,7 +57,7 @@ Available as a browser extension and as a mobile app, MetaMask equips you with a
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/metamask-setup" %}
 
-****
+
 
 [![Alphawallet logo](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)](https://alphawallet.com/)
 
@@ -67,7 +67,7 @@ Available as a browser extension and as a mobile app, MetaMask equips you with a
 
 **Compatibility: Mobile**
 
-**Download:** [**Official Download**](https://alphawallet.com/)****
+**Download:** [**Official Download**](https://alphawallet.com/)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/alpha-wallet-setup" %}
 
@@ -136,18 +136,18 @@ Supports all the leading chains/cryptocurrencies (Bitcoin, PHI, Ethereum, BNB, T
 
 Mobile Download: [Download](https://www.tokenpocket.pro/en/download/app)
 
-Browser Extension: [Download](https://extension.tokenpocket.pro/#/)****
+Browser Extension: [Download](https://extension.tokenpocket.pro/#/)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/token-pocket-setup" %}
 
 [![Brave Software home](https://brave.com/static-assets/images/brave-logo.svg)](https://brave.com/)\
 Compatibility: Browser, Mobile&#x20;
 
-[Download Brave](https://brave.com)****
+[Download Brave](https://brave.com)
 
 {% embed url="https://docs.phi.network/phi-wiki/use-phi-smart-chain/wallet-setup/brave-setup" %}
 
-****
+
 
 ## Integrating Your Wallet <a href="#integrating-your-wallet" id="integrating-your-wallet"></a>
 
