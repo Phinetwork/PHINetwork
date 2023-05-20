@@ -16,6 +16,12 @@ Prerequisite:&#x20;
 3\) Connected To [PHI Auction](how-to-connect-to-phi-auction.md)&#x20;
 {% endhint %}
 
+Additional Compatible PHI Network NFT Marketplace&#x20;
+
+[CrosschainAsset.com](https://crosschainasset.com)
+
+[Nft.phi.network](https://nft.phi.network)
+
 [PHI Auction](https://phi.auction) is a decentralized marketplace that **allows users to easily mint, buy and sell** [**non-fungible assets**](../../glossary/#n) built for PHI Smart Chain Cutting Edge Blockchain Technology Online Asset Trade & Management Near Instant Transaction Times & Lowest Transaction Fees.&#x20;
 
 [Get Started ](https://phi.auction)

@@ -1,6 +1,6 @@
 ---
 description: >-
-  This Guide Will Show You How To Access The Alpha Wallet dApp Browser On Your
+  This Guide Will Show You How To Access A Web3 Wallet dApp Browser On Your
   Mobile Device.
 ---
 
