@@ -11,5 +11,14 @@ We have exposed an integrated development environment in the browser that includ
 
 Click the link below to access the interface.&#x20;
 
+V1 Smart Chain
+
 [Open GraphQL API Dashboard](https://graph.phiswap.com/subgraphs/name/exchange/graphql)
 
+
+
+V2 Smart Chain&#x20;
+
+
+
+{% embed url="https://phiscan.io/graphiql" %}
