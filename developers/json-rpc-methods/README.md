@@ -12,6 +12,10 @@ PHI Smart Chain API Documentation
 
 {% embed url="https://phiscan.com/docs/" %}
 
+{% embed url="https://phiscan.io/api-docs" %}
+
+{% embed url="https://phiscan.io/eth-rpc-api-docs" %}
+
 * ​[**eth\_accounts**](eth\_accounts.md)**​**
 * [**​eth\_blockNumber​**](eth\_blocknumber.md)
 * **​**[**eth\_call​**](eth\_call.md)
