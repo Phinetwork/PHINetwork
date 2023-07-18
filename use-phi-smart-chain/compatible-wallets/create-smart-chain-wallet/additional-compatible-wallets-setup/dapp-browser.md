@@ -9,7 +9,7 @@ description: >-
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-Web3 Wallet Must Be Installed & Configured On Device
+[Web3 Wallet Must Be Installed & Configured On Device](https://docs.phi.network/phi-wiki/use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup)
 {% endhint %}
 
 In Order To Use Decentralized Applications On Your Mobile Device You Will Need To A dApp Browser. You can Access The dApp Browser Within Your Web3 Wallet By Following The Visual Aids Below.&#x20;
