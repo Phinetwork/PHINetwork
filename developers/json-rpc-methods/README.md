@@ -5,8 +5,12 @@ PHI Network supports a subset of the Ethereum methods.&#x20;
 You can use any public or private RPC endpoints to request using the JSON RPC methods.
 
 {% hint style="info" %}
-You can use our officially supported public RPC endpoint https://rpc1.phi.network to use the methods below.
+You can use our officially supported public RPC endpoint https://connect.phi.network to use the methods below.
 {% endhint %}
+
+PHI Smart Chain API Documentation
+
+{% embed url="https://phiscan.com/docs/" %}
 
 * ​[**eth\_accounts**](eth\_accounts.md)**​**
 * [**​eth\_blockNumber​**](eth\_blocknumber.md)

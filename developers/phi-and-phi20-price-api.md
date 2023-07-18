@@ -38,8 +38,12 @@ price.phi.network/api/ticker?=(Tokensymbol)
 
 ## Additional Decentralized Price API Resource
 
-[phi.financial/api/token/phi ](json-rpc-methods/)
 
-[phi.financial/api/token/USDC](json-rpc-methods/)
+
+{% embed url="https://phi.financial/api/token/phi" %}
+
+
+
+{% embed url="https://phi.financial/api/token/USDC" %}
 
 To Have Your Coin or Tokens Price Added To PHI Networks Decentralized Price API Email [Info@phi.network](mailto:info@phi.network) With The Subject Line Of "Price API Addition Inquiry".&#x20;
