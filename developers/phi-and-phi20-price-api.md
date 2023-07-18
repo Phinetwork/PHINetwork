@@ -36,7 +36,17 @@ price.phi.network/api/ticker?=(Tokensymbol)
 
 
 
-## Additional Price API Resource
+{% hint style="warning" %}
+Token Must Be Minted On PHI Smart Chain v1 With Liquidity  on [app.phiswap.com](https://app.phiswap.com) For Price.phi.network api to display the custom phi20 token value.&#x20;
+
+can use [app.phitoken.com](https://app.phitoken.com) to launch a v1 phi20 token.&#x20;
+
+Analytics From Data Provided From [info.phiswap.com](https://info.phiswap.com) will be displayed the data provided using this API.
+{% endhint %}
+
+
+
+## Additional Price API Resource:
 
 
 
@@ -46,6 +56,6 @@ price.phi.network/api/ticker?=(Tokensymbol)
 
 {% embed url="https://phi.financial/api/token/USDC" %}
 
-https://phi.financial/api/token/(Tokensymbol)
+{% embed url="https://phi.financial/api/token/(Tokensymbol)" %}
 
-To Have Your Coin or Tokens Price Added To PHI Networks Decentralized Price API Email [Info@phi.network](mailto:info@phi.network) With The Subject Line Of "Price API Addition Inquiry".&#x20;
+To Have Your Coin or Tokens Market Data & Price Added To PHI Networks Price API Email [Info@phi.network](mailto:info@phi.network) With The Subject Line Of "Price API Addition Inquiry".&#x20;
