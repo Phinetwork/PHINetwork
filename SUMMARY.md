@@ -18,6 +18,8 @@
 ## Use PHI Smart Chain
 
 * [⭐ Getting Started](use-phi-smart-chain/getting-started.md)
+  * [Phimask](use-phi-smart-chain/getting-started/phimask/README.md)
+    * [Net worth](use-phi-smart-chain/getting-started/phimask/net-worth.md)
   * [🔌 Chainlist V1](https://chainlist.org/chain/4181)
   * [🔌 Chainlist V2](https://chainlist.org/chain/144)
 * [🤳 Compatible Wallets](use-phi-smart-chain/compatible-wallets/README.md)
