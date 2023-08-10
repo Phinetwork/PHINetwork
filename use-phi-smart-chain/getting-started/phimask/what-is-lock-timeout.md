@@ -1,6 +1,6 @@
 # What Is Lock Timeout?
 
-To increase your safety, BlockWallet’s Lock Timeout feature will log out after a certain period of time. By default, this period is set to 5 minutes.
+To increase your safety, Phimask's Lock Timeout feature will log out after a certain period of time. By default, this period is set to 5 minutes.
 
 ### Change your lock timeout settings <a href="#change-your-lock-timeout-settings" id="change-your-lock-timeout-settings"></a>
 
