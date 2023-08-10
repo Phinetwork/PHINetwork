@@ -10,7 +10,15 @@ You will need a [wallet](https://docs.phi.network/phi-wiki/glossary#w) to use [P
 
 
 
-## Recommended Wallet:
+## Recommended Wallets:
+
+### Desktop Browser Extension Wallet&#x20;
+
+(Mobile dApp Browser Wallet Coming Soon 9/1/23)
+
+{% embed url="https://phimask.com" %}
+
+### PWA Wallet For Send, Receive & Exchange
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phi-holdings" %}
 Step By Step Guide To Walk You Through The PHI Holdings Wallet Features & Functions.\
