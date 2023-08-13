@@ -1,8 +1,7 @@
 ---
 description: >-
-  We are working on simplifying the process of setting up a PHI Smart Chain or
-  Divine Testnet node with shell (bash) scripts, but until the new documents are
-  files are released.
+  We are working on simplifying the process of setting up a Node on PHI Smart
+  Chain .
 ---
 
 # 📶 Run A Node
@@ -44,6 +43,6 @@ Before you fire up your node, you will need to make sure you have all the packag
 
 Please verify that all packages have been installed properly before advancing to the next step.
 
+You Will Find PHI Smart Chain Genesis FIle Here To Start Up Your Node
 
-
-This Page Is Currently Being Developed Please Check Back Again Soon.
+{% embed url="https://github.com/Phinetwork/phi-chain/blob/main/genesis.json" %}
