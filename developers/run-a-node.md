@@ -43,6 +43,6 @@ Before you fire up your node, you will need to make sure you have all the packag
 
 Please verify that all packages have been installed properly before advancing to the next step.
 
-You Will Find PHI Smart Chain Genesis FIle Here To Start Up Your Node
+You Will Find PHI Smart Chain Genesis File Here To Start Up Your Node
 
-{% embed url="https://github.com/Phinetwork/phi-chain/blob/main/genesis.json" %}
+[https://github.com/Phinetwork/phi-chain/blob/main/genesis.json](https://github.com/Phinetwork/phi-chain/blob/main/genesis.json)
