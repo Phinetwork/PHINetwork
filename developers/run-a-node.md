@@ -1,7 +1,5 @@
 ---
-description: >-
-  We are working on simplifying the process of setting up a Node on PHI Smart
-  Chain .
+description: Setting Up A Node on PHI Smart Chain Chain ID 144 .
 ---
 
 # 📶 Run A Node
