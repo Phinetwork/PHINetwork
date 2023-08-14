@@ -32,9 +32,9 @@ PHI Network can also be deployed on a [private and controlled environment](https
 
 PHI Smart Chain leverages on the [Ethereum Virtual Machine (EVM)](https://docs.phi.network/phi-wiki/glossary#e) for its [smart contracts,](https://docs.phi.network/phi-wiki/glossary#s) and this means that its platforms, tokens, protocols, and [dApps](https://docs.phi.network/phi-wiki/glossary#d) are compatible and interoperable with other networks that uses the same algorithm to calculate addresses, and EVM for smart contract compatibility. Some major examples of other networks that can be deemed compatible with PHI Network are **Ethereum**, **Avalanche**, **Fantom Opera**, and **Binance Smart Chain**.
 
-#### Hybrid Consensus Algorithm <a href="#hybrid-consensus-approach" id="hybrid-consensus-approach"></a>
+#### Proof Of Use Consenus  <a href="#hybrid-consensus-approach" id="hybrid-consensus-approach"></a>
 
-[Hybrid Consensus Algorithm,](https://docs.phi.network/phi-wiki/hybrid-consensus-approach) or HCA for short, is a novel structuring standard for decentralized infrastructure, which ensures speed, high throughput, and quick finality, without compromising security and decentralization. PHI Smart Chains Use the Genesis Block For Validation Block Rewards Are Produced To Users Based On Participation. Users Contribute Assets & Are Rewarded PHI For Their Contribution.
+**Proof-of-Use (PoU) Consensus:** Phi Network uses PoU as its consensus mechanism, rewarding network participants based on actual resource usage, which helps distribute rewards more fairly. PHI Smart Chains Use the Genesis Block For Validation Block Rewards Are Produced To Users Based On Participation. Users Contribute Assets & Are Rewarded PHI For Their Contribution.
 
 #### Key Features <a href="#key-features" id="key-features"></a>
 
