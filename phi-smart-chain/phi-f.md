@@ -20,17 +20,13 @@ PHI Φ is PHI network's native and primary token. Initially deployed on Ethereum
 
 ### **Contract Addresses** <a href="#contract-addresses" id="contract-addresses"></a>
 
-Wrapped PHI v2 Contract Address (wPHI)
+Wrapped PHI Contract Address (wPHI)
 
-[0x587fe3Fdb7EcD6b134E1556A3Cd083ccF6e7f1B8](https://phiscan.com/token/0x587fe3Fdb7EcD6b134E1556A3Cd083ccF6e7f1B8)
+[0x1278e0AdBc93291A54384594A9c27Da9f5890a9F](https://phiscan.com/token/0x1278e0AdBc93291A54384594A9c27Da9f5890a9F)
 
-Wrapped PHI v1 Contract Address (wPHI)
+USDT Contract Address (usdt)&#x20;
 
-[0xb61d26717dbd2ea6ebf4fadae02a28782f86864c](https://info.phiswap.com/token/0xb61d26717dbd2ea6ebf4fadae02a28782f86864c)
-
-PHI Tether Contract Address (Φusdt)&#x20;
-
-[0xd9990fdc1036e3e7bccb3dfc163f666c77250b62](https://info.phiswap.com/token/0xc9b0fcb7b97cfc0f1c3c9e360383ccc1bea6c795)
+[0x2d58D587F0E23ae8341e7e2682608814eA223Dfd](https://phiscan.com/token/0x2d58D587F0E23ae8341e7e2682608814eA223Dfd)
 
 Ethereum Contract Address
 

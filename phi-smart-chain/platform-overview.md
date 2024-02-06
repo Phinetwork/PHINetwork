@@ -6,7 +6,7 @@ Some of the information present in this page might not apply to private and purp
 
 ## Public Ledgers <a href="#public-ledgers" id="public-ledgers"></a>
 
-​[PHI Network](../) currently leverages on 2 [publicly accessible ledgers](platform-overview.md#public-ledgers), that participants can use to connect and interact with the network on a trust-less and decentralized environment. These ledgers were initially deployed by PHI Labs, but are maintained by [validators](https://docs.phi.network/phi-wiki/glossary#v) spread across the globe to ensure decentralization, security, and mitigate tampering of the network's state.
+​[PHI Network](../) currently leverages [publicly accessible ledger](platform-overview.md#public-ledgers), that participants can use to connect and interact with the network on a trust-less and decentralized environment. These ledgers were initially deployed by PHI Labs, but are maintained by [validators](https://docs.phi.network/phi-wiki/glossary#v) spread across the globe to ensure decentralization, security, and mitigate tampering of the network's state.
 
 ### PL1: PHI Smart Chain <a href="#pl1-nova-network" id="pl1-nova-network"></a>
 
