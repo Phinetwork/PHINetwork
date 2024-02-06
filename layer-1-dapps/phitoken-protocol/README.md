@@ -14,11 +14,9 @@ Prerequisite:&#x20;
 2\) Connected To[ PHItoken](how-to-connect-to-phitoken-app.md)
 {% endhint %}
 
-[Launch App](https://app.phitoken.com)
+[Launch App](https://phitoken.com)
 
-{% embed url="https://app.phitoken.com" %}
-Phitoken Protocol
-{% endembed %}
+{% embed url="https://phitoken.com" %}
 
 * [How To Connect Wallet To Phitoken App?](how-to-connect-to-phitoken-app.md)
 * [How To Create A New Token?](how-to-mint-a-new-phi20-token.md)
