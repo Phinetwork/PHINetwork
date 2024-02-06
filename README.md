@@ -22,7 +22,7 @@ PHI- or **Φ** - is the native token of PHI Network. It is a low supply and scar
 
 **Public Ledgers**
 
-PHI Smart Chain has two official public ledgers, [**PHI Smart Chain**(v1) Chain ID 4181 ](https://explorer.phi.network), and [PHI Smart Chain (v2) Chain ID 144](https://phiscan.com). Anyone can connect and use both public ledgers.
+PHI Smart Chain official public ledger,[ ](https://explorer.phi.network)[PHI Smart Chain (v2) Chain ID 144](https://phiscan.com). Anyone can connect and use the public ledger.
 
 #### Private Ledgers <a href="#private-ledgers" id="private-ledgers"></a>
 
