@@ -14,7 +14,7 @@ Prerequisite:&#x20;
 
 ## v1 Chain:
 
-1\) Go To [Phiswap Analytics ](https://info.phiswap.com)
+1\) Go To [Phiscan.com](https://phiscan.com)
 
 2\) Search For The Token You Would Like To Import Into Wallet (Example: BTC)
 
@@ -46,24 +46,18 @@ Prerequisite:&#x20;
 &#x20;Congratulations You Have Added Your First Token To Your Wallet.
 {% endhint %}
 
-### [How To Get Tokens?](https://app.phiswap.com)&#x20;
+### [How To Get Tokens? ](https://phiscan.com/tokens)
 
-{% embed url="https://app.phiswap.com" %}
+{% embed url="https://phiscan.com/tokens" %}
 
 {% embed url="https://docs.phi.network/phi-wiki/layer-1-dapps/phiswap-protocol" %}
 
-
-
-## v2 Chain:
-
-V2 Chain PHI20 Token Contract Address
+## PHI20 Token Contract Address
 
 Get Token Information For v2 PHI20 Tokens&#x20;
 
-From [Phiscan.com](https://phiscan.com) Or From [https://app.phi.exchange/info](https://app.phi.exchange/info)
+From [Phiscan.com](https://phiscan.com)&#x20;
 
-Search The Token You Are Looking On Either Resource Then Copy Contract Address Use The Same Walk Through Instructions As Above To Import Your PHI20 v2 Tokens Into Your Wallet.&#x20;
+Search The Token You Are Looking On Either Resource Then Copy Contract Address Use The Same Walk Through Instructions As Above To Import Your PHI20 Tokens Into Your Wallet.&#x20;
 
-{% embed url="https://phiscan.com" %}
-
-{% embed url="https://app.phi.exchange/info" %}
+{% embed url="https://phiscan.com/tokens" %}

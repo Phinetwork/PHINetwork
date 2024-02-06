@@ -7,7 +7,7 @@ description: How To Find The Connected Wallet Address To Phiswap?
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-1\) [Wallet ](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup/)Must Be Installed On Your Device&#x20;
+1\) [Wallet ](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/install-metamask/metamask-setup.md)Must Be Installed On Your Device&#x20;
 
 2\) Connected To [PHI Smart Chain](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/)&#x20;
 

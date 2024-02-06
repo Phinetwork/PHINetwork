@@ -1,6 +1,6 @@
 # ℹ Metamask Setup
 
-Follow the step by step Instructions below to set up your [wallet ](install-metamask.md)& connect to [PHI Smart Chain](../../../../../) &#x20;
+Follow the step by step Instructions below to set up your [wallet ](./)& connect to [PHI Smart Chain](../../../../../) &#x20;
 
 {% hint style="danger" %}
 Prerequisite: [Metamask ](https://metamask.io/download/)Must Be Installed On Your Device Before Preceding With Setup Instructions. &#x20;
@@ -32,11 +32,9 @@ Click on the network drop-down menu on the top part of your [wallet](https://doc
 
 ## <mark style="color:yellow;">Step 2.</mark>
 
-#### <mark style="color:yellow;">-2a.</mark>
-
 Fill In <mark style="color:red;">All</mark> the fields with the network information (Do Not Leave the (Optional) Fields Blank They Are Not Optional Fill In The Form Entirely) as shown in the picture below.&#x20;
 
-### **PHI Smart Chain v2 Connection Details:**
+### **PHI Smart Chain Connection Details:**
 
 <figure><img src="../../../../../.gitbook/assets/D1603B0F-C32A-4275-B67A-760B286FB3DE.JPEG" alt=""><figcaption><p>v2 connection details</p></figcaption></figure>
 
@@ -45,28 +43,6 @@ Fill In <mark style="color:red;">All</mark> the fields with the network informat
 * **Chain ID:** 144
 * **Symbol:** Φ
 * **Block Explorer:** https://phiscan.com
-
-{% hint style="success" %}
-For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
-{% endhint %}
-
-{% hint style="info" %}
-Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
-{% endhint %}
-
-
-
-#### <mark style="color:yellow;">-2b.</mark>
-
-### **PHI Smart Chain v1 Connection Details:**
-
-![](../../../../../.gitbook/assets/IMG\_5312.PNG)
-
-* **Network Name:** PHI
-* **New RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
-* **Chain ID: 4181**
-* **Symbol: Φ**
-* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
 
 {% hint style="success" %}
 For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form On Metamask.
@@ -83,7 +59,7 @@ Click on _"Save"_
 ## [Connect Wallet To Phiswap](../../../../../layer-1-dapps/phiswap-protocol/connect-wallet-to-phiswap.md)&#x20;
 
 {% hint style="danger" %}
-Phiswap Is Configured For The v1 Chain. To Swap Using the v2 Chain Use [App.PHI.Exchange](https://app.phi.exchange)
+&#x20;To Swap Using Use [Phiswap.com](https://phiswap.com)
 {% endhint %}
 
 There are two options "Metamask" & "WalletConnect"

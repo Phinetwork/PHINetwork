@@ -43,7 +43,7 @@ This Page Will Display All Tokens Mint From Your Connected Wallet
 {% hint style="danger" %}
 Prerequisite:
 
-[Metamask Extension Installed](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup/install-metamask.md)
+[Metamask Extension Installed](../../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/install-metamask/)
 {% endhint %}
 
 ![Step 1](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.26 PM (1).png>) ![Step 2](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.35 PM (1).png>) ![Step 3](<../../.gitbook/assets/Screen Shot 2022-05-28 at 12.47.43 PM.png>)

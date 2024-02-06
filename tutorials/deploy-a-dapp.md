@@ -18,7 +18,7 @@ PHI Network uses a subset of the Ethereum API methods, which you can explorer fu
 
 ### Using a Web 3 Wallet
 
-PHI Network is compatible with [most Web 3 wallets](../use-phi-smart-chain/compatible-wallets/) that supports Ethereum and allow custom networks to be added, including the widely used [MetaMask](../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/metamask-setup/) and [Coinbase](broken-reference) Wallet applications. You can find more information on how to get your Web 3 wallet up and running on PHI Network in our [Wallet Setup page](../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/).
+PHI Network is compatible with [most Web 3 wallets](../use-phi-smart-chain/compatible-wallets/) that supports Ethereum and allow custom networks to be added, including the widely used [MetaMask](../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/install-metamask/metamask-setup.md) and [Coinbase](broken-reference) Wallet applications. You can find more information on how to get your Web 3 wallet up and running on PHI Network in our [Wallet Setup page](../use-phi-smart-chain/compatible-wallets/create-smart-chain-wallet/additional-compatible-wallets-setup/).
 
 ### Using the Public APIs
 
