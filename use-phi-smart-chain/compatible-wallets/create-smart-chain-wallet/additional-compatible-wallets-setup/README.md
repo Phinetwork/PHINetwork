@@ -7,25 +7,21 @@ description: >-
 
 # 🏦 Additional Compatible Wallets Setup
 
-## Connection Details <a href="#connection-details" id="connection-details"></a>
+Connection Details
 
 You will need to setup your wallet in order to use PHI Smart Chain, and you can use the parameters below to configure it with your preferred wallet provider. If you are using a private ledger, you will have to contact your server administrator to request the connection parameters of the network you are trying to connect to.
 
 Fastest Way To Automatically Set Up Both Chains Within Any Web3 Wallet Is Go To&#x20;
 
-{% embed url="https://phi.exchange" %}
+[Phiscan.com](https://phiscan.com)
 
-Go To Both The [V1 Chain ID 4181](https://swap.phi.exchange) & v2 [Chain ID 144](https://app.phi.network)
+&#x20;[Chain ID 144](https://app.phi.network)
 
 Connect Your Wallet Within Your Wallets Dapp Browser By Clicking "Metamask" Even If Your Inside Another Wallets Dapp Browser. Do This With Each Each Exchange & The Chains Will Be Automatically Added To Your Wallet.&#x20;
 
 Below You Will Find The Manual Connection Details.&#x20;
 
-{% hint style="info" %}
-Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Services Use The v2 Chain. v1 Chain is geared more towards private peer to peer transactions.&#x20;
-{% endhint %}
-
-## **PHI Smart Chain v2 Connection Details:**
+## **PHI Smart Chain Connection Details:**
 
 <figure><img src="../../../../.gitbook/assets/D1603B0F-C32A-4275-B67A-760B286FB3DE.JPEG" alt=""><figcaption><p>v2 connection details</p></figcaption></figure>
 
@@ -35,21 +31,6 @@ Majority Of PHI Network On Chain High Performance dApps & Enterprise Merchant Se
 * **Symbol:** Φ
 * **Block Explorer:** https://phiscan.com
 * **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
-
-{% hint style="success" %}
-For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form.
-{% endhint %}
-
-## PHI Smart Chain v1 Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
-
-* **Network Name:** PHI
-* **RPC URL:** [https://rpc1.phi.network/](https://rpc1.phi.network)​
-* **Chain ID: 4181**
-* **Symbol: Φ**
-* **Block Explorer:** [`https://explorer.phi.network`](https://explorer.phi.network)
-* **Logo URL**: [https://dev.phi.network/phistorage/2022/05/phi.png](https://dev.phi.network/phistorage/2022/05/phi.png)
-
-![v1 connection details](../../../../.gitbook/assets/IMG\_5312.PNG)
 
 {% hint style="success" %}
 For Your Convenience Copy & Paste The Listed Above Credentials In The Add Network Form.
@@ -84,16 +65,6 @@ Great To Use If You Want To Display The Value Of Tokens In Fiat Within The Walle
 ### Alternative RPCs <a href="#alternative-rpcs" id="alternative-rpcs"></a>
 
 We only recommend the usage of alternative [RPCs](https://docs.phi.network/phi-wiki/glossary#r) for advanced users, or if the main [RPC](https://docs.phi.network/phi-wiki/glossary#r) isn't working for you. Please get in touch with[ support team](https://phi.support) if you can't connect to the network. Some wallets - mostly on mobile devices - won't accept non-SSL RPCs.&#x20;
-
-v1 chain Additional RPC Address:&#x20;
-
-`https://rpc2.phi.network/`**🔒 SSL**
-
-v2 chain Additional RPC Address:&#x20;
-
-`https://connect.phi.network/`**🔒 SSL**
-
-
 
 ## Connecting to Private Ledger <a href="#connecting-to-private-ledger" id="connecting-to-private-ledger"></a>
 
